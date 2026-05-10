@@ -23,9 +23,10 @@
     "eur_foil": "8.87",
     "tix": null
   },
+  "cardmarket_id": 850359,
   "foil": true,
   "nonfoil": false,
   "scryfall_uri": "https://scryfall.com/card/sld/1953/mountain?utm_source=api",
   "uri": "https://api.scryfall.com/cards/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e",
-  "_catalogFetchedAt": "2026-05-10T22:32:04.830Z"
+  "_catalogFetchedAt": "2026-05-10T23:02:28.939Z"
 }

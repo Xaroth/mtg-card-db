@@ -23,9 +23,10 @@
     "eur_foil": "4.49",
     "tix": "0.03"
   },
+  "cardmarket_id": 374409,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/mh1/251/snow-covered-island?utm_source=api",
   "uri": "https://api.scryfall.com/cards/8ac1fceb-8427-409c-98a4-9a5c1ff980b4",
-  "_catalogFetchedAt": "2026-05-10T22:29:49.855Z"
+  "_catalogFetchedAt": "2026-05-10T23:02:08.690Z"
 }

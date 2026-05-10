@@ -23,9 +23,10 @@
     "eur_foil": "8.83",
     "tix": null
   },
+  "cardmarket_id": 880321,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/sld/7104/reliquary-tower?utm_source=api",
   "uri": "https://api.scryfall.com/cards/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e",
-  "_catalogFetchedAt": "2026-05-10T22:32:07.374Z"
+  "_catalogFetchedAt": "2026-05-10T23:02:31.543Z"
 }

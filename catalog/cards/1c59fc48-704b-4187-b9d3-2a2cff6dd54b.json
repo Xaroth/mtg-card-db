@@ -23,9 +23,10 @@
     "eur_foil": "2.63",
     "tix": "0.03"
   },
+  "cardmarket_id": 374418,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/mh1/254/snow-covered-forest?utm_source=api",
   "uri": "https://api.scryfall.com/cards/1c59fc48-704b-4187-b9d3-2a2cff6dd54b",
-  "_catalogFetchedAt": "2026-05-10T22:29:50.157Z"
+  "_catalogFetchedAt": "2026-05-10T23:02:09.291Z"
 }

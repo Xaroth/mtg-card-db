@@ -23,9 +23,10 @@
     "eur_foil": null,
     "tix": null
   },
+  "cardmarket_id": 884796,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/sld/2541/island?utm_source=api",
   "uri": "https://api.scryfall.com/cards/212e84a3-e028-42a6-a639-f42b64ab7015",
-  "_catalogFetchedAt": "2026-05-10T22:32:06.372Z"
+  "_catalogFetchedAt": "2026-05-10T23:02:30.545Z"
 }

@@ -23,9 +23,10 @@
     "eur_foil": "0.24",
     "tix": "0.03"
   },
+  "cardmarket_id": 864626,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/ecl/279/plains?utm_source=api",
   "uri": "https://api.scryfall.com/cards/d8fdfa7d-fd11-4c11-8743-a21538474314",
-  "_catalogFetchedAt": "2026-05-10T22:16:02.746Z"
+  "_catalogFetchedAt": "2026-05-10T23:01:54.267Z"
 }

@@ -23,9 +23,10 @@
     "eur_foil": "4.93",
     "tix": "0.03"
   },
+  "cardmarket_id": 287051,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/ogw/184/wastes?utm_source=api",
   "uri": "https://api.scryfall.com/cards/69b215fe-0d97-4ca1-9490-174220fd454b",
-  "_catalogFetchedAt": "2026-05-10T22:29:54.472Z"
+  "_catalogFetchedAt": "2026-05-10T23:02:17.918Z"
 }

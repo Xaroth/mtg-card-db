@@ -23,9 +23,10 @@
     "eur_foil": "0.73",
     "tix": "0.04"
   },
+  "cardmarket_id": 295695,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/akh/254/forest?utm_source=api",
   "uri": "https://api.scryfall.com/cards/2c2fc9f7-21af-4416-abf5-6fcb4f543680",
-  "_catalogFetchedAt": "2026-05-10T22:15:54.402Z"
+  "_catalogFetchedAt": "2026-05-10T23:01:37.444Z"
 }

@@ -38,9 +38,10 @@
     "eur_foil": "6.54",
     "tix": "0.15"
   },
+  "cardmarket_id": 740990,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/rex/26/command-tower-command-tower?utm_source=api",
   "uri": "https://api.scryfall.com/cards/bffbe9ec-edbc-43ed-a3bf-60635e7e625c",
-  "_catalogFetchedAt": "2026-05-10T22:29:58.082Z"
+  "_catalogFetchedAt": "2026-05-10T23:02:25.131Z"
 }

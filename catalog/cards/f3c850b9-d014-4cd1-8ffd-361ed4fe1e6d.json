@@ -23,9 +23,10 @@
     "eur_foil": "5.84",
     "tix": "3.87"
   },
+  "cardmarket_id": 586720,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/unf/242/swamp?utm_source=api",
   "uri": "https://api.scryfall.com/cards/f3c850b9-d014-4cd1-8ffd-361ed4fe1e6d",
-  "_catalogFetchedAt": "2026-05-10T22:32:24.319Z"
+  "_catalogFetchedAt": "2026-05-10T23:02:48.181Z"
 }

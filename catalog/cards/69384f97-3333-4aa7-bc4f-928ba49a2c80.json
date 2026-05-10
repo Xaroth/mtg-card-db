@@ -23,9 +23,10 @@
     "eur_foil": null,
     "tix": null
   },
+  "cardmarket_id": 11946,
   "foil": false,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/ugl/86/swamp?utm_source=api",
   "uri": "https://api.scryfall.com/cards/69384f97-3333-4aa7-bc4f-928ba49a2c80",
-  "_catalogFetchedAt": "2026-05-10T22:32:21.318Z"
+  "_catalogFetchedAt": "2026-05-10T23:02:45.174Z"
 }

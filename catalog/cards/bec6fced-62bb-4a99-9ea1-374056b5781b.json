@@ -23,9 +23,10 @@
     "eur_foil": "0.72",
     "tix": "0.04"
   },
+  "cardmarket_id": 295692,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/akh/251/island?utm_source=api",
   "uri": "https://api.scryfall.com/cards/bec6fced-62bb-4a99-9ea1-374056b5781b",
-  "_catalogFetchedAt": "2026-05-10T22:15:54.101Z"
+  "_catalogFetchedAt": "2026-05-10T23:01:36.845Z"
 }

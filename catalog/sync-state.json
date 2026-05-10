@@ -1,15 +1,16 @@
 {
-  "lastSyncAt": "2026-05-10T22:42:07.629Z",
-  "full": false,
+  "lastSyncAt": "2026-05-10T23:03:02.612Z",
+  "full": true,
+  "cardsOnly": true,
   "cardTargets": 450,
-  "cardsFetched": 0,
-  "cardsSkipped": 450,
+  "cardsFetched": 450,
+  "cardsSkipped": 0,
   "setsFetched": 0,
-  "setsSkipped": 1038,
+  "setsSkipped": 0,
   "iconsFetched": 0,
-  "iconsSkipped": 1038,
+  "iconsSkipped": 0,
   "symbologyJsonFetched": false,
   "cardSymbolsFetched": 0,
-  "cardSymbolsSkipped": 84,
+  "cardSymbolsSkipped": 0,
   "errors": []
 }
