@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "3e2b178a-4f7b-4bb3-9af3-3c1ffcdfaa3e",
+  "code": "pblb",
+  "name": "Bloomburrow Promos",
+  "uri": "https://api.scryfall.com/sets/3e2b178a-4f7b-4bb3-9af3-3c1ffcdfaa3e",
+  "scryfall_uri": "https://scryfall.com/sets/pblb",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apblb&unique=prints",
+  "released_at": "2024-08-02",
+  "set_type": "promo",
+  "card_count": 160,
+  "parent_set_code": "blb",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/blb.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:28.971Z"
+}

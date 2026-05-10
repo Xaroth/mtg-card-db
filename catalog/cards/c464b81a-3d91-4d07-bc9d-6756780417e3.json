@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "c464b81a-3d91-4d07-bc9d-6756780417e3",
+  "name": "Mountain",
+  "set": "bro",
+  "set_name": "The Brothers' War",
+  "collector_number": "284",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/4/c464b81a-3d91-4d07-bc9d-6756780417e3.jpg?1674422359",
+    "normal": "https://cards.scryfall.io/normal/front/c/4/c464b81a-3d91-4d07-bc9d-6756780417e3.jpg?1674422359",
+    "large": "https://cards.scryfall.io/large/front/c/4/c464b81a-3d91-4d07-bc9d-6756780417e3.jpg?1674422359",
+    "png": "https://cards.scryfall.io/png/front/c/4/c464b81a-3d91-4d07-bc9d-6756780417e3.png?1674422359",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/4/c464b81a-3d91-4d07-bc9d-6756780417e3.jpg?1674422359",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/4/c464b81a-3d91-4d07-bc9d-6756780417e3.jpg?1674422359"
+  },
+  "prices": {
+    "usd": "0.39",
+    "usd_foil": "0.51",
+    "usd_etched": null,
+    "eur": "0.33",
+    "eur_foil": "0.35",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/bro/284/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/c464b81a-3d91-4d07-bc9d-6756780417e3",
+  "_catalogFetchedAt": "2026-05-10T22:15:59.412Z"
+}

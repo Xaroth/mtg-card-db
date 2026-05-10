@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "8c48e6a3-51df-467b-b251-aaa17095787b",
+  "code": "tecc",
+  "name": "Lorwyn Eclipsed Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/8c48e6a3-51df-467b-b251-aaa17095787b",
+  "scryfall_uri": "https://scryfall.com/sets/tecc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atecc&unique=prints",
+  "released_at": "2026-01-23",
+  "set_type": "token",
+  "card_count": 13,
+  "parent_set_code": "ecc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ecc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:51.696Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "5665190e-ea2a-498e-9c4f-f0bc514bd80c",
+  "name": "Plains",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "collector_number": "267",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/6/5665190e-ea2a-498e-9c4f-f0bc514bd80c.jpg?1681845982",
+    "normal": "https://cards.scryfall.io/normal/front/5/6/5665190e-ea2a-498e-9c4f-f0bc514bd80c.jpg?1681845982",
+    "large": "https://cards.scryfall.io/large/front/5/6/5665190e-ea2a-498e-9c4f-f0bc514bd80c.jpg?1681845982",
+    "png": "https://cards.scryfall.io/png/front/5/6/5665190e-ea2a-498e-9c4f-f0bc514bd80c.png?1681845982",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/6/5665190e-ea2a-498e-9c4f-f0bc514bd80c.jpg?1681845982",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/6/5665190e-ea2a-498e-9c4f-f0bc514bd80c.jpg?1681845982"
+  },
+  "prices": {
+    "usd": "0.20",
+    "usd_foil": "0.42",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.33",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/znr/267/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/5665190e-ea2a-498e-9c4f-f0bc514bd80c",
+  "_catalogFetchedAt": "2026-05-10T22:32:36.130Z"
+}

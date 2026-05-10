@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "a4db1b7a-93f2-40a5-b649-80a099ddeb62",
+  "name": "Mountain",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "collector_number": "290",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1743205146",
+    "normal": "https://cards.scryfall.io/normal/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1743205146",
+    "large": "https://cards.scryfall.io/large/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1743205146",
+    "png": "https://cards.scryfall.io/png/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.png?1743205146",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1743205146",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1743205146"
+  },
+  "prices": {
+    "usd": "13.18",
+    "usd_foil": "24.82",
+    "usd_etched": null,
+    "eur": "7.99",
+    "eur_foil": "10.97",
+    "tix": "3.31"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/tdm/290/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/a4db1b7a-93f2-40a5-b649-80a099ddeb62",
+  "_catalogFetchedAt": "2026-05-10T22:32:13.509Z"
+}

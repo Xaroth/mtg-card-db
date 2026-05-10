@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "e2876a7e-3444-49cc-a299-aae5094f3566",
+  "code": "pxln",
+  "name": "Ixalan Promos",
+  "uri": "https://api.scryfall.com/sets/e2876a7e-3444-49cc-a299-aae5094f3566",
+  "scryfall_uri": "https://scryfall.com/sets/pxln",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apxln&unique=prints",
+  "released_at": "2017-09-29",
+  "set_type": "promo",
+  "card_count": 120,
+  "parent_set_code": "xln",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "xln",
+  "block": "Ixalan",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/xln.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:22.799Z"
+}

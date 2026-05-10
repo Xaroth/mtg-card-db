@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "5b046a48-760d-4192-a8e8-8725c9052a6e",
+  "code": "sis",
+  "name": "Shadows of the Past",
+  "uri": "https://api.scryfall.com/sets/5b046a48-760d-4192-a8e8-8725c9052a6e",
+  "scryfall_uri": "https://scryfall.com/sets/sis",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asis&unique=prints",
+  "released_at": "2023-03-21",
+  "set_type": "masters",
+  "card_count": 76,
+  "parent_set_code": "sir",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/sis.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:28.408Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "69b215fe-0d97-4ca1-9490-174220fd454b",
+  "name": "Wastes",
+  "set": "ogw",
+  "set_name": "Oath of the Gatewatch",
+  "collector_number": "184",
+  "rarity": "common",
+  "type_line": "Basic Land",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/9/69b215fe-0d97-4ca1-9490-174220fd454b.jpg?1562916234",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/69b215fe-0d97-4ca1-9490-174220fd454b.jpg?1562916234",
+    "large": "https://cards.scryfall.io/large/front/6/9/69b215fe-0d97-4ca1-9490-174220fd454b.jpg?1562916234",
+    "png": "https://cards.scryfall.io/png/front/6/9/69b215fe-0d97-4ca1-9490-174220fd454b.png?1562916234",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/69b215fe-0d97-4ca1-9490-174220fd454b.jpg?1562916234",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/69b215fe-0d97-4ca1-9490-174220fd454b.jpg?1562916234"
+  },
+  "prices": {
+    "usd": "0.57",
+    "usd_foil": "6.66",
+    "usd_etched": null,
+    "eur": "0.30",
+    "eur_foil": "4.93",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ogw/184/wastes?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/69b215fe-0d97-4ca1-9490-174220fd454b",
+  "_catalogFetchedAt": "2026-05-10T22:29:54.472Z"
+}

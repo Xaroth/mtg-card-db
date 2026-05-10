@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "f7d41f5e-b377-4b58-b13e-9b07dc39668c",
+  "code": "ytdm",
+  "name": "Alchemy: Tarkir",
+  "uri": "https://api.scryfall.com/sets/f7d41f5e-b377-4b58-b13e-9b07dc39668c",
+  "scryfall_uri": "https://scryfall.com/sets/ytdm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aytdm&unique=prints",
+  "released_at": "2025-04-29",
+  "set_type": "alchemy",
+  "card_count": 30,
+  "parent_set_code": "tdm",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y25.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:37.442Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "106a5332-0104-4ec9-9e1f-806381ae4cad",
+  "name": "Island",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "collector_number": "266",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/0/106a5332-0104-4ec9-9e1f-806381ae4cad.jpg?1721427389",
+    "normal": "https://cards.scryfall.io/normal/front/1/0/106a5332-0104-4ec9-9e1f-806381ae4cad.jpg?1721427389",
+    "large": "https://cards.scryfall.io/large/front/1/0/106a5332-0104-4ec9-9e1f-806381ae4cad.jpg?1721427389",
+    "png": "https://cards.scryfall.io/png/front/1/0/106a5332-0104-4ec9-9e1f-806381ae4cad.png?1721427389",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/0/106a5332-0104-4ec9-9e1f-806381ae4cad.jpg?1721427389",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/0/106a5332-0104-4ec9-9e1f-806381ae4cad.jpg?1721427389"
+  },
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": "0.36",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "0.31",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/blb/266/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/106a5332-0104-4ec9-9e1f-806381ae4cad",
+  "_catalogFetchedAt": "2026-05-10T22:15:57.304Z"
+}

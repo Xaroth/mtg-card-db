@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "c318bae5-5d3f-4e91-adfe-13c182511ef7",
+  "name": "Forest",
+  "set": "hou",
+  "set_name": "Hour of Devastation",
+  "collector_number": "189",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/3/c318bae5-5d3f-4e91-adfe-13c182511ef7.jpg?1562813875",
+    "normal": "https://cards.scryfall.io/normal/front/c/3/c318bae5-5d3f-4e91-adfe-13c182511ef7.jpg?1562813875",
+    "large": "https://cards.scryfall.io/large/front/c/3/c318bae5-5d3f-4e91-adfe-13c182511ef7.jpg?1562813875",
+    "png": "https://cards.scryfall.io/png/front/c/3/c318bae5-5d3f-4e91-adfe-13c182511ef7.png?1562813875",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/3/c318bae5-5d3f-4e91-adfe-13c182511ef7.jpg?1562813875",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/3/c318bae5-5d3f-4e91-adfe-13c182511ef7.jpg?1562813875"
+  },
+  "prices": {
+    "usd": "0.40",
+    "usd_foil": "0.85",
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": "0.92",
+    "tix": "0.05"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/hou/189/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/c318bae5-5d3f-4e91-adfe-13c182511ef7",
+  "_catalogFetchedAt": "2026-05-10T22:29:48.152Z"
+}

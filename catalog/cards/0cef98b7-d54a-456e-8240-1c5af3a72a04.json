@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "0cef98b7-d54a-456e-8240-1c5af3a72a04",
+  "name": "Mountain",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "collector_number": "575",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/c/0cef98b7-d54a-456e-8240-1c5af3a72a04.jpg?1748707608",
+    "normal": "https://cards.scryfall.io/normal/front/0/c/0cef98b7-d54a-456e-8240-1c5af3a72a04.jpg?1748707608",
+    "large": "https://cards.scryfall.io/large/front/0/c/0cef98b7-d54a-456e-8240-1c5af3a72a04.jpg?1748707608",
+    "png": "https://cards.scryfall.io/png/front/0/c/0cef98b7-d54a-456e-8240-1c5af3a72a04.png?1748707608",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/c/0cef98b7-d54a-456e-8240-1c5af3a72a04.jpg?1748707608",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/c/0cef98b7-d54a-456e-8240-1c5af3a72a04.jpg?1748707608"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.00",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.99",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/fin/575/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/0cef98b7-d54a-456e-8240-1c5af3a72a04",
+  "_catalogFetchedAt": "2026-05-10T22:29:47.551Z"
+}

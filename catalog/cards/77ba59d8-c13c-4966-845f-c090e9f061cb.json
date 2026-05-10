@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "77ba59d8-c13c-4966-845f-c090e9f061cb",
+  "name": "Swamp",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "collector_number": "272",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1699826452",
+    "normal": "https://cards.scryfall.io/normal/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1699826452",
+    "large": "https://cards.scryfall.io/large/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1699826452",
+    "png": "https://cards.scryfall.io/png/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.png?1699826452",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1699826452",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/7/77ba59d8-c13c-4966-845f-c090e9f061cb.jpg?1699826452"
+  },
+  "prices": {
+    "usd": "1.03",
+    "usd_foil": "1.88",
+    "usd_etched": null,
+    "eur": "0.54",
+    "eur_foil": "1.37",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/mid/272/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/77ba59d8-c13c-4966-845f-c090e9f061cb",
+  "_catalogFetchedAt": "2026-05-10T22:29:51.258Z"
+}

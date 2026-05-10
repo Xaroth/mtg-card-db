@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "8c13cafb-3078-4856-a5b0-c38aace8a34a",
+  "name": "Forest",
+  "set": "lci",
+  "set_name": "The Lost Caverns of Ixalan",
+  "collector_number": "291",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/c/8c13cafb-3078-4856-a5b0-c38aace8a34a.jpg?1699044730",
+    "normal": "https://cards.scryfall.io/normal/front/8/c/8c13cafb-3078-4856-a5b0-c38aace8a34a.jpg?1699044730",
+    "large": "https://cards.scryfall.io/large/front/8/c/8c13cafb-3078-4856-a5b0-c38aace8a34a.jpg?1699044730",
+    "png": "https://cards.scryfall.io/png/front/8/c/8c13cafb-3078-4856-a5b0-c38aace8a34a.png?1699044730",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/c/8c13cafb-3078-4856-a5b0-c38aace8a34a.jpg?1699044730",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/c/8c13cafb-3078-4856-a5b0-c38aace8a34a.jpg?1699044730"
+  },
+  "prices": {
+    "usd": "1.08",
+    "usd_foil": "1.53",
+    "usd_etched": null,
+    "eur": "0.39",
+    "eur_foil": "0.71",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/lci/291/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/8c13cafb-3078-4856-a5b0-c38aace8a34a",
+  "_catalogFetchedAt": "2026-05-10T22:29:48.654Z"
+}

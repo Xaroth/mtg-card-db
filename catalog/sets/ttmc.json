@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "1b3d029e-609e-44de-a210-8c6a531dffc4",
+  "code": "ttmc",
+  "name": "Teenage Mutant Ninja Turtles Eternal Tokens",
+  "uri": "https://api.scryfall.com/sets/1b3d029e-609e-44de-a210-8c6a531dffc4",
+  "scryfall_uri": "https://scryfall.com/sets/ttmc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Attmc&unique=prints",
+  "released_at": "2026-03-06",
+  "set_type": "token",
+  "card_count": 31,
+  "parent_set_code": "tmc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tmc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:17.117Z"
+}

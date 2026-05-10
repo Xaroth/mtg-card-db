@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "909bf1bb-3277-41d6-af0f-293df1203099",
+  "code": "pwoe",
+  "name": "Wilds of Eldraine Promos",
+  "uri": "https://api.scryfall.com/sets/909bf1bb-3277-41d6-af0f-293df1203099",
+  "scryfall_uri": "https://scryfall.com/sets/pwoe",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apwoe&unique=prints",
+  "released_at": "2023-09-08",
+  "set_type": "promo",
+  "card_count": 160,
+  "parent_set_code": "woe",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/woe.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:22.030Z"
+}

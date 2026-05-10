@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "53a599cf-9e16-4bc1-91b9-95e541e0848d",
+  "code": "teld",
+  "name": "Throne of Eldraine Tokens",
+  "uri": "https://api.scryfall.com/sets/53a599cf-9e16-4bc1-91b9-95e541e0848d",
+  "scryfall_uri": "https://scryfall.com/sets/teld",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ateld&unique=prints",
+  "released_at": "2019-10-04",
+  "set_type": "token",
+  "card_count": 20,
+  "parent_set_code": "eld",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/eld.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:52.089Z"
+}

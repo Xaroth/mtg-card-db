@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "3e69d407-6a48-4073-97b3-9b7720aed6b6",
+  "code": "psvc",
+  "name": "Summer Vacation Promos 2022",
+  "uri": "https://api.scryfall.com/sets/3e69d407-6a48-4073-97b3-9b7720aed6b6",
+  "scryfall_uri": "https://scryfall.com/sets/psvc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apsvc&unique=prints",
+  "released_at": "2022-08-01",
+  "set_type": "promo",
+  "card_count": 3,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:14.712Z"
+}

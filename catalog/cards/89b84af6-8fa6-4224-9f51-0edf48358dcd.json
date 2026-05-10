@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "89b84af6-8fa6-4224-9f51-0edf48358dcd",
+  "name": "Swamp",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "2511",
+  "rarity": "rare",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/9/89b84af6-8fa6-4224-9f51-0edf48358dcd.jpg?1770130604",
+    "normal": "https://cards.scryfall.io/normal/front/8/9/89b84af6-8fa6-4224-9f51-0edf48358dcd.jpg?1770130604",
+    "large": "https://cards.scryfall.io/large/front/8/9/89b84af6-8fa6-4224-9f51-0edf48358dcd.jpg?1770130604",
+    "png": "https://cards.scryfall.io/png/front/8/9/89b84af6-8fa6-4224-9f51-0edf48358dcd.png?1770130604",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/9/89b84af6-8fa6-4224-9f51-0edf48358dcd.jpg?1770130604",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/9/89b84af6-8fa6-4224-9f51-0edf48358dcd.jpg?1770130604"
+  },
+  "prices": {
+    "usd": "6.27",
+    "usd_foil": "7.10",
+    "usd_etched": null,
+    "eur": "4.78",
+    "eur_foil": "4.65",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/sld/2511/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/89b84af6-8fa6-4224-9f51-0edf48358dcd",
+  "_catalogFetchedAt": "2026-05-10T22:32:05.570Z"
+}

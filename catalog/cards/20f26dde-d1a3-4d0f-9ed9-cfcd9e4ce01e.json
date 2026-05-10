@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "20f26dde-d1a3-4d0f-9ed9-cfcd9e4ce01e",
+  "name": "Swamp",
+  "set": "tmt",
+  "set_name": "Teenage Mutant Ninja Turtles",
+  "collector_number": "255",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/0/20f26dde-d1a3-4d0f-9ed9-cfcd9e4ce01e.jpg?1760103009",
+    "normal": "https://cards.scryfall.io/normal/front/2/0/20f26dde-d1a3-4d0f-9ed9-cfcd9e4ce01e.jpg?1760103009",
+    "large": "https://cards.scryfall.io/large/front/2/0/20f26dde-d1a3-4d0f-9ed9-cfcd9e4ce01e.jpg?1760103009",
+    "png": "https://cards.scryfall.io/png/front/2/0/20f26dde-d1a3-4d0f-9ed9-cfcd9e4ce01e.png?1760103009",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/0/20f26dde-d1a3-4d0f-9ed9-cfcd9e4ce01e.jpg?1760103009",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/0/20f26dde-d1a3-4d0f-9ed9-cfcd9e4ce01e.jpg?1760103009"
+  },
+  "prices": {
+    "usd": "0.48",
+    "usd_foil": "0.81",
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": "0.40",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/tmt/255/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/20f26dde-d1a3-4d0f-9ed9-cfcd9e4ce01e",
+  "_catalogFetchedAt": "2026-05-10T22:32:18.316Z"
+}

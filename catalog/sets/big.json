@@ -1,0 +1,23 @@
+{
+  "object": "set",
+  "id": "14332d2c-ba93-4498-bf3f-9d601f88f783",
+  "code": "big",
+  "mtgo_code": "big",
+  "arena_code": "big",
+  "tcgplayer_id": 23443,
+  "name": "The Big Score",
+  "uri": "https://api.scryfall.com/sets/14332d2c-ba93-4498-bf3f-9d601f88f783",
+  "scryfall_uri": "https://scryfall.com/sets/big",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Abig&unique=prints",
+  "released_at": "2024-04-19",
+  "set_type": "expansion",
+  "card_count": 95,
+  "parent_set_code": "otj",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "otj",
+  "block": "Outlaws of Thunder Junction",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/big.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:55.810Z"
+}

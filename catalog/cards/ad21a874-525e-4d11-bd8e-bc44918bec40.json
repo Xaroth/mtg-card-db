@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "ad21a874-525e-4d11-bd8e-bc44918bec40",
+  "name": "Snow-Covered Wastes",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "collector_number": "309",
+  "rarity": "uncommon",
+  "type_line": "Basic Snow Land",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/d/ad21a874-525e-4d11-bd8e-bc44918bec40.jpg?1717013894",
+    "normal": "https://cards.scryfall.io/normal/front/a/d/ad21a874-525e-4d11-bd8e-bc44918bec40.jpg?1717013894",
+    "large": "https://cards.scryfall.io/large/front/a/d/ad21a874-525e-4d11-bd8e-bc44918bec40.jpg?1717013894",
+    "png": "https://cards.scryfall.io/png/front/a/d/ad21a874-525e-4d11-bd8e-bc44918bec40.png?1717013894",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/d/ad21a874-525e-4d11-bd8e-bc44918bec40.jpg?1717013894",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/d/ad21a874-525e-4d11-bd8e-bc44918bec40.jpg?1717013894"
+  },
+  "prices": {
+    "usd": "0.90",
+    "usd_foil": "1.59",
+    "usd_etched": null,
+    "eur": "0.44",
+    "eur_foil": "0.83",
+    "tix": "0.57"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/mh3/309/snow-covered-wastes?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/ad21a874-525e-4d11-bd8e-bc44918bec40",
+  "_catalogFetchedAt": "2026-05-10T22:29:50.756Z"
+}

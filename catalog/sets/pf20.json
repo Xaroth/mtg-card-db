@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "09e53c37-1e43-4f45-933d-af75b9cd6f76",
+  "code": "pf20",
+  "name": "MagicFest 2020",
+  "uri": "https://api.scryfall.com/sets/09e53c37-1e43-4f45-933d-af75b9cd6f76",
+  "scryfall_uri": "https://scryfall.com/sets/pf20",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apf20&unique=prints",
+  "released_at": "2020-01-01",
+  "set_type": "promo",
+  "card_count": 6,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:38.196Z"
+}

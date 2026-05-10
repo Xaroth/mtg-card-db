@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "b62d5489-bd48-4f61-b821-d35d521c390d",
+  "code": "macr",
+  "name": "Assassin's Creed Minigames",
+  "uri": "https://api.scryfall.com/sets/b62d5489-bd48-4f61-b821-d35d521c390d",
+  "scryfall_uri": "https://scryfall.com/sets/macr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amacr&unique=prints",
+  "released_at": "2024-07-05",
+  "set_type": "minigame",
+  "card_count": 3,
+  "parent_set_code": "acr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/acr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:54.282Z"
+}

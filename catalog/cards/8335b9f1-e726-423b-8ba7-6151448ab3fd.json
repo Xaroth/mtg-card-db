@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "8335b9f1-e726-423b-8ba7-6151448ab3fd",
+  "name": "Forest",
+  "set": "eoe",
+  "set_name": "Edge of Eternities",
+  "collector_number": "266",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/3/8335b9f1-e726-423b-8ba7-6151448ab3fd.jpg?1752947639",
+    "normal": "https://cards.scryfall.io/normal/front/8/3/8335b9f1-e726-423b-8ba7-6151448ab3fd.jpg?1752947639",
+    "large": "https://cards.scryfall.io/large/front/8/3/8335b9f1-e726-423b-8ba7-6151448ab3fd.jpg?1752947639",
+    "png": "https://cards.scryfall.io/png/front/8/3/8335b9f1-e726-423b-8ba7-6151448ab3fd.png?1752947639",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/3/8335b9f1-e726-423b-8ba7-6151448ab3fd.jpg?1752947639",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/3/8335b9f1-e726-423b-8ba7-6151448ab3fd.jpg?1752947639"
+  },
+  "prices": {
+    "usd": "1.22",
+    "usd_foil": "1.21",
+    "usd_etched": null,
+    "eur": "0.92",
+    "eur_foil": "1.08",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/eoe/266/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/8335b9f1-e726-423b-8ba7-6151448ab3fd",
+  "_catalogFetchedAt": "2026-05-10T22:16:03.645Z"
+}

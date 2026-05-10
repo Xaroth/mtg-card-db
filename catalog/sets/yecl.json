@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "1898a31a-88cb-48ef-9d6b-f91822e509b7",
+  "code": "yecl",
+  "name": "Alchemy: Lorwyn Eclipsed",
+  "uri": "https://api.scryfall.com/sets/1898a31a-88cb-48ef-9d6b-f91822e509b7",
+  "scryfall_uri": "https://scryfall.com/sets/yecl",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ayecl&unique=prints",
+  "released_at": "2026-02-03",
+  "set_type": "alchemy",
+  "card_count": 30,
+  "parent_set_code": "ecl",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y26.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:35.633Z"
+}

@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "5a645837-b050-449f-ac90-1e7ccbf45031",
+  "code": "2x2",
+  "tcgplayer_id": 3070,
+  "name": "Double Masters 2022",
+  "uri": "https://api.scryfall.com/sets/5a645837-b050-449f-ac90-1e7ccbf45031",
+  "scryfall_uri": "https://scryfall.com/sets/2x2",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A2x2&unique=prints",
+  "released_at": "2022-07-08",
+  "set_type": "masters",
+  "card_count": 579,
+  "printed_size": 331,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/2x2.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:40.162Z"
+}

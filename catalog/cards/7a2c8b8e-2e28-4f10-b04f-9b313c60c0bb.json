@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "7a2c8b8e-2e28-4f10-b04f-9b313c60c0bb",
+  "name": "Plains",
+  "set": "ust",
+  "set_name": "Unstable",
+  "collector_number": "212",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/a/7a2c8b8e-2e28-4f10-b04f-9b313c60c0bb.jpg?1665800252",
+    "normal": "https://cards.scryfall.io/normal/front/7/a/7a2c8b8e-2e28-4f10-b04f-9b313c60c0bb.jpg?1665800252",
+    "large": "https://cards.scryfall.io/large/front/7/a/7a2c8b8e-2e28-4f10-b04f-9b313c60c0bb.jpg?1665800252",
+    "png": "https://cards.scryfall.io/png/front/7/a/7a2c8b8e-2e28-4f10-b04f-9b313c60c0bb.png?1665800252",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7a2c8b8e-2e28-4f10-b04f-9b313c60c0bb.jpg?1665800252",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7a2c8b8e-2e28-4f10-b04f-9b313c60c0bb.jpg?1665800252"
+  },
+  "prices": {
+    "usd": "2.48",
+    "usd_foil": "37.73",
+    "usd_etched": null,
+    "eur": "1.66",
+    "eur_foil": "25.42",
+    "tix": "0.04"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ust/212/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/7a2c8b8e-2e28-4f10-b04f-9b313c60c0bb",
+  "_catalogFetchedAt": "2026-05-10T22:32:27.923Z"
+}

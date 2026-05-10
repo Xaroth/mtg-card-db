@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "20e53d4f-2ce8-4d82-9c7c-e6378a0134ad",
+  "code": "h2r",
+  "name": "Modern Horizons 2 Timeshifts",
+  "uri": "https://api.scryfall.com/sets/20e53d4f-2ce8-4d82-9c7c-e6378a0134ad",
+  "scryfall_uri": "https://scryfall.com/sets/h2r",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ah2r&unique=prints",
+  "released_at": "2024-06-07",
+  "set_type": "draft_innovation",
+  "card_count": 16,
+  "parent_set_code": "mh3",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:39.836Z"
+}

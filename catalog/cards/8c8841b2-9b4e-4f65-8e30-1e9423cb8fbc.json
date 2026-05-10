@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "8c8841b2-9b4e-4f65-8e30-1e9423cb8fbc",
+  "name": "Mountain",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "collector_number": "275",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/c/8c8841b2-9b4e-4f65-8e30-1e9423cb8fbc.jpg?1726286901",
+    "normal": "https://cards.scryfall.io/normal/front/8/c/8c8841b2-9b4e-4f65-8e30-1e9423cb8fbc.jpg?1726286901",
+    "large": "https://cards.scryfall.io/large/front/8/c/8c8841b2-9b4e-4f65-8e30-1e9423cb8fbc.jpg?1726286901",
+    "png": "https://cards.scryfall.io/png/front/8/c/8c8841b2-9b4e-4f65-8e30-1e9423cb8fbc.png?1726286901",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/c/8c8841b2-9b4e-4f65-8e30-1e9423cb8fbc.jpg?1726286901",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/c/8c8841b2-9b4e-4f65-8e30-1e9423cb8fbc.jpg?1726286901"
+  },
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": "0.49",
+    "usd_etched": null,
+    "eur": "0.30",
+    "eur_foil": "0.36",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/dsk/275/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/8c8841b2-9b4e-4f65-8e30-1e9423cb8fbc",
+  "_catalogFetchedAt": "2026-05-10T22:16:02.050Z"
+}

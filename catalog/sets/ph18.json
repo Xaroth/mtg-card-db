@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "38346fd1-60eb-4f27-850d-81c9967e8c3e",
+  "code": "ph18",
+  "name": "2018 Heroes of the Realm",
+  "uri": "https://api.scryfall.com/sets/38346fd1-60eb-4f27-850d-81c9967e8c3e",
+  "scryfall_uri": "https://scryfall.com/sets/ph18",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aph18&unique=prints",
+  "released_at": "2019-08-01",
+  "set_type": "funny",
+  "card_count": 4,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "htr",
+  "block": "Heroes of the Realm",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:43.581Z"
+}

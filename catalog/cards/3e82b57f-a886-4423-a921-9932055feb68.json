@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "3e82b57f-a886-4423-a921-9932055feb68",
+  "name": "Plains",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "collector_number": "365",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/e/3e82b57f-a886-4423-a921-9932055feb68.jpg?1682291938",
+    "normal": "https://cards.scryfall.io/normal/front/3/e/3e82b57f-a886-4423-a921-9932055feb68.jpg?1682291938",
+    "large": "https://cards.scryfall.io/large/front/3/e/3e82b57f-a886-4423-a921-9932055feb68.jpg?1682291938",
+    "png": "https://cards.scryfall.io/png/front/3/e/3e82b57f-a886-4423-a921-9932055feb68.png?1682291938",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/e/3e82b57f-a886-4423-a921-9932055feb68.jpg?1682291938",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/e/3e82b57f-a886-4423-a921-9932055feb68.jpg?1682291938"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.18",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "4.74",
+    "tix": "0.97"
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/one/365/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/3e82b57f-a886-4423-a921-9932055feb68",
+  "_catalogFetchedAt": "2026-05-10T22:29:55.577Z"
+}

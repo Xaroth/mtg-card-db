@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "b3161020-d74f-48cc-bc9d-d7233e64e524",
+  "code": "pneo",
+  "name": "Kamigawa: Neon Dynasty Promos",
+  "uri": "https://api.scryfall.com/sets/b3161020-d74f-48cc-bc9d-d7233e64e524",
+  "scryfall_uri": "https://scryfall.com/sets/pneo",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apneo&unique=prints",
+  "released_at": "2022-02-18",
+  "set_type": "promo",
+  "card_count": 148,
+  "parent_set_code": "neo",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:00.204Z"
+}

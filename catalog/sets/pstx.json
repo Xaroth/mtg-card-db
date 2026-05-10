@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "code": "pstx",
+  "name": "Strixhaven: School of Mages Promos",
+  "uri": "https://api.scryfall.com/sets/bc98232b-a539-4f81-92b5-2efc57d38f53",
+  "scryfall_uri": "https://scryfall.com/sets/pstx",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apstx&unique=prints",
+  "released_at": "2021-04-23",
+  "set_type": "promo",
+  "card_count": 164,
+  "parent_set_code": "stx",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:14.013Z"
+}

@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "5461ef40-3b5c-49ea-81d9-67f4ae77c2b5",
+  "code": "pl23",
+  "name": "Year of the Rabbit 2023",
+  "uri": "https://api.scryfall.com/sets/5461ef40-3b5c-49ea-81d9-67f4ae77c2b5",
+  "scryfall_uri": "https://scryfall.com/sets/pl23",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apl23&unique=prints",
+  "released_at": "2023-02-10",
+  "set_type": "promo",
+  "card_count": 6,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:49.582Z"
+}

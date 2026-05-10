@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "a43681f0-e7f5-415b-bf1f-f9e52ad8213c",
+  "code": "pone",
+  "name": "Phyrexia: All Will Be One Promos",
+  "uri": "https://api.scryfall.com/sets/a43681f0-e7f5-415b-bf1f-f9e52ad8213c",
+  "scryfall_uri": "https://scryfall.com/sets/pone",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apone&unique=prints",
+  "released_at": "2023-02-10",
+  "set_type": "promo",
+  "card_count": 160,
+  "parent_set_code": "one",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:01.013Z"
+}

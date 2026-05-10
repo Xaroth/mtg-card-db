@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "d94185a1-24a1-4cd9-855d-8c4d5f5ebf5b",
+  "code": "aneo",
+  "name": "Neon Dynasty Art Series",
+  "uri": "https://api.scryfall.com/sets/d94185a1-24a1-4cd9-855d-8c4d5f5ebf5b",
+  "scryfall_uri": "https://scryfall.com/sets/aneo",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aaneo&unique=prints",
+  "released_at": "2022-02-18",
+  "set_type": "memorabilia",
+  "card_count": 81,
+  "parent_set_code": "neo",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:51.020Z"
+}

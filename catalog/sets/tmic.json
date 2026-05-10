@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "56d23ab2-9edd-4250-bf33-3225c183cc1a",
+  "code": "tmic",
+  "name": "Midnight Hunt Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/56d23ab2-9edd-4250-bf33-3225c183cc1a",
+  "scryfall_uri": "https://scryfall.com/sets/tmic",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmic&unique=prints",
+  "released_at": "2021-09-24",
+  "set_type": "token",
+  "card_count": 11,
+  "printed_size": 11,
+  "parent_set_code": "mic",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mic.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:04.828Z"
+}

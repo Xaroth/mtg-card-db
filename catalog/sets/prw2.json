@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "ee3a8eb6-0583-492b-8be5-265795d38038",
+  "code": "prw2",
+  "name": "RNA Ravnica Weekend",
+  "uri": "https://api.scryfall.com/sets/ee3a8eb6-0583-492b-8be5-265795d38038",
+  "scryfall_uri": "https://scryfall.com/sets/prw2",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aprw2&unique=prints",
+  "released_at": "2019-02-16",
+  "set_type": "promo",
+  "card_count": 10,
+  "parent_set_code": "rna",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "block_code": "grn",
+  "block": "Guilds of Ravnica",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/rna.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:08.449Z"
+}

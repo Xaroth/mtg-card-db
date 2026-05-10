@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "f254a2f7-eeac-4aeb-8487-8583bf39811c",
+  "code": "pa1",
+  "name": "Pioneer Anthology 1",
+  "uri": "https://api.scryfall.com/sets/f254a2f7-eeac-4aeb-8487-8583bf39811c",
+  "scryfall_uri": "https://scryfall.com/sets/pa1",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apa1&unique=prints",
+  "released_at": "2025-05-05",
+  "set_type": "box",
+  "card_count": 11,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:24.362Z"
+}

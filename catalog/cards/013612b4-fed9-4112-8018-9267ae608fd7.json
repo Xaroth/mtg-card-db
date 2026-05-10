@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "013612b4-fed9-4112-8018-9267ae608fd7",
+  "name": "Swamp",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "collector_number": "287",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/1/013612b4-fed9-4112-8018-9267ae608fd7.jpg?1682206033",
+    "normal": "https://cards.scryfall.io/normal/front/0/1/013612b4-fed9-4112-8018-9267ae608fd7.jpg?1682206033",
+    "large": "https://cards.scryfall.io/large/front/0/1/013612b4-fed9-4112-8018-9267ae608fd7.jpg?1682206033",
+    "png": "https://cards.scryfall.io/png/front/0/1/013612b4-fed9-4112-8018-9267ae608fd7.png?1682206033",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/013612b4-fed9-4112-8018-9267ae608fd7.jpg?1682206033",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/013612b4-fed9-4112-8018-9267ae608fd7.jpg?1682206033"
+  },
+  "prices": {
+    "usd": "0.56",
+    "usd_foil": "1.41",
+    "usd_etched": null,
+    "eur": "0.54",
+    "eur_foil": "0.70",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/mom/287/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/013612b4-fed9-4112-8018-9267ae608fd7",
+  "_catalogFetchedAt": "2026-05-10T22:29:52.868Z"
+}

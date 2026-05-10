@@ -1,0 +1,23 @@
+{
+  "object": "set",
+  "id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "code": "vow",
+  "mtgo_code": "vow",
+  "arena_code": "vow",
+  "tcgplayer_id": 2862,
+  "name": "Innistrad: Crimson Vow",
+  "uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "scryfall_uri": "https://scryfall.com/sets/vow",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Avow&unique=prints",
+  "released_at": "2021-11-19",
+  "set_type": "expansion",
+  "card_count": 423,
+  "printed_size": 277,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "dbl",
+  "block": "Innistrad: Double Feature",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:29.214Z"
+}

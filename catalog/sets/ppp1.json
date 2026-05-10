@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "32bb437f-76d4-48d6-a888-8a3491198b46",
+  "code": "ppp1",
+  "name": "M20 Promo Packs",
+  "uri": "https://api.scryfall.com/sets/32bb437f-76d4-48d6-a888-8a3491198b46",
+  "scryfall_uri": "https://scryfall.com/sets/ppp1",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Appp1&unique=prints",
+  "released_at": "2019-07-12",
+  "set_type": "promo",
+  "card_count": 5,
+  "parent_set_code": "m20",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "lea",
+  "block": "Core Set",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:02.796Z"
+}

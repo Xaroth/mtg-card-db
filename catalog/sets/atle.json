@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "73e4a8a8-2b32-4832-bb09-9c94b47a2b2b",
+  "code": "atle",
+  "name": "Avatar: the Last Airbender Eternal Art Series",
+  "uri": "https://api.scryfall.com/sets/73e4a8a8-2b32-4832-bb09-9c94b47a2b2b",
+  "scryfall_uri": "https://scryfall.com/sets/atle",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aatle&unique=prints",
+  "released_at": "2025-11-21",
+  "set_type": "memorabilia",
+  "card_count": 12,
+  "parent_set_code": "tle",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tle.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:53.809Z"
+}

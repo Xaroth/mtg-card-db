@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "fd03645a-f585-43e2-94d3-f8932b7e9284",
+  "code": "tmul",
+  "name": "Multiverse Legends Tokens",
+  "uri": "https://api.scryfall.com/sets/fd03645a-f585-43e2-94d3-f8932b7e9284",
+  "scryfall_uri": "https://scryfall.com/sets/tmul",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmul&unique=prints",
+  "released_at": "2023-04-21",
+  "set_type": "token",
+  "card_count": 2,
+  "parent_set_code": "mul",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mul.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:08.537Z"
+}

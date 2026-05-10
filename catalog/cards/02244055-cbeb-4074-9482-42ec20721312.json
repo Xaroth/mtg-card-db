@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "02244055-cbeb-4074-9482-42ec20721312",
+  "name": "Mountain",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "collector_number": "275",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/2/02244055-cbeb-4074-9482-42ec20721312.jpg?1721427451",
+    "normal": "https://cards.scryfall.io/normal/front/0/2/02244055-cbeb-4074-9482-42ec20721312.jpg?1721427451",
+    "large": "https://cards.scryfall.io/large/front/0/2/02244055-cbeb-4074-9482-42ec20721312.jpg?1721427451",
+    "png": "https://cards.scryfall.io/png/front/0/2/02244055-cbeb-4074-9482-42ec20721312.png?1721427451",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/2/02244055-cbeb-4074-9482-42ec20721312.jpg?1721427451",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/2/02244055-cbeb-4074-9482-42ec20721312.jpg?1721427451"
+  },
+  "prices": {
+    "usd": "0.28",
+    "usd_foil": "0.40",
+    "usd_etched": null,
+    "eur": "0.24",
+    "eur_foil": "0.27",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/blb/275/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/02244055-cbeb-4074-9482-42ec20721312",
+  "_catalogFetchedAt": "2026-05-10T22:15:58.107Z"
+}

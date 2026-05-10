@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "dae4bf74-97f7-40a6-ac46-54b6b0d8a58d",
+  "code": "afdn",
+  "name": "Foundations Art Series",
+  "uri": "https://api.scryfall.com/sets/dae4bf74-97f7-40a6-ac46-54b6b0d8a58d",
+  "scryfall_uri": "https://scryfall.com/sets/afdn",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aafdn&unique=prints",
+  "released_at": "2024-11-15",
+  "set_type": "memorabilia",
+  "card_count": 55,
+  "parent_set_code": "fdn",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fdn.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:46.605Z"
+}

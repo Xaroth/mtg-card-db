@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "665a9dff-f9d2-4932-8feb-822fa1d020e5",
+  "code": "pcbb",
+  "name": "Cowboy Bebop",
+  "uri": "https://api.scryfall.com/sets/665a9dff-f9d2-4932-8feb-822fa1d020e5",
+  "scryfall_uri": "https://scryfall.com/sets/pcbb",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apcbb&unique=prints",
+  "released_at": "2024-08-02",
+  "set_type": "promo",
+  "card_count": 5,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:30.164Z"
+}

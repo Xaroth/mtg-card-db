@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "0a8482de-062d-460f-8558-39044fed4a24",
+  "code": "pbig",
+  "name": "The Big Score Promos",
+  "uri": "https://api.scryfall.com/sets/0a8482de-062d-460f-8558-39044fed4a24",
+  "scryfall_uri": "https://scryfall.com/sets/pbig",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apbig&unique=prints",
+  "released_at": "2025-08-01",
+  "set_type": "promo",
+  "card_count": 14,
+  "parent_set_code": "big",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/big.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:28.764Z"
+}

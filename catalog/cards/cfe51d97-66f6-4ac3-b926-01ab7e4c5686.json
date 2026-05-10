@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "cfe51d97-66f6-4ac3-b926-01ab7e4c5686",
+  "name": "Plains",
+  "set": "otj",
+  "set_name": "Outlaws of Thunder Junction",
+  "collector_number": "272",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/f/cfe51d97-66f6-4ac3-b926-01ab7e4c5686.jpg?1712356389",
+    "normal": "https://cards.scryfall.io/normal/front/c/f/cfe51d97-66f6-4ac3-b926-01ab7e4c5686.jpg?1712356389",
+    "large": "https://cards.scryfall.io/large/front/c/f/cfe51d97-66f6-4ac3-b926-01ab7e4c5686.jpg?1712356389",
+    "png": "https://cards.scryfall.io/png/front/c/f/cfe51d97-66f6-4ac3-b926-01ab7e4c5686.png?1712356389",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/f/cfe51d97-66f6-4ac3-b926-01ab7e4c5686.jpg?1712356389",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/f/cfe51d97-66f6-4ac3-b926-01ab7e4c5686.jpg?1712356389"
+  },
+  "prices": {
+    "usd": "0.35",
+    "usd_foil": "0.38",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.31",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/otj/272/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/cfe51d97-66f6-4ac3-b926-01ab7e4c5686",
+  "_catalogFetchedAt": "2026-05-10T22:29:56.074Z"
+}

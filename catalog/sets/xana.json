@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "9e5d6aa8-3fc1-4175-a851-894e42c0e25a",
+  "code": "xana",
+  "name": "Arena New Player Experience Extras",
+  "uri": "https://api.scryfall.com/sets/9e5d6aa8-3fc1-4175-a851-894e42c0e25a",
+  "scryfall_uri": "https://scryfall.com/sets/xana",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Axana&unique=prints",
+  "released_at": "2018-07-14",
+  "set_type": "memorabilia",
+  "card_count": 20,
+  "parent_set_code": "ana",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:34.231Z"
+}

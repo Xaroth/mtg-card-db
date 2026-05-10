@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "9cfdcd69-25f3-44cf-99e0-1f0ab0d61c20",
+  "code": "pfdn",
+  "name": "Foundations Promos",
+  "uri": "https://api.scryfall.com/sets/9cfdcd69-25f3-44cf-99e0-1f0ab0d61c20",
+  "scryfall_uri": "https://scryfall.com/sets/pfdn",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apfdn&unique=prints",
+  "released_at": "2024-11-15",
+  "set_type": "promo",
+  "card_count": 106,
+  "parent_set_code": "fdn",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fdn.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:39.198Z"
+}

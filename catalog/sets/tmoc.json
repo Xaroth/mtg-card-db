@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "f61d6546-a7e4-438b-99ce-58a483a4fd9a",
+  "code": "tmoc",
+  "name": "March of the Machine Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/f61d6546-a7e4-438b-99ce-58a483a4fd9a",
+  "scryfall_uri": "https://scryfall.com/sets/tmoc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmoc&unique=prints",
+  "released_at": "2023-04-21",
+  "set_type": "token",
+  "card_count": 46,
+  "parent_set_code": "moc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/moc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:06.205Z"
+}

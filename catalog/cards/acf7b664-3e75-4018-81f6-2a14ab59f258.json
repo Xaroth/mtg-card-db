@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "acf7b664-3e75-4018-81f6-2a14ab59f258",
+  "name": "Island",
+  "set": "thb",
+  "set_name": "Theros Beyond Death",
+  "collector_number": "251",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/c/acf7b664-3e75-4018-81f6-2a14ab59f258.jpg?1641306192",
+    "normal": "https://cards.scryfall.io/normal/front/a/c/acf7b664-3e75-4018-81f6-2a14ab59f258.jpg?1641306192",
+    "large": "https://cards.scryfall.io/large/front/a/c/acf7b664-3e75-4018-81f6-2a14ab59f258.jpg?1641306192",
+    "png": "https://cards.scryfall.io/png/front/a/c/acf7b664-3e75-4018-81f6-2a14ab59f258.png?1641306192",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/c/acf7b664-3e75-4018-81f6-2a14ab59f258.jpg?1641306192",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/c/acf7b664-3e75-4018-81f6-2a14ab59f258.jpg?1641306192"
+  },
+  "prices": {
+    "usd": "1.86",
+    "usd_foil": "2.82",
+    "usd_etched": null,
+    "eur": "0.96",
+    "eur_foil": "2.02",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/thb/251/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/acf7b664-3e75-4018-81f6-2a14ab59f258",
+  "_catalogFetchedAt": "2026-05-10T22:32:14.110Z"
+}

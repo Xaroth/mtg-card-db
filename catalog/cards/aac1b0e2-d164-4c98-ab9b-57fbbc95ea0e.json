@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e",
+  "name": "Mountain",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "1953",
+  "rarity": "rare",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1757342416",
+    "normal": "https://cards.scryfall.io/normal/front/a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1757342416",
+    "large": "https://cards.scryfall.io/large/front/a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1757342416",
+    "png": "https://cards.scryfall.io/png/front/a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.png?1757342416",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1757342416",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e.jpg?1757342416"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "11.06",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "8.87",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/sld/1953/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/aac1b0e2-d164-4c98-ab9b-57fbbc95ea0e",
+  "_catalogFetchedAt": "2026-05-10T22:32:04.830Z"
+}

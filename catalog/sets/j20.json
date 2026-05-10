@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "1b90366b-7692-44ea-bd55-f17fa92869a5",
+  "code": "j20",
+  "name": "Judge Gift Cards 2020",
+  "uri": "https://api.scryfall.com/sets/1b90366b-7692-44ea-bd55-f17fa92869a5",
+  "scryfall_uri": "https://scryfall.com/sets/j20",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aj20&unique=prints",
+  "released_at": "2020-01-01",
+  "set_type": "promo",
+  "card_count": 10,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "block_code": "jgp",
+  "block": "Judge Gift Cards",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/archie.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:45.872Z"
+}

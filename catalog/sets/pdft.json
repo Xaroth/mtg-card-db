@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "cc05a3a1-fb38-4d6d-b3d3-032e90b49d00",
+  "code": "pdft",
+  "name": "Aetherdrift Promos",
+  "uri": "https://api.scryfall.com/sets/cc05a3a1-fb38-4d6d-b3d3-032e90b49d00",
+  "scryfall_uri": "https://scryfall.com/sets/pdft",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apdft&unique=prints",
+  "released_at": "2025-02-14",
+  "set_type": "promo",
+  "card_count": 160,
+  "parent_set_code": "dft",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dft.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:33.013Z"
+}

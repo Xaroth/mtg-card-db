@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "59a2059f-5482-433f-8761-eb2e17859b71",
+  "code": "neo",
+  "mtgo_code": "neo",
+  "arena_code": "neo",
+  "tcgplayer_id": 2965,
+  "name": "Kamigawa: Neon Dynasty",
+  "uri": "https://api.scryfall.com/sets/59a2059f-5482-433f-8761-eb2e17859b71",
+  "scryfall_uri": "https://scryfall.com/sets/neo",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aneo&unique=prints",
+  "released_at": "2022-02-18",
+  "set_type": "expansion",
+  "card_count": 531,
+  "printed_size": 302,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:07.156Z"
+}

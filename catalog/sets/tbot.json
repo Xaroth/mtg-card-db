@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "99e9841c-837b-4920-9165-1c7ef693f40e",
+  "code": "tbot",
+  "name": "Transformers Tokens",
+  "uri": "https://api.scryfall.com/sets/99e9841c-837b-4920-9165-1c7ef693f40e",
+  "scryfall_uri": "https://scryfall.com/sets/tbot",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atbot&unique=prints",
+  "released_at": "2022-11-18",
+  "set_type": "token",
+  "card_count": 2,
+  "parent_set_code": "bot",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/bot.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:39.007Z"
+}

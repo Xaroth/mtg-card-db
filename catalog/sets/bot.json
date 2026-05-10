@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "59ed954b-74c0-4db3-8a2b-1d395e33288e",
+  "code": "bot",
+  "tcgplayer_id": 17664,
+  "name": "Transformers",
+  "uri": "https://api.scryfall.com/sets/59ed954b-74c0-4db3-8a2b-1d395e33288e",
+  "scryfall_uri": "https://scryfall.com/sets/bot",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Abot&unique=prints",
+  "released_at": "2022-11-18",
+  "set_type": "eternal",
+  "card_count": 29,
+  "parent_set_code": "bro",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/bot.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:56.816Z"
+}

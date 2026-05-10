@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "dc1dbedc-9604-4c3a-886a-7be05f7e006a",
+  "code": "pl21",
+  "name": "Year of the Ox 2021",
+  "uri": "https://api.scryfall.com/sets/dc1dbedc-9604-4c3a-886a-7be05f7e006a",
+  "scryfall_uri": "https://scryfall.com/sets/pl21",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apl21&unique=prints",
+  "released_at": "2021-01-25",
+  "set_type": "promo",
+  "card_count": 6,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:49.180Z"
+}

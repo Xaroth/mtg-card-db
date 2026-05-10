@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "d724cb13-6907-47a9-8a24-22c16be11302",
+  "code": "tgn2",
+  "name": "Game Night 2019 Tokens",
+  "uri": "https://api.scryfall.com/sets/d724cb13-6907-47a9-8a24-22c16be11302",
+  "scryfall_uri": "https://scryfall.com/sets/tgn2",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atgn2&unique=prints",
+  "released_at": "2019-11-15",
+  "set_type": "token",
+  "card_count": 3,
+  "parent_set_code": "gn2",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/gn2.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:54.895Z"
+}

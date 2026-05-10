@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "0c9ae251-ec77-4906-b505-02820b7ccedb",
+  "code": "ttdm",
+  "name": "Tarkir: Dragonstorm Tokens",
+  "uri": "https://api.scryfall.com/sets/0c9ae251-ec77-4906-b505-02820b7ccedb",
+  "scryfall_uri": "https://scryfall.com/sets/ttdm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Attdm&unique=prints",
+  "released_at": "2025-04-11",
+  "set_type": "token",
+  "card_count": 16,
+  "parent_set_code": "tdm",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tdm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:15.925Z"
+}

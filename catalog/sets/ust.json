@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "83491685-880d-41dd-a4af-47d2b3b17c10",
+  "code": "ust",
+  "tcgplayer_id": 2092,
+  "name": "Unstable",
+  "uri": "https://api.scryfall.com/sets/83491685-880d-41dd-a4af-47d2b3b17c10",
+  "scryfall_uri": "https://scryfall.com/sets/ust",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aust&unique=prints",
+  "released_at": "2017-12-08",
+  "set_type": "funny",
+  "card_count": 268,
+  "printed_size": 268,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ust.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:26.606Z"
+}

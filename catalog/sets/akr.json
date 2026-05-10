@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "915dabb1-b82a-432d-939d-d9b128e65582",
+  "code": "akr",
+  "name": "Amonkhet Remastered",
+  "uri": "https://api.scryfall.com/sets/915dabb1-b82a-432d-939d-d9b128e65582",
+  "scryfall_uri": "https://scryfall.com/sets/akr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aakr&unique=prints",
+  "released_at": "2020-08-13",
+  "set_type": "masters",
+  "card_count": 339,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/akr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:48.201Z"
+}

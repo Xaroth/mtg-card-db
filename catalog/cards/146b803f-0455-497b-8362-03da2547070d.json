@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "146b803f-0455-497b-8362-03da2547070d",
+  "name": "Forest",
+  "set": "2xm",
+  "set_name": "Double Masters",
+  "collector_number": "381",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/4/146b803f-0455-497b-8362-03da2547070d.jpg?1641305617",
+    "normal": "https://cards.scryfall.io/normal/front/1/4/146b803f-0455-497b-8362-03da2547070d.jpg?1641305617",
+    "large": "https://cards.scryfall.io/large/front/1/4/146b803f-0455-497b-8362-03da2547070d.jpg?1641305617",
+    "png": "https://cards.scryfall.io/png/front/1/4/146b803f-0455-497b-8362-03da2547070d.png?1641305617",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/4/146b803f-0455-497b-8362-03da2547070d.jpg?1641305617",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/4/146b803f-0455-497b-8362-03da2547070d.jpg?1641305617"
+  },
+  "prices": {
+    "usd": "2.57",
+    "usd_foil": "5.80",
+    "usd_etched": null,
+    "eur": "2.58",
+    "eur_foil": "4.15",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/2xm/381/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/146b803f-0455-497b-8362-03da2547070d",
+  "_catalogFetchedAt": "2026-05-10T22:15:52.806Z"
+}

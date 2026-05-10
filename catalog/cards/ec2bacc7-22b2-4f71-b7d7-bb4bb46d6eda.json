@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "ec2bacc7-22b2-4f71-b7d7-bb4bb46d6eda",
+  "name": "Island",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "2510",
+  "rarity": "rare",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/c/ec2bacc7-22b2-4f71-b7d7-bb4bb46d6eda.jpg?1770130517",
+    "normal": "https://cards.scryfall.io/normal/front/e/c/ec2bacc7-22b2-4f71-b7d7-bb4bb46d6eda.jpg?1770130517",
+    "large": "https://cards.scryfall.io/large/front/e/c/ec2bacc7-22b2-4f71-b7d7-bb4bb46d6eda.jpg?1770130517",
+    "png": "https://cards.scryfall.io/png/front/e/c/ec2bacc7-22b2-4f71-b7d7-bb4bb46d6eda.png?1770130517",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/c/ec2bacc7-22b2-4f71-b7d7-bb4bb46d6eda.jpg?1770130517",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/c/ec2bacc7-22b2-4f71-b7d7-bb4bb46d6eda.jpg?1770130517"
+  },
+  "prices": {
+    "usd": "3.79",
+    "usd_foil": "5.32",
+    "usd_etched": null,
+    "eur": "5.35",
+    "eur_foil": "4.67",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/sld/2510/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/ec2bacc7-22b2-4f71-b7d7-bb4bb46d6eda",
+  "_catalogFetchedAt": "2026-05-10T22:32:05.371Z"
+}

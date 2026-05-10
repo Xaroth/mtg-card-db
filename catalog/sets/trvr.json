@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "c74a3d37-4b0c-49fd-baa6-9d80756ed50c",
+  "code": "trvr",
+  "name": "Ravnica Remastered Tokens",
+  "uri": "https://api.scryfall.com/sets/c74a3d37-4b0c-49fd-baa6-9d80756ed50c",
+  "scryfall_uri": "https://scryfall.com/sets/trvr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atrvr&unique=prints",
+  "released_at": "2024-01-12",
+  "set_type": "token",
+  "card_count": 20,
+  "parent_set_code": "rvr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/rvr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:13.032Z"
+}

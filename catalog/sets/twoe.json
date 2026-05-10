@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "273c0661-0af3-4b64-880f-e287799325e9",
+  "code": "twoe",
+  "mtgo_code": "twoe",
+  "arena_code": "twoe",
+  "name": "Wilds of Eldraine Tokens",
+  "uri": "https://api.scryfall.com/sets/273c0661-0af3-4b64-880f-e287799325e9",
+  "scryfall_uri": "https://scryfall.com/sets/twoe",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atwoe&unique=prints",
+  "released_at": "2023-09-08",
+  "set_type": "token",
+  "card_count": 18,
+  "parent_set_code": "woe",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/woe.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:22.553Z"
+}

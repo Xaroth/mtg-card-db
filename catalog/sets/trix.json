@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "a49703ee-b842-44f1-aff3-20a7c75253f6",
+  "code": "trix",
+  "name": "Rivals of Ixalan Tokens",
+  "uri": "https://api.scryfall.com/sets/a49703ee-b842-44f1-aff3-20a7c75253f6",
+  "scryfall_uri": "https://scryfall.com/sets/trix",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atrix&unique=prints",
+  "released_at": "2018-01-19",
+  "set_type": "token",
+  "card_count": 7,
+  "parent_set_code": "rix",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "xln",
+  "block": "Ixalan",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/rix.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:12.230Z"
+}

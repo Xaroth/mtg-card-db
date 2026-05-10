@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "7a4c0731-555a-4bef-9d9e-b877f0339417",
+  "name": "Mountain",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "collector_number": "275",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/a/7a4c0731-555a-4bef-9d9e-b877f0339417.jpg?1699826468",
+    "normal": "https://cards.scryfall.io/normal/front/7/a/7a4c0731-555a-4bef-9d9e-b877f0339417.jpg?1699826468",
+    "large": "https://cards.scryfall.io/large/front/7/a/7a4c0731-555a-4bef-9d9e-b877f0339417.jpg?1699826468",
+    "png": "https://cards.scryfall.io/png/front/7/a/7a4c0731-555a-4bef-9d9e-b877f0339417.png?1699826468",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7a4c0731-555a-4bef-9d9e-b877f0339417.jpg?1699826468",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7a4c0731-555a-4bef-9d9e-b877f0339417.jpg?1699826468"
+  },
+  "prices": {
+    "usd": "0.36",
+    "usd_foil": "1.00",
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": "0.38",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/mid/275/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/7a4c0731-555a-4bef-9d9e-b877f0339417",
+  "_catalogFetchedAt": "2026-05-10T22:29:51.560Z"
+}

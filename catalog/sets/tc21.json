@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "0626d2d5-5b60-48fa-97b5-960eb263a051",
+  "code": "tc21",
+  "name": "Commander 2021 Tokens",
+  "uri": "https://api.scryfall.com/sets/0626d2d5-5b60-48fa-97b5-960eb263a051",
+  "scryfall_uri": "https://scryfall.com/sets/tc21",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atc21&unique=prints",
+  "released_at": "2021-04-23",
+  "set_type": "token",
+  "card_count": 30,
+  "printed_size": 30,
+  "parent_set_code": "c21",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/c21.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:41.213Z"
+}

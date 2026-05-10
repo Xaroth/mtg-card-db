@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "1a534ae1-4e6f-43ae-a8ad-89e306f11f21",
+  "name": "Mountain",
+  "set": "acr",
+  "set_name": "Assassin's Creed",
+  "collector_number": "107",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/a/1a534ae1-4e6f-43ae-a8ad-89e306f11f21.jpg?1721424554",
+    "normal": "https://cards.scryfall.io/normal/front/1/a/1a534ae1-4e6f-43ae-a8ad-89e306f11f21.jpg?1721424554",
+    "large": "https://cards.scryfall.io/large/front/1/a/1a534ae1-4e6f-43ae-a8ad-89e306f11f21.jpg?1721424554",
+    "png": "https://cards.scryfall.io/png/front/1/a/1a534ae1-4e6f-43ae-a8ad-89e306f11f21.png?1721424554",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/a/1a534ae1-4e6f-43ae-a8ad-89e306f11f21.jpg?1721424554",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/a/1a534ae1-4e6f-43ae-a8ad-89e306f11f21.jpg?1721424554"
+  },
+  "prices": {
+    "usd": "0.32",
+    "usd_foil": "0.71",
+    "usd_etched": null,
+    "eur": "0.23",
+    "eur_foil": "0.34",
+    "tix": "0.37"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/acr/107/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/1a534ae1-4e6f-43ae-a8ad-89e306f11f21",
+  "_catalogFetchedAt": "2026-05-10T22:15:53.602Z"
+}

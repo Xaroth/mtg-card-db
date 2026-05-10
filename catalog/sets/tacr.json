@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "40745188-c35f-4f69-89db-1fe5b46b65ba",
+  "code": "tacr",
+  "name": "Assassin's Creed Tokens",
+  "uri": "https://api.scryfall.com/sets/40745188-c35f-4f69-89db-1fe5b46b65ba",
+  "scryfall_uri": "https://scryfall.com/sets/tacr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atacr&unique=prints",
+  "released_at": "2024-07-05",
+  "set_type": "token",
+  "card_count": 8,
+  "parent_set_code": "acr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/acr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:36.212Z"
+}

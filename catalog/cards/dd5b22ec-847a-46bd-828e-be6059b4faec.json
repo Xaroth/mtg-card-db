@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "dd5b22ec-847a-46bd-828e-be6059b4faec",
+  "name": "Island",
+  "set": "tla",
+  "set_name": "Avatar: The Last Airbender",
+  "collector_number": "293",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/d/dd5b22ec-847a-46bd-828e-be6059b4faec.jpg?1764122119",
+    "normal": "https://cards.scryfall.io/normal/front/d/d/dd5b22ec-847a-46bd-828e-be6059b4faec.jpg?1764122119",
+    "large": "https://cards.scryfall.io/large/front/d/d/dd5b22ec-847a-46bd-828e-be6059b4faec.jpg?1764122119",
+    "png": "https://cards.scryfall.io/png/front/d/d/dd5b22ec-847a-46bd-828e-be6059b4faec.png?1764122119",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/d/dd5b22ec-847a-46bd-828e-be6059b4faec.jpg?1764122119",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/d/dd5b22ec-847a-46bd-828e-be6059b4faec.jpg?1764122119"
+  },
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": "0.49",
+    "usd_etched": null,
+    "eur": "0.36",
+    "eur_foil": "0.56",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/tla/293/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/dd5b22ec-847a-46bd-828e-be6059b4faec",
+  "_catalogFetchedAt": "2026-05-10T22:32:16.116Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "e4c83b60-3d49-4fdc-a6b7-06d1a0c4a126",
+  "name": "Forest",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "collector_number": "276",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/4/e4c83b60-3d49-4fdc-a6b7-06d1a0c4a126.jpg?1677498062",
+    "normal": "https://cards.scryfall.io/normal/front/e/4/e4c83b60-3d49-4fdc-a6b7-06d1a0c4a126.jpg?1677498062",
+    "large": "https://cards.scryfall.io/large/front/e/4/e4c83b60-3d49-4fdc-a6b7-06d1a0c4a126.jpg?1677498062",
+    "png": "https://cards.scryfall.io/png/front/e/4/e4c83b60-3d49-4fdc-a6b7-06d1a0c4a126.png?1677498062",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/4/e4c83b60-3d49-4fdc-a6b7-06d1a0c4a126.jpg?1677498062",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/4/e4c83b60-3d49-4fdc-a6b7-06d1a0c4a126.jpg?1677498062"
+  },
+  "prices": {
+    "usd": "0.34",
+    "usd_foil": "0.83",
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": "0.52",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/vow/276/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/e4c83b60-3d49-4fdc-a6b7-06d1a0c4a126",
+  "_catalogFetchedAt": "2026-05-10T22:32:30.526Z"
+}

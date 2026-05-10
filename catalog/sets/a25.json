@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "41ee6e2f-69b3-4c53-8a8e-960f5e974cfc",
+  "code": "a25",
+  "mtgo_code": "a25",
+  "arena_code": "a25",
+  "tcgplayer_id": 2189,
+  "name": "Masters 25",
+  "uri": "https://api.scryfall.com/sets/41ee6e2f-69b3-4c53-8a8e-960f5e974cfc",
+  "scryfall_uri": "https://scryfall.com/sets/a25",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aa25&unique=prints",
+  "released_at": "2018-03-16",
+  "set_type": "masters",
+  "card_count": 249,
+  "printed_size": 249,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/a25.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:42.871Z"
+}

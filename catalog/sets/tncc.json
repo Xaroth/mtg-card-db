@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "d6ddbf54-6a77-47d6-9b9c-b6587079b967",
+  "code": "tncc",
+  "name": "New Capenna Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/d6ddbf54-6a77-47d6-9b9c-b6587079b967",
+  "scryfall_uri": "https://scryfall.com/sets/tncc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atncc&unique=prints",
+  "released_at": "2022-04-29",
+  "set_type": "token",
+  "card_count": 36,
+  "printed_size": 36,
+  "parent_set_code": "ncc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ncc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:09.115Z"
+}

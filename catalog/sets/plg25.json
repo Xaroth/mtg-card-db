@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "6fe6aa88-9964-45fe-bce1-f9eb8f721fe5",
+  "code": "plg25",
+  "name": "Love Your LGS 2025",
+  "uri": "https://api.scryfall.com/sets/6fe6aa88-9964-45fe-bce1-f9eb8f721fe5",
+  "scryfall_uri": "https://scryfall.com/sets/plg25",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aplg25&unique=prints",
+  "released_at": "2025-03-26",
+  "set_type": "promo",
+  "card_count": 2,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:51.587Z"
+}

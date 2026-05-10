@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "9e40b5c2-28f3-4bb3-b6dc-d2e904f3f3fa",
+  "code": "pf25",
+  "name": "MagicFest 2025",
+  "uri": "https://api.scryfall.com/sets/9e40b5c2-28f3-4bb3-b6dc-d2e904f3f3fa",
+  "scryfall_uri": "https://scryfall.com/sets/pf25",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apf25&unique=prints",
+  "released_at": "2025-01-01",
+  "set_type": "promo",
+  "card_count": 19,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:38.849Z"
+}

@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "217f004e-8669-45c9-a0ba-1baf81eefab0",
+  "code": "ywoe",
+  "name": "Alchemy: Wilds of Eldraine",
+  "uri": "https://api.scryfall.com/sets/217f004e-8669-45c9-a0ba-1baf81eefab0",
+  "scryfall_uri": "https://scryfall.com/sets/ywoe",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aywoe&unique=prints",
+  "released_at": "2023-10-10",
+  "set_type": "alchemy",
+  "card_count": 30,
+  "parent_set_code": "woe",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "y24",
+  "block": "Alchemy 2024",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y24.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:37.640Z"
+}

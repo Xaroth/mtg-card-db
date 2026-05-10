@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "46b761a4-df4f-47e8-bcf6-2a55bb511fc4",
+  "code": "tscd",
+  "name": "Starter Commander Deck Tokens",
+  "uri": "https://api.scryfall.com/sets/46b761a4-df4f-47e8-bcf6-2a55bb511fc4",
+  "scryfall_uri": "https://scryfall.com/sets/tscd",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atscd&unique=prints",
+  "released_at": "2022-12-02",
+  "set_type": "token",
+  "card_count": 27,
+  "parent_set_code": "scd",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/scd.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:13.434Z"
+}

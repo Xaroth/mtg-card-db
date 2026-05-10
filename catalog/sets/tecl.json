@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "f5380338-65e9-4885-8989-b23350cd27de",
+  "code": "tecl",
+  "name": "Lorwyn Eclipsed Tokens",
+  "uri": "https://api.scryfall.com/sets/f5380338-65e9-4885-8989-b23350cd27de",
+  "scryfall_uri": "https://scryfall.com/sets/tecl",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atecl&unique=prints",
+  "released_at": "2026-01-23",
+  "set_type": "token",
+  "card_count": 13,
+  "parent_set_code": "ecl",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ecl.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:51.892Z"
+}

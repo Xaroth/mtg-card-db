@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "382e0900-dd85-4f23-9dcf-24c9d2971f1b",
+  "code": "tiko",
+  "name": "Ikoria: Lair of Behemoths Tokens",
+  "uri": "https://api.scryfall.com/sets/382e0900-dd85-4f23-9dcf-24c9d2971f1b",
+  "scryfall_uri": "https://scryfall.com/sets/tiko",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atiko&unique=prints",
+  "released_at": "2020-04-24",
+  "set_type": "token",
+  "card_count": 14,
+  "parent_set_code": "iko",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/iko.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:57.422Z"
+}

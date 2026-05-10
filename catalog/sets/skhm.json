@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "30d7dea6-881a-49ec-9a13-d0df9f15b009",
+  "code": "skhm",
+  "name": "Kaldheim Substitute Cards",
+  "uri": "https://api.scryfall.com/sets/30d7dea6-881a-49ec-9a13-d0df9f15b009",
+  "scryfall_uri": "https://scryfall.com/sets/skhm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Askhm&unique=prints",
+  "released_at": "2021-02-05",
+  "set_type": "token",
+  "card_count": 9,
+  "parent_set_code": "khm",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/khm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:28.604Z"
+}

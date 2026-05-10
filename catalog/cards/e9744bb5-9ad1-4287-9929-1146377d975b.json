@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "e9744bb5-9ad1-4287-9929-1146377d975b",
+  "name": "Mountain",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "collector_number": "307",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/9/e9744bb5-9ad1-4287-9929-1146377d975b.jpg?1717013879",
+    "normal": "https://cards.scryfall.io/normal/front/e/9/e9744bb5-9ad1-4287-9929-1146377d975b.jpg?1717013879",
+    "large": "https://cards.scryfall.io/large/front/e/9/e9744bb5-9ad1-4287-9929-1146377d975b.jpg?1717013879",
+    "png": "https://cards.scryfall.io/png/front/e/9/e9744bb5-9ad1-4287-9929-1146377d975b.png?1717013879",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e9744bb5-9ad1-4287-9929-1146377d975b.jpg?1717013879",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e9744bb5-9ad1-4287-9929-1146377d975b.jpg?1717013879"
+  },
+  "prices": {
+    "usd": "0.28",
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.19",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/mh3/307/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/e9744bb5-9ad1-4287-9929-1146377d975b",
+  "_catalogFetchedAt": "2026-05-10T22:29:50.557Z"
+}

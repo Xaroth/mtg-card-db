@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "a687cc0c-894b-4373-87b0-737cbace1da6",
+  "code": "tima",
+  "name": "Iconic Masters Tokens",
+  "uri": "https://api.scryfall.com/sets/a687cc0c-894b-4373-87b0-737cbace1da6",
+  "scryfall_uri": "https://scryfall.com/sets/tima",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atima&unique=prints",
+  "released_at": "2017-11-29",
+  "set_type": "token",
+  "card_count": 7,
+  "parent_set_code": "ima",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ima.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:57.624Z"
+}

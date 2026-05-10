@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "ee7f525c-d777-4adf-8920-8adfc73bbc55",
+  "name": "Plains",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "collector_number": "282",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/e/ee7f525c-d777-4adf-8920-8adfc73bbc55.jpg?1682205985",
+    "normal": "https://cards.scryfall.io/normal/front/e/e/ee7f525c-d777-4adf-8920-8adfc73bbc55.jpg?1682205985",
+    "large": "https://cards.scryfall.io/large/front/e/e/ee7f525c-d777-4adf-8920-8adfc73bbc55.jpg?1682205985",
+    "png": "https://cards.scryfall.io/png/front/e/e/ee7f525c-d777-4adf-8920-8adfc73bbc55.png?1682205985",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/e/ee7f525c-d777-4adf-8920-8adfc73bbc55.jpg?1682205985",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/e/ee7f525c-d777-4adf-8920-8adfc73bbc55.jpg?1682205985"
+  },
+  "prices": {
+    "usd": "0.35",
+    "usd_foil": "0.74",
+    "usd_etched": null,
+    "eur": "0.21",
+    "eur_foil": "0.71",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/mom/282/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/ee7f525c-d777-4adf-8920-8adfc73bbc55",
+  "_catalogFetchedAt": "2026-05-10T22:29:52.361Z"
+}

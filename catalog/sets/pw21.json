@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "ab6507a5-d3c1-4384-927c-4ec7e6fd1e20",
+  "code": "pw21",
+  "name": "Wizards Play Network 2021",
+  "uri": "https://api.scryfall.com/sets/ab6507a5-d3c1-4384-927c-4ec7e6fd1e20",
+  "scryfall_uri": "https://scryfall.com/sets/pw21",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apw21&unique=prints",
+  "released_at": "2021-06-18",
+  "set_type": "promo",
+  "card_count": 6,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:20.240Z"
+}

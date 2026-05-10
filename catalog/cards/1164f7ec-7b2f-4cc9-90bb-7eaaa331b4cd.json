@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd",
+  "name": "Plains",
+  "set": "spm",
+  "set_name": "Marvel's Spider-Man",
+  "collector_number": "189",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/1/1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd.jpg?1757409774",
+    "normal": "https://cards.scryfall.io/normal/front/1/1/1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd.jpg?1757409774",
+    "large": "https://cards.scryfall.io/large/front/1/1/1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd.jpg?1757409774",
+    "png": "https://cards.scryfall.io/png/front/1/1/1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd.png?1757409774",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/1/1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd.jpg?1757409774",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/1/1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd.jpg?1757409774"
+  },
+  "prices": {
+    "usd": "0.31",
+    "usd_foil": "0.32",
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": "0.26",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/spm/189/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/1164f7ec-7b2f-4cc9-90bb-7eaaa331b4cd",
+  "_catalogFetchedAt": "2026-05-10T22:32:10.906Z"
+}

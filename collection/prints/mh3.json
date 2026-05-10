@@ -1,0 +1,112 @@
+{
+  "prints": [
+    {
+      "id": "e81ecd4f-4cde-4d8f-a9b7-d7c6098be981",
+      "set": "mh3",
+      "collector_number": "304",
+      "name": "Plains",
+      "storage": {
+        "nonfoil": 3,
+        "foil": 1
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 1
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "1cb1ac28-ee04-4892-97ea-2cfdebbafcad",
+      "set": "mh3",
+      "collector_number": "305",
+      "name": "Island",
+      "storage": {
+        "nonfoil": 3,
+        "foil": 1
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 1
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "c8e3909e-e00a-4855-a0be-b1c538f89cb8",
+      "set": "mh3",
+      "collector_number": "306",
+      "name": "Swamp",
+      "storage": {
+        "nonfoil": 3,
+        "foil": 1
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 1
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "e9744bb5-9ad1-4287-9929-1146377d975b",
+      "set": "mh3",
+      "collector_number": "307",
+      "name": "Mountain",
+      "storage": {
+        "nonfoil": 3,
+        "foil": 1
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 1
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "ff4c78b4-7178-4a60-ba22-086fb18146df",
+      "set": "mh3",
+      "collector_number": "308",
+      "name": "Forest",
+      "storage": {
+        "nonfoil": 3,
+        "foil": 1
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 1
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "ad21a874-525e-4d11-bd8e-bc44918bec40",
+      "set": "mh3",
+      "collector_number": "309",
+      "name": "Snow-Covered Wastes",
+      "storage": {
+        "nonfoil": 2,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 1
+        }
+      ],
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "36ccde39-98bd-4a67-bfcf-a66d9fbd9417",
+  "name": "Plains",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "collector_number": "267",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/6/36ccde39-98bd-4a67-bfcf-a66d9fbd9417.jpg?1675957591",
+    "normal": "https://cards.scryfall.io/normal/front/3/6/36ccde39-98bd-4a67-bfcf-a66d9fbd9417.jpg?1675957591",
+    "large": "https://cards.scryfall.io/large/front/3/6/36ccde39-98bd-4a67-bfcf-a66d9fbd9417.jpg?1675957591",
+    "png": "https://cards.scryfall.io/png/front/3/6/36ccde39-98bd-4a67-bfcf-a66d9fbd9417.png?1675957591",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/6/36ccde39-98bd-4a67-bfcf-a66d9fbd9417.jpg?1675957591",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/6/36ccde39-98bd-4a67-bfcf-a66d9fbd9417.jpg?1675957591"
+  },
+  "prices": {
+    "usd": "1.40",
+    "usd_foil": "1.38",
+    "usd_etched": null,
+    "eur": "0.51",
+    "eur_foil": "0.94",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/one/267/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/36ccde39-98bd-4a67-bfcf-a66d9fbd9417",
+  "_catalogFetchedAt": "2026-05-10T22:29:55.071Z"
+}

@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "6bba5de9-5afb-42af-a7eb-24ac854bf671",
+  "code": "moc",
+  "tcgplayer_id": 22979,
+  "name": "March of the Machine Commander",
+  "uri": "https://api.scryfall.com/sets/6bba5de9-5afb-42af-a7eb-24ac854bf671",
+  "scryfall_uri": "https://scryfall.com/sets/moc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amoc&unique=prints",
+  "released_at": "2023-04-21",
+  "set_type": "commander",
+  "card_count": 450,
+  "parent_set_code": "mom",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/moc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:00.894Z"
+}

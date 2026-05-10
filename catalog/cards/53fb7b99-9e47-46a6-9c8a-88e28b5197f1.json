@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "53fb7b99-9e47-46a6-9c8a-88e28b5197f1",
+  "name": "Mountain",
+  "set": "thb",
+  "set_name": "Theros Beyond Death",
+  "collector_number": "253",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/3/53fb7b99-9e47-46a6-9c8a-88e28b5197f1.jpg?1641306121",
+    "normal": "https://cards.scryfall.io/normal/front/5/3/53fb7b99-9e47-46a6-9c8a-88e28b5197f1.jpg?1641306121",
+    "large": "https://cards.scryfall.io/large/front/5/3/53fb7b99-9e47-46a6-9c8a-88e28b5197f1.jpg?1641306121",
+    "png": "https://cards.scryfall.io/png/front/5/3/53fb7b99-9e47-46a6-9c8a-88e28b5197f1.png?1641306121",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/3/53fb7b99-9e47-46a6-9c8a-88e28b5197f1.jpg?1641306121",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/3/53fb7b99-9e47-46a6-9c8a-88e28b5197f1.jpg?1641306121"
+  },
+  "prices": {
+    "usd": "1.55",
+    "usd_foil": "3.19",
+    "usd_etched": null,
+    "eur": "0.86",
+    "eur_foil": "2.20",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/thb/253/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/53fb7b99-9e47-46a6-9c8a-88e28b5197f1",
+  "_catalogFetchedAt": "2026-05-10T22:32:14.510Z"
+}

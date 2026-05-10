@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "9f015fe9-c7fa-4503-b0cc-c0e7f098882f",
+  "name": "Plains",
+  "set": "2xm",
+  "set_name": "Double Masters",
+  "collector_number": "374",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/f/9f015fe9-c7fa-4503-b0cc-c0e7f098882f.jpg?1641305889",
+    "normal": "https://cards.scryfall.io/normal/front/9/f/9f015fe9-c7fa-4503-b0cc-c0e7f098882f.jpg?1641305889",
+    "large": "https://cards.scryfall.io/large/front/9/f/9f015fe9-c7fa-4503-b0cc-c0e7f098882f.jpg?1641305889",
+    "png": "https://cards.scryfall.io/png/front/9/f/9f015fe9-c7fa-4503-b0cc-c0e7f098882f.png?1641305889",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/f/9f015fe9-c7fa-4503-b0cc-c0e7f098882f.jpg?1641305889",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/f/9f015fe9-c7fa-4503-b0cc-c0e7f098882f.jpg?1641305889"
+  },
+  "prices": {
+    "usd": "0.43",
+    "usd_foil": "0.53",
+    "usd_etched": null,
+    "eur": "0.40",
+    "eur_foil": "0.91",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/2xm/374/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/9f015fe9-c7fa-4503-b0cc-c0e7f098882f",
+  "_catalogFetchedAt": "2026-05-10T22:15:52.101Z"
+}

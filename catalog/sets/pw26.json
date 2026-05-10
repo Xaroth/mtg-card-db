@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "6e547347-15c9-4756-b176-74ed3cd18fb2",
+  "code": "pw26",
+  "name": "Wizards Play Network 2026",
+  "uri": "https://api.scryfall.com/sets/6e547347-15c9-4756-b176-74ed3cd18fb2",
+  "scryfall_uri": "https://scryfall.com/sets/pw26",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apw26&unique=prints",
+  "released_at": "2026-01-01",
+  "set_type": "promo",
+  "card_count": 13,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:21.416Z"
+}

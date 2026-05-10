@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "756a7010-a91f-46fd-be50-f4ff9aa741d0",
+  "code": "tdsk",
+  "name": "Duskmourn: House of Horror Tokens",
+  "uri": "https://api.scryfall.com/sets/756a7010-a91f-46fd-be50-f4ff9aa741d0",
+  "scryfall_uri": "https://scryfall.com/sets/tdsk",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atdsk&unique=prints",
+  "released_at": "2024-09-27",
+  "set_type": "token",
+  "card_count": 19,
+  "parent_set_code": "dsk",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dsk.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:50.788Z"
+}

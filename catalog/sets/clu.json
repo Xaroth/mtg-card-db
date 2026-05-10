@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "d4bfabcf-a859-43a4-9d8a-665533c8b174",
+  "code": "clu",
+  "tcgplayer_id": 23362,
+  "name": "Ravnica: Clue Edition",
+  "uri": "https://api.scryfall.com/sets/d4bfabcf-a859-43a4-9d8a-665533c8b174",
+  "scryfall_uri": "https://scryfall.com/sets/clu",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aclu&unique=prints",
+  "released_at": "2024-02-23",
+  "set_type": "draft_innovation",
+  "card_count": 284,
+  "parent_set_code": "mkm",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/clu.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:04.410Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "code": "dbl",
+  "tcgplayer_id": 2942,
+  "name": "Innistrad: Double Feature",
+  "uri": "https://api.scryfall.com/sets/5c1638d2-bce9-463e-b0ec-469336cb1bd2",
+  "scryfall_uri": "https://scryfall.com/sets/dbl",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Adbl&unique=prints",
+  "released_at": "2022-01-28",
+  "set_type": "draft_innovation",
+  "card_count": 535,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:07.861Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "b8dfdf6c-a559-4ca6-9e21-32a132b818bb",
+  "code": "ydft",
+  "name": "Alchemy: Aetherdrift",
+  "uri": "https://api.scryfall.com/sets/b8dfdf6c-a559-4ca6-9e21-32a132b818bb",
+  "scryfall_uri": "https://scryfall.com/sets/ydft",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aydft&unique=prints",
+  "released_at": "2025-03-04",
+  "set_type": "alchemy",
+  "card_count": 30,
+  "parent_set_code": "dft",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y25.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:35.013Z"
+}

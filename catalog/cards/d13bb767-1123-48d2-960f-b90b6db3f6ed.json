@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "d13bb767-1123-48d2-960f-b90b6db3f6ed",
+  "name": "Island",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "collector_number": "513",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/1/d13bb767-1123-48d2-960f-b90b6db3f6ed.jpg?1739576906",
+    "normal": "https://cards.scryfall.io/normal/front/d/1/d13bb767-1123-48d2-960f-b90b6db3f6ed.jpg?1739576906",
+    "large": "https://cards.scryfall.io/large/front/d/1/d13bb767-1123-48d2-960f-b90b6db3f6ed.jpg?1739576906",
+    "png": "https://cards.scryfall.io/png/front/d/1/d13bb767-1123-48d2-960f-b90b6db3f6ed.png?1739576906",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/1/d13bb767-1123-48d2-960f-b90b6db3f6ed.jpg?1739576906",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/1/d13bb767-1123-48d2-960f-b90b6db3f6ed.jpg?1739576906"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "5.65",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.58",
+    "tix": "0.01"
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/dft/513/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/d13bb767-1123-48d2-960f-b90b6db3f6ed",
+  "_catalogFetchedAt": "2026-05-10T22:16:00.828Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "cd69bbcb-1777-424c-a70d-f5e87d63168b",
+  "code": "ptsnc",
+  "name": "Streets of New Capenna Southeast Asia Tokens",
+  "uri": "https://api.scryfall.com/sets/cd69bbcb-1777-424c-a70d-f5e87d63168b",
+  "scryfall_uri": "https://scryfall.com/sets/ptsnc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aptsnc&unique=prints",
+  "released_at": "2022-04-30",
+  "set_type": "promo",
+  "card_count": 6,
+  "parent_set_code": "psnc",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:17.234Z"
+}

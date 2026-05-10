@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "code": "mat",
+  "mtgo_code": "mat",
+  "arena_code": "mat",
+  "tcgplayer_id": 22876,
+  "name": "March of the Machine: The Aftermath",
+  "uri": "https://api.scryfall.com/sets/6727e43d-31b6-45b0-ae05-7a811ba72f70",
+  "scryfall_uri": "https://scryfall.com/sets/mat",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amat&unique=prints",
+  "released_at": "2023-05-12",
+  "set_type": "expansion",
+  "card_count": 230,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mat.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:54.884Z"
+}

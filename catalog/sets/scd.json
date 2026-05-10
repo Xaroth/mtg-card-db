@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "code": "scd",
+  "tcgplayer_id": 17662,
+  "name": "Starter Commander Decks",
+  "uri": "https://api.scryfall.com/sets/adc5d965-43ea-46bc-aebd-8a39282ce168",
+  "scryfall_uri": "https://scryfall.com/sets/scd",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ascd&unique=prints",
+  "released_at": "2022-12-02",
+  "set_type": "commander",
+  "card_count": 352,
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/scd.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:27.406Z"
+}

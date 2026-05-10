@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+  "code": "dmr",
+  "tcgplayer_id": 17670,
+  "name": "Dominaria Remastered",
+  "uri": "https://api.scryfall.com/sets/ca4c2884-e539-4b7f-980d-5d6a50220f2a",
+  "scryfall_uri": "https://scryfall.com/sets/dmr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Admr&unique=prints",
+  "released_at": "2023-01-13",
+  "set_type": "masters",
+  "card_count": 457,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dmr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:13.750Z"
+}

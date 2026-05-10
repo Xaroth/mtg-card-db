@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "code": "pio",
+  "name": "Pioneer Masters",
+  "uri": "https://api.scryfall.com/sets/713c226b-d4d9-46e1-b9c9-a04689d90ff6",
+  "scryfall_uri": "https://scryfall.com/sets/pio",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apio&unique=prints",
+  "released_at": "2024-12-10",
+  "set_type": "masters",
+  "card_count": 398,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/pio.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:46.580Z"
+}

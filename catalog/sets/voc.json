@@ -1,0 +1,22 @@
+{
+  "object": "set",
+  "id": "b2e444f7-41e6-4172-ba01-47d91d5e7bbc",
+  "code": "voc",
+  "tcgplayer_id": 2900,
+  "name": "Crimson Vow Commander",
+  "uri": "https://api.scryfall.com/sets/b2e444f7-41e6-4172-ba01-47d91d5e7bbc",
+  "scryfall_uri": "https://scryfall.com/sets/voc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Avoc&unique=prints",
+  "released_at": "2021-11-19",
+  "set_type": "commander",
+  "card_count": 188,
+  "printed_size": 38,
+  "parent_set_code": "vow",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/voc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:29.008Z"
+}

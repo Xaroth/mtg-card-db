@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "b0ccaabd-33b7-4c4e-afea-701d032496e7",
+  "code": "plny",
+  "name": "Lunar New Year 2018",
+  "uri": "https://api.scryfall.com/sets/b0ccaabd-33b7-4c4e-afea-701d032496e7",
+  "scryfall_uri": "https://scryfall.com/sets/plny",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aplny&unique=prints",
+  "released_at": "2018-02-16",
+  "set_type": "promo",
+  "card_count": 1,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:52.188Z"
+}

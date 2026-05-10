@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "2c73a39a-a359-41e7-879a-3857234f2a4b",
+  "code": "tmom",
+  "name": "March of the Machine Tokens",
+  "uri": "https://api.scryfall.com/sets/2c73a39a-a359-41e7-879a-3857234f2a4b",
+  "scryfall_uri": "https://scryfall.com/sets/tmom",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmom&unique=prints",
+  "released_at": "2023-04-21",
+  "set_type": "token",
+  "card_count": 23,
+  "parent_set_code": "mom",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:06.411Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "afd227e8-5f97-4227-bc81-532ca2a2201e",
+  "code": "fone",
+  "name": "Phyrexia: All Will Be One Jumpstart Front Cards",
+  "uri": "https://api.scryfall.com/sets/afd227e8-5f97-4227-bc81-532ca2a2201e",
+  "scryfall_uri": "https://scryfall.com/sets/fone",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Afone&unique=prints",
+  "released_at": "2023-02-03",
+  "set_type": "memorabilia",
+  "card_count": 5,
+  "parent_set_code": "one",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:30.420Z"
+}

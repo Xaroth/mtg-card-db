@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "5f23a78d-cda1-462a-8be3-a62b40c34913",
+  "code": "thb",
+  "mtgo_code": "thb",
+  "arena_code": "thb",
+  "tcgplayer_id": 2568,
+  "name": "Theros Beyond Death",
+  "uri": "https://api.scryfall.com/sets/5f23a78d-cda1-462a-8be3-a62b40c34913",
+  "scryfall_uri": "https://scryfall.com/sets/thb",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Athb&unique=prints",
+  "released_at": "2020-01-24",
+  "set_type": "expansion",
+  "card_count": 358,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/thb.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:56.097Z"
+}

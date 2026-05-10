@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "373c3b45-3ba4-4c8a-a84e-575ece096062",
+  "code": "mone",
+  "name": "Phyrexia: All Will Be One Minigames",
+  "uri": "https://api.scryfall.com/sets/373c3b45-3ba4-4c8a-a84e-575ece096062",
+  "scryfall_uri": "https://scryfall.com/sets/mone",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amone&unique=prints",
+  "released_at": "2023-02-03",
+  "set_type": "minigame",
+  "card_count": 5,
+  "parent_set_code": "one",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:01.286Z"
+}

@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "52f094c5-f3ed-42fc-b6a4-4004c0a48f50",
+  "code": "txln",
+  "name": "Ixalan Tokens",
+  "uri": "https://api.scryfall.com/sets/52f094c5-f3ed-42fc-b6a4-4004c0a48f50",
+  "scryfall_uri": "https://scryfall.com/sets/txln",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atxln&unique=prints",
+  "released_at": "2017-09-29",
+  "set_type": "token",
+  "card_count": 11,
+  "parent_set_code": "xln",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "xln",
+  "block": "Ixalan",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/xln.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:23.190Z"
+}

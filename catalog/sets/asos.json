@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "16b35ba7-ab4d-4d0f-8d29-4de7d30d0e22",
+  "code": "asos",
+  "name": "Secrets of Strixhaven Art Series",
+  "uri": "https://api.scryfall.com/sets/16b35ba7-ab4d-4d0f-8d29-4de7d30d0e22",
+  "scryfall_uri": "https://scryfall.com/sets/asos",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aasos&unique=prints",
+  "released_at": "2026-04-24",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "sos",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/sos.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:52.619Z"
+}

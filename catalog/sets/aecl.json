@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "dc87145e-8510-47bf-989f-330b6156ea8c",
+  "code": "aecl",
+  "name": "Lorwyn Eclipsed Art Series",
+  "uri": "https://api.scryfall.com/sets/dc87145e-8510-47bf-989f-330b6156ea8c",
+  "scryfall_uri": "https://scryfall.com/sets/aecl",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aaecl&unique=prints",
+  "released_at": "2026-01-23",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "ecl",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ecl.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:45.802Z"
+}

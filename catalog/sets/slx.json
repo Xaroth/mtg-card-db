@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "3c318e12-9152-4300-a096-4f58a6438897",
+  "code": "slx",
+  "tcgplayer_id": 3054,
+  "name": "Universes Within",
+  "uri": "https://api.scryfall.com/sets/3c318e12-9152-4300-a096-4f58a6438897",
+  "scryfall_uri": "https://scryfall.com/sets/slx",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aslx&unique=prints",
+  "released_at": "2022-03-03",
+  "set_type": "masters",
+  "card_count": 30,
+  "parent_set_code": "sld",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:29.799Z"
+}

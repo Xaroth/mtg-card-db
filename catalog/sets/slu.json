@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "6333fd9a-d48e-497f-83fd-30609018e5cb",
+  "code": "slu",
+  "tcgplayer_id": 2632,
+  "name": "Secret Lair: Ultimate Edition",
+  "uri": "https://api.scryfall.com/sets/6333fd9a-d48e-497f-83fd-30609018e5cb",
+  "scryfall_uri": "https://scryfall.com/sets/slu",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aslu&unique=prints",
+  "released_at": "2020-05-29",
+  "set_type": "box",
+  "card_count": 16,
+  "parent_set_code": "sld",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:29.603Z"
+}

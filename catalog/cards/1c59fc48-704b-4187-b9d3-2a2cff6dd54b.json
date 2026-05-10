@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "1c59fc48-704b-4187-b9d3-2a2cff6dd54b",
+  "name": "Snow-Covered Forest",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "collector_number": "254",
+  "rarity": "common",
+  "type_line": "Basic Snow Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/c/1c59fc48-704b-4187-b9d3-2a2cff6dd54b.jpg?1562202644",
+    "normal": "https://cards.scryfall.io/normal/front/1/c/1c59fc48-704b-4187-b9d3-2a2cff6dd54b.jpg?1562202644",
+    "large": "https://cards.scryfall.io/large/front/1/c/1c59fc48-704b-4187-b9d3-2a2cff6dd54b.jpg?1562202644",
+    "png": "https://cards.scryfall.io/png/front/1/c/1c59fc48-704b-4187-b9d3-2a2cff6dd54b.png?1562202644",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/c/1c59fc48-704b-4187-b9d3-2a2cff6dd54b.jpg?1562202644",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/c/1c59fc48-704b-4187-b9d3-2a2cff6dd54b.jpg?1562202644"
+  },
+  "prices": {
+    "usd": "1.00",
+    "usd_foil": "5.80",
+    "usd_etched": null,
+    "eur": "0.73",
+    "eur_foil": "2.63",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/mh1/254/snow-covered-forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/1c59fc48-704b-4187-b9d3-2a2cff6dd54b",
+  "_catalogFetchedAt": "2026-05-10T22:29:50.157Z"
+}

@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "d34ef41f-624e-4bf2-9cec-7a7325e474c5",
+  "code": "yone",
+  "name": "Alchemy: Phyrexia",
+  "uri": "https://api.scryfall.com/sets/d34ef41f-624e-4bf2-9cec-7a7325e474c5",
+  "scryfall_uri": "https://scryfall.com/sets/yone",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ayone&unique=prints",
+  "released_at": "2023-02-28",
+  "set_type": "alchemy",
+  "card_count": 30,
+  "parent_set_code": "one",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "y23",
+  "block": "Alchemy 2023",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y23.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:36.825Z"
+}

@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "b2c4b255-2603-478b-b343-3f3bd433896d",
+  "code": "smid",
+  "name": "Innistrad: Midnight Hunt Substitute Cards",
+  "uri": "https://api.scryfall.com/sets/b2c4b255-2603-478b-b343-3f3bd433896d",
+  "scryfall_uri": "https://scryfall.com/sets/smid",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asmid&unique=prints",
+  "released_at": "2021-09-24",
+  "set_type": "token",
+  "card_count": 9,
+  "parent_set_code": "mid",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "dbl",
+  "block": "Innistrad: Double Feature",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mid.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:30.208Z"
+}

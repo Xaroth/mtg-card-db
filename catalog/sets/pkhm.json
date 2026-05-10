@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "code": "pkhm",
+  "name": "Kaldheim Promos",
+  "uri": "https://api.scryfall.com/sets/4d7b6bf0-0ded-49a0-8c0e-b1ae2bfba77c",
+  "scryfall_uri": "https://scryfall.com/sets/pkhm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apkhm&unique=prints",
+  "released_at": "2021-02-05",
+  "set_type": "promo",
+  "card_count": 158,
+  "parent_set_code": "khm",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/khm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:48.617Z"
+}

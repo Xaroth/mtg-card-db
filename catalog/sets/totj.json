@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "d287eb38-a1b8-4d01-bdfe-4ccbd2837145",
+  "code": "totj",
+  "name": "Outlaws of Thunder Junction Tokens",
+  "uri": "https://api.scryfall.com/sets/d287eb38-a1b8-4d01-bdfe-4ccbd2837145",
+  "scryfall_uri": "https://scryfall.com/sets/totj",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atotj&unique=prints",
+  "released_at": "2024-04-19",
+  "set_type": "token",
+  "card_count": 19,
+  "parent_set_code": "otj",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/otj.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:11.044Z"
+}

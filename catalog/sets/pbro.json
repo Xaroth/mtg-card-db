@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "7e8b0464-6ce5-4184-abc7-3de544eebc6a",
+  "code": "pbro",
+  "name": "The Brothers' War Promos",
+  "uri": "https://api.scryfall.com/sets/7e8b0464-6ce5-4184-abc7-3de544eebc6a",
+  "scryfall_uri": "https://scryfall.com/sets/pbro",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apbro&unique=prints",
+  "released_at": "2022-11-18",
+  "set_type": "promo",
+  "card_count": 171,
+  "parent_set_code": "bro",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:29.567Z"
+}

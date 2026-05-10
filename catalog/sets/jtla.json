@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "95083f2b-0a39-4878-8c18-baa51aa22677",
+  "code": "jtla",
+  "name": "Avatar: The Last Airbender Jumpstart Front Cards",
+  "uri": "https://api.scryfall.com/sets/95083f2b-0a39-4878-8c18-baa51aa22677",
+  "scryfall_uri": "https://scryfall.com/sets/jtla",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ajtla&unique=prints",
+  "released_at": "2025-11-21",
+  "set_type": "memorabilia",
+  "card_count": 46,
+  "parent_set_code": "tla",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tla.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:47.528Z"
+}

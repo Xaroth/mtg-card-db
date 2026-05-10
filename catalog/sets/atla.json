@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "8b34342c-6a98-482f-82bf-358e500fd8ff",
+  "code": "atla",
+  "name": "Avatar: the Last Airbender Art Series",
+  "uri": "https://api.scryfall.com/sets/8b34342c-6a98-482f-82bf-358e500fd8ff",
+  "scryfall_uri": "https://scryfall.com/sets/atla",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aatla&unique=prints",
+  "released_at": "2025-11-21",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "tla",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tla.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:53.607Z"
+}

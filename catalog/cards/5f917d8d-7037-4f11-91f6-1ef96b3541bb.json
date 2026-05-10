@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "5f917d8d-7037-4f11-91f6-1ef96b3541bb",
+  "name": "Swamp",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "collector_number": "276",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/f/5f917d8d-7037-4f11-91f6-1ef96b3541bb.jpg?1684885213",
+    "normal": "https://cards.scryfall.io/normal/front/5/f/5f917d8d-7037-4f11-91f6-1ef96b3541bb.jpg?1684885213",
+    "large": "https://cards.scryfall.io/large/front/5/f/5f917d8d-7037-4f11-91f6-1ef96b3541bb.jpg?1684885213",
+    "png": "https://cards.scryfall.io/png/front/5/f/5f917d8d-7037-4f11-91f6-1ef96b3541bb.png?1684885213",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/f/5f917d8d-7037-4f11-91f6-1ef96b3541bb.jpg?1684885213",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/f/5f917d8d-7037-4f11-91f6-1ef96b3541bb.jpg?1684885213"
+  },
+  "prices": {
+    "usd": "0.60",
+    "usd_foil": "1.67",
+    "usd_etched": null,
+    "eur": "0.57",
+    "eur_foil": "0.88",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/snc/276/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/5f917d8d-7037-4f11-91f6-1ef96b3541bb",
+  "_catalogFetchedAt": "2026-05-10T22:32:08.373Z"
+}

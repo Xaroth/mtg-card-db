@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "a7f56d20-16dc-4b7f-98bf-124817a83bae",
+  "name": "Swamp",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "collector_number": "301",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/7/a7f56d20-16dc-4b7f-98bf-124817a83bae.jpg?1748706903",
+    "normal": "https://cards.scryfall.io/normal/front/a/7/a7f56d20-16dc-4b7f-98bf-124817a83bae.jpg?1748706903",
+    "large": "https://cards.scryfall.io/large/front/a/7/a7f56d20-16dc-4b7f-98bf-124817a83bae.jpg?1748706903",
+    "png": "https://cards.scryfall.io/png/front/a/7/a7f56d20-16dc-4b7f-98bf-124817a83bae.png?1748706903",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/7/a7f56d20-16dc-4b7f-98bf-124817a83bae.jpg?1748706903",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/7/a7f56d20-16dc-4b7f-98bf-124817a83bae.jpg?1748706903"
+  },
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": "0.37",
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": "0.31",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/fin/301/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/a7f56d20-16dc-4b7f-98bf-124817a83bae",
+  "_catalogFetchedAt": "2026-05-10T22:29:46.350Z"
+}

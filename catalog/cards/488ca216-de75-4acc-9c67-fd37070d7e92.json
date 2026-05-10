@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "488ca216-de75-4acc-9c67-fd37070d7e92",
+  "name": "Mountain",
+  "set": "tla",
+  "set_name": "Avatar: The Last Airbender",
+  "collector_number": "295",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/8/488ca216-de75-4acc-9c67-fd37070d7e92.jpg?1764122132",
+    "normal": "https://cards.scryfall.io/normal/front/4/8/488ca216-de75-4acc-9c67-fd37070d7e92.jpg?1764122132",
+    "large": "https://cards.scryfall.io/large/front/4/8/488ca216-de75-4acc-9c67-fd37070d7e92.jpg?1764122132",
+    "png": "https://cards.scryfall.io/png/front/4/8/488ca216-de75-4acc-9c67-fd37070d7e92.png?1764122132",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/8/488ca216-de75-4acc-9c67-fd37070d7e92.jpg?1764122132",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/8/488ca216-de75-4acc-9c67-fd37070d7e92.jpg?1764122132"
+  },
+  "prices": {
+    "usd": "0.38",
+    "usd_foil": "0.68",
+    "usd_etched": null,
+    "eur": "0.27",
+    "eur_foil": "0.49",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/tla/295/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/488ca216-de75-4acc-9c67-fd37070d7e92",
+  "_catalogFetchedAt": "2026-05-10T22:32:16.520Z"
+}

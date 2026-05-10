@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "fccfdf97-f5f2-43b4-9be9-9255414e6633",
+  "code": "und",
+  "tcgplayer_id": 2598,
+  "name": "Unsanctioned",
+  "uri": "https://api.scryfall.com/sets/fccfdf97-f5f2-43b4-9be9-9255414e6633",
+  "scryfall_uri": "https://scryfall.com/sets/und",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aund&unique=prints",
+  "released_at": "2020-02-29",
+  "set_type": "funny",
+  "card_count": 96,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/und.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:25.602Z"
+}

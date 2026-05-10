@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "d4474b31-acac-4d3b-9baa-b596f829070b",
+  "code": "pm21",
+  "name": "Core Set 2021 Promos",
+  "uri": "https://api.scryfall.com/sets/d4474b31-acac-4d3b-9baa-b596f829070b",
+  "scryfall_uri": "https://scryfall.com/sets/pm21",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apm21&unique=prints",
+  "released_at": "2020-07-03",
+  "set_type": "promo",
+  "card_count": 137,
+  "parent_set_code": "m21",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/m21.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:54.992Z"
+}

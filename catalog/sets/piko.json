@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "0e5fad97-b777-437a-b015-44428c42bf46",
+  "code": "piko",
+  "name": "Ikoria: Lair of Behemoths Promos",
+  "uri": "https://api.scryfall.com/sets/0e5fad97-b777-437a-b015-44428c42bf46",
+  "scryfall_uri": "https://scryfall.com/sets/piko",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apiko&unique=prints",
+  "released_at": "2020-04-24",
+  "set_type": "promo",
+  "card_count": 137,
+  "parent_set_code": "iko",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/iko.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:46.181Z"
+}

@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "05fccc6b-1c39-46b6-a492-ac9383a5abfe",
+  "code": "q07",
+  "name": "Challenger Decks 2022",
+  "uri": "https://api.scryfall.com/sets/05fccc6b-1c39-46b6-a492-ac9383a5abfe",
+  "scryfall_uri": "https://scryfall.com/sets/q07",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aq07&unique=prints",
+  "released_at": "2022-04-01",
+  "set_type": "box",
+  "card_count": 1,
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:24.399Z"
+}

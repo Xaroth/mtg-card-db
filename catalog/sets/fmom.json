@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "edb1f50c-2155-469c-b134-eb2d803c4e99",
+  "code": "fmom",
+  "name": "March of the Machine Jumpstart Front Cards",
+  "uri": "https://api.scryfall.com/sets/edb1f50c-2155-469c-b134-eb2d803c4e99",
+  "scryfall_uri": "https://scryfall.com/sets/fmom",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Afmom&unique=prints",
+  "released_at": "2023-04-21",
+  "set_type": "memorabilia",
+  "card_count": 5,
+  "parent_set_code": "mom",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:30.036Z"
+}

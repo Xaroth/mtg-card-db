@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "e19b1496-25e6-4aa8-ba89-3b0de097a3e9",
+  "code": "pnat",
+  "name": "Nationals Promos",
+  "uri": "https://api.scryfall.com/sets/e19b1496-25e6-4aa8-ba89-3b0de097a3e9",
+  "scryfall_uri": "https://scryfall.com/sets/pnat",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apnat&unique=prints",
+  "released_at": "2018-01-25",
+  "set_type": "promo",
+  "card_count": 1,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:59.590Z"
+}

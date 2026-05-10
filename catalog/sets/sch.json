@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "211b56b9-961e-4eab-8245-a2f52dd9af47",
+  "code": "sch",
+  "name": "Store Championships",
+  "uri": "https://api.scryfall.com/sets/211b56b9-961e-4eab-8245-a2f52dd9af47",
+  "scryfall_uri": "https://scryfall.com/sets/sch",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asch&unique=prints",
+  "released_at": "2022-07-09",
+  "set_type": "promo",
+  "card_count": 50,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:27.805Z"
+}

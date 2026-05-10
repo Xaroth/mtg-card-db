@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "code": "pwar",
+  "name": "War of the Spark Promos",
+  "uri": "https://api.scryfall.com/sets/9981777b-983e-4f17-b9b1-fe32cf243e23",
+  "scryfall_uri": "https://scryfall.com/sets/pwar",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apwar&unique=prints",
+  "released_at": "2019-05-03",
+  "set_type": "promo",
+  "card_count": 176,
+  "parent_set_code": "war",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/war.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:21.609Z"
+}

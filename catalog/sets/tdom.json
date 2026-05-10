@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "c402d02c-7d42-41e4-99ea-d2540ca10b0c",
+  "code": "tdom",
+  "name": "Dominaria Tokens",
+  "uri": "https://api.scryfall.com/sets/c402d02c-7d42-41e4-99ea-d2540ca10b0c",
+  "scryfall_uri": "https://scryfall.com/sets/tdom",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atdom&unique=prints",
+  "released_at": "2018-04-27",
+  "set_type": "token",
+  "card_count": 16,
+  "parent_set_code": "dom",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dom.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:50.182Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "af227796-67f1-472a-9dd8-3e28e2a9d815",
+  "code": "mafr",
+  "name": "Adventures in the Forgotten Realms Minigames",
+  "uri": "https://api.scryfall.com/sets/af227796-67f1-472a-9dd8-3e28e2a9d815",
+  "scryfall_uri": "https://scryfall.com/sets/mafr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amafr&unique=prints",
+  "released_at": "2021-07-23",
+  "set_type": "minigame",
+  "card_count": 5,
+  "parent_set_code": "afr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/afr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:54.482Z"
+}

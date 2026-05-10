@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "64e1763b-7bcc-45a1-b1b2-69277b754caf",
+  "code": "ysnc",
+  "name": "Alchemy: New Capenna",
+  "uri": "https://api.scryfall.com/sets/64e1763b-7bcc-45a1-b1b2-69277b754caf",
+  "scryfall_uri": "https://scryfall.com/sets/ysnc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aysnc&unique=prints",
+  "released_at": "2022-06-02",
+  "set_type": "alchemy",
+  "card_count": 30,
+  "parent_set_code": "snc",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "y22",
+  "block": "Alchemy 2022",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y22.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:37.326Z"
+}

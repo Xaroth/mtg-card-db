@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "ab53b300-38b2-436c-834c-b0162dd3b757",
+  "name": "Plains",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "collector_number": "263",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/b/ab53b300-38b2-436c-834c-b0162dd3b757.jpg?1721427378",
+    "normal": "https://cards.scryfall.io/normal/front/a/b/ab53b300-38b2-436c-834c-b0162dd3b757.jpg?1721427378",
+    "large": "https://cards.scryfall.io/large/front/a/b/ab53b300-38b2-436c-834c-b0162dd3b757.jpg?1721427378",
+    "png": "https://cards.scryfall.io/png/front/a/b/ab53b300-38b2-436c-834c-b0162dd3b757.png?1721427378",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/b/ab53b300-38b2-436c-834c-b0162dd3b757.jpg?1721427378",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/b/ab53b300-38b2-436c-834c-b0162dd3b757.jpg?1721427378"
+  },
+  "prices": {
+    "usd": "0.34",
+    "usd_foil": "0.51",
+    "usd_etched": null,
+    "eur": "0.30",
+    "eur_foil": "0.48",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/blb/263/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/ab53b300-38b2-436c-834c-b0162dd3b757",
+  "_catalogFetchedAt": "2026-05-10T22:15:57.104Z"
+}

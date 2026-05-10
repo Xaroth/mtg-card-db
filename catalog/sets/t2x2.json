@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "9645dac1-faea-41a3-83c3-20df714c2c92",
+  "code": "t2x2",
+  "name": "Double Masters 2022 Tokens",
+  "uri": "https://api.scryfall.com/sets/9645dac1-faea-41a3-83c3-20df714c2c92",
+  "scryfall_uri": "https://scryfall.com/sets/t2x2",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3At2x2&unique=prints",
+  "released_at": "2022-07-08",
+  "set_type": "token",
+  "card_count": 24,
+  "printed_size": 24,
+  "parent_set_code": "2x2",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/2x2.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:35.205Z"
+}

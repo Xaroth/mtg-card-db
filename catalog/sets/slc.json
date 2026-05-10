@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "8224dce1-ca9c-45af-ac77-78bfc6042ae2",
+  "code": "slc",
+  "tcgplayer_id": 17667,
+  "name": "Secret Lair Countdown",
+  "uri": "https://api.scryfall.com/sets/8224dce1-ca9c-45af-ac77-78bfc6042ae2",
+  "scryfall_uri": "https://scryfall.com/sets/slc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aslc&unique=prints",
+  "released_at": "2022-11-01",
+  "set_type": "box",
+  "card_count": 84,
+  "parent_set_code": "sld",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:28.814Z"
+}

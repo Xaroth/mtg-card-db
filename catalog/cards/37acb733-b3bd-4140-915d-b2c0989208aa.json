@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "37acb733-b3bd-4140-915d-b2c0989208aa",
+  "name": "Mountain",
+  "set": "bfz",
+  "set_name": "Battle for Zendikar",
+  "collector_number": "267",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/7/37acb733-b3bd-4140-915d-b2c0989208aa.jpg?1562908075",
+    "normal": "https://cards.scryfall.io/normal/front/3/7/37acb733-b3bd-4140-915d-b2c0989208aa.jpg?1562908075",
+    "large": "https://cards.scryfall.io/large/front/3/7/37acb733-b3bd-4140-915d-b2c0989208aa.jpg?1562908075",
+    "png": "https://cards.scryfall.io/png/front/3/7/37acb733-b3bd-4140-915d-b2c0989208aa.png?1562908075",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/7/37acb733-b3bd-4140-915d-b2c0989208aa.jpg?1562908075",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/7/37acb733-b3bd-4140-915d-b2c0989208aa.jpg?1562908075"
+  },
+  "prices": {
+    "usd": "0.29",
+    "usd_foil": "2.49",
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": "1.51",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/bfz/267/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/37acb733-b3bd-4140-915d-b2c0989208aa",
+  "_catalogFetchedAt": "2026-05-10T22:15:56.202Z"
+}

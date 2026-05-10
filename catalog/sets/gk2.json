@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "ce193344-b2a8-4b56-8243-c6ba4f6e20ef",
+  "code": "gk2",
+  "tcgplayer_id": 2388,
+  "name": "RNA Guild Kit",
+  "uri": "https://api.scryfall.com/sets/ce193344-b2a8-4b56-8243-c6ba4f6e20ef",
+  "scryfall_uri": "https://scryfall.com/sets/gk2",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Agk2&unique=prints",
+  "released_at": "2019-02-15",
+  "set_type": "box",
+  "card_count": 133,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/rna.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:35.050Z"
+}

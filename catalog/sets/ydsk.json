@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "b451dcad-db03-4ebd-9155-6cafe0240f66",
+  "code": "ydsk",
+  "name": "Alchemy: Duskmourn",
+  "uri": "https://api.scryfall.com/sets/b451dcad-db03-4ebd-9155-6cafe0240f66",
+  "scryfall_uri": "https://scryfall.com/sets/ydsk",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aydsk&unique=prints",
+  "released_at": "2024-10-15",
+  "set_type": "alchemy",
+  "card_count": 30,
+  "parent_set_code": "dsk",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y25.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:35.428Z"
+}

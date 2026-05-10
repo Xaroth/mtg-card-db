@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "59fd7824-7248-420f-95bf-5c23bfbad276",
+  "code": "wone",
+  "name": "ONE Japanese Promo Tokens",
+  "uri": "https://api.scryfall.com/sets/59fd7824-7248-420f-95bf-5c23bfbad276",
+  "scryfall_uri": "https://scryfall.com/sets/wone",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Awone&unique=prints",
+  "released_at": "2023-01-27",
+  "set_type": "token",
+  "card_count": 6,
+  "parent_set_code": "one",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:33.242Z"
+}

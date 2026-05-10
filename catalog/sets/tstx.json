@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "5a24058d-2b14-4f38-b906-9d2509da1c90",
+  "code": "tstx",
+  "name": "Strixhaven: School of Mages Tokens",
+  "uri": "https://api.scryfall.com/sets/5a24058d-2b14-4f38-b906-9d2509da1c90",
+  "scryfall_uri": "https://scryfall.com/sets/tstx",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atstx&unique=prints",
+  "released_at": "2021-04-23",
+  "set_type": "token",
+  "card_count": 9,
+  "printed_size": 9,
+  "parent_set_code": "stx",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:15.530Z"
+}

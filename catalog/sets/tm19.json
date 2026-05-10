@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "f291a61b-4afa-4c57-85ac-c67d5ab1403d",
+  "code": "tm19",
+  "name": "Core Set 2019 Tokens",
+  "uri": "https://api.scryfall.com/sets/f291a61b-4afa-4c57-85ac-c67d5ab1403d",
+  "scryfall_uri": "https://scryfall.com/sets/tm19",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atm19&unique=prints",
+  "released_at": "2018-07-13",
+  "set_type": "token",
+  "card_count": 18,
+  "parent_set_code": "m19",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/m19.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:02.065Z"
+}

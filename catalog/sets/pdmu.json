@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "8d8c82dd-0cc2-43b8-8d1c-7620fc4d98d7",
+  "code": "pdmu",
+  "name": "Dominaria United Promos",
+  "uri": "https://api.scryfall.com/sets/8d8c82dd-0cc2-43b8-8d1c-7620fc4d98d7",
+  "scryfall_uri": "https://scryfall.com/sets/pdmu",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apdmu&unique=prints",
+  "released_at": "2022-09-09",
+  "set_type": "promo",
+  "card_count": 161,
+  "parent_set_code": "dmu",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:33.989Z"
+}

@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "6865f8ba-0884-498a-acd9-a765d7368e89",
+  "code": "pr23",
+  "name": "Regional Championship Qualifiers 2023",
+  "uri": "https://api.scryfall.com/sets/6865f8ba-0884-498a-acd9-a765d7368e89",
+  "scryfall_uri": "https://scryfall.com/sets/pr23",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apr23&unique=prints",
+  "released_at": "2023-01-07",
+  "set_type": "promo",
+  "card_count": 3,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:03.615Z"
+}

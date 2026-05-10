@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "ee023dc4-fe71-4224-be95-7c889d771ee1",
+  "code": "tznr",
+  "name": "Zendikar Rising Tokens",
+  "uri": "https://api.scryfall.com/sets/ee023dc4-fe71-4224-be95-7c889d771ee1",
+  "scryfall_uri": "https://scryfall.com/sets/tznr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atznr&unique=prints",
+  "released_at": "2020-09-25",
+  "set_type": "token",
+  "card_count": 12,
+  "parent_set_code": "znr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/znr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:24.016Z"
+}

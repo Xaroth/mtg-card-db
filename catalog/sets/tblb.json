@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "98ffb0ad-639e-4861-b81d-dd5ae734badf",
+  "code": "tblb",
+  "name": "Bloomburrow Tokens",
+  "uri": "https://api.scryfall.com/sets/98ffb0ad-639e-4861-b81d-dd5ae734badf",
+  "scryfall_uri": "https://scryfall.com/sets/tblb",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atblb&unique=prints",
+  "released_at": "2024-08-02",
+  "set_type": "token",
+  "card_count": 30,
+  "parent_set_code": "blb",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/blb.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:38.416Z"
+}

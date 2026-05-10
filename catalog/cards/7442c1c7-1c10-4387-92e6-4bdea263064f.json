@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "7442c1c7-1c10-4387-92e6-4bdea263064f",
+  "name": "Swamp",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "collector_number": "274",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/4/7442c1c7-1c10-4387-92e6-4bdea263064f.jpg?1726286897",
+    "normal": "https://cards.scryfall.io/normal/front/7/4/7442c1c7-1c10-4387-92e6-4bdea263064f.jpg?1726286897",
+    "large": "https://cards.scryfall.io/large/front/7/4/7442c1c7-1c10-4387-92e6-4bdea263064f.jpg?1726286897",
+    "png": "https://cards.scryfall.io/png/front/7/4/7442c1c7-1c10-4387-92e6-4bdea263064f.png?1726286897",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/4/7442c1c7-1c10-4387-92e6-4bdea263064f.jpg?1726286897",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/4/7442c1c7-1c10-4387-92e6-4bdea263064f.jpg?1726286897"
+  },
+  "prices": {
+    "usd": "0.97",
+    "usd_foil": "1.20",
+    "usd_etched": null,
+    "eur": "0.52",
+    "eur_foil": "0.47",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/dsk/274/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/7442c1c7-1c10-4387-92e6-4bdea263064f",
+  "_catalogFetchedAt": "2026-05-10T22:16:01.944Z"
+}

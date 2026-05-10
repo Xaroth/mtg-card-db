@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "b25a75f7-3f5b-4056-8ab8-a463d18ce818",
+  "code": "tmh2",
+  "name": "Modern Horizons 2 Tokens",
+  "uri": "https://api.scryfall.com/sets/b25a75f7-3f5b-4056-8ab8-a463d18ce818",
+  "scryfall_uri": "https://scryfall.com/sets/tmh2",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmh2&unique=prints",
+  "released_at": "2021-06-18",
+  "set_type": "token",
+  "card_count": 21,
+  "printed_size": 21,
+  "parent_set_code": "mh2",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:04.402Z"
+}

@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "06ce6bc2-85cd-4cca-85b1-8c620d3e0902",
+  "code": "c18",
+  "tcgplayer_id": 2251,
+  "name": "Commander 2018",
+  "uri": "https://api.scryfall.com/sets/06ce6bc2-85cd-4cca-85b1-8c620d3e0902",
+  "scryfall_uri": "https://scryfall.com/sets/c18",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ac18&unique=prints",
+  "released_at": "2018-08-10",
+  "set_type": "commander",
+  "card_count": 307,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/c18.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:59.020Z"
+}

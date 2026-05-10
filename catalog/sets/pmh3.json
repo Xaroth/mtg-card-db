@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "8f33d6e8-fe8a-4c8e-a96d-8fe32660e775",
+  "code": "pmh3",
+  "name": "Modern Horizons 3 Promos",
+  "uri": "https://api.scryfall.com/sets/8f33d6e8-fe8a-4c8e-a96d-8fe32660e775",
+  "scryfall_uri": "https://scryfall.com/sets/pmh3",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmh3&unique=prints",
+  "released_at": "2024-06-14",
+  "set_type": "promo",
+  "card_count": 92,
+  "parent_set_code": "mh3",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mh3.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:56.410Z"
+}

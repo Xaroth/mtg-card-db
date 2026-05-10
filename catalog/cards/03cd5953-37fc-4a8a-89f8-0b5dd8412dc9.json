@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "03cd5953-37fc-4a8a-89f8-0b5dd8412dc9",
+  "name": "Mountain",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "collector_number": "299",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1655495450",
+    "normal": "https://cards.scryfall.io/normal/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1655495450",
+    "large": "https://cards.scryfall.io/large/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1655495450",
+    "png": "https://cards.scryfall.io/png/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.png?1655495450",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1655495450",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1655495450"
+  },
+  "prices": {
+    "usd": "3.66",
+    "usd_foil": "4.09",
+    "usd_etched": null,
+    "eur": "2.02",
+    "eur_foil": "3.92",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/neo/299/ja/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9",
+  "_catalogFetchedAt": "2026-05-10T22:29:53.970Z"
+}

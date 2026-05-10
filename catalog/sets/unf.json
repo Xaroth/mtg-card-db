@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "b314f553-8f07-4ba9-96c8-16be7784eff3",
+  "code": "unf",
+  "tcgplayer_id": 2958,
+  "name": "Unfinity",
+  "uri": "https://api.scryfall.com/sets/b314f553-8f07-4ba9-96c8-16be7784eff3",
+  "scryfall_uri": "https://scryfall.com/sets/unf",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aunf&unique=prints",
+  "released_at": "2022-10-07",
+  "set_type": "funny",
+  "card_count": 639,
+  "printed_size": 244,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/unf.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:25.822Z"
+}

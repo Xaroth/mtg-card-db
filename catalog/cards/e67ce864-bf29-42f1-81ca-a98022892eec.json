@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "e67ce864-bf29-42f1-81ca-a98022892eec",
+  "name": "Plains",
+  "set": "dsk",
+  "set_name": "Duskmourn: House of Horror",
+  "collector_number": "272",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/6/e67ce864-bf29-42f1-81ca-a98022892eec.jpg?1726286890",
+    "normal": "https://cards.scryfall.io/normal/front/e/6/e67ce864-bf29-42f1-81ca-a98022892eec.jpg?1726286890",
+    "large": "https://cards.scryfall.io/large/front/e/6/e67ce864-bf29-42f1-81ca-a98022892eec.jpg?1726286890",
+    "png": "https://cards.scryfall.io/png/front/e/6/e67ce864-bf29-42f1-81ca-a98022892eec.png?1726286890",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/6/e67ce864-bf29-42f1-81ca-a98022892eec.jpg?1726286890",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/6/e67ce864-bf29-42f1-81ca-a98022892eec.jpg?1726286890"
+  },
+  "prices": {
+    "usd": "0.35",
+    "usd_foil": "0.35",
+    "usd_etched": null,
+    "eur": "0.31",
+    "eur_foil": "0.22",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/dsk/272/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/e67ce864-bf29-42f1-81ca-a98022892eec",
+  "_catalogFetchedAt": "2026-05-10T22:16:01.743Z"
+}

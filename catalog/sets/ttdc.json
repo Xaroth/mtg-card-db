@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "2a667754-20c4-4deb-b2b6-d9f7c018c190",
+  "code": "ttdc",
+  "name": "Tarkir: Dragonstorm Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/2a667754-20c4-4deb-b2b6-d9f7c018c190",
+  "scryfall_uri": "https://scryfall.com/sets/ttdc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Attdc&unique=prints",
+  "released_at": "2025-04-11",
+  "set_type": "token",
+  "card_count": 34,
+  "parent_set_code": "tdc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tdc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:15.726Z"
+}

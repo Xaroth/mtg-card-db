@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "ea8a86b2-f171-4942-b52c-6c4e67d1acca",
+  "code": "pgrn",
+  "name": "Guilds of Ravnica Promos",
+  "uri": "https://api.scryfall.com/sets/ea8a86b2-f171-4942-b52c-6c4e67d1acca",
+  "scryfall_uri": "https://scryfall.com/sets/pgrn",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apgrn&unique=prints",
+  "released_at": "2018-10-05",
+  "set_type": "promo",
+  "card_count": 84,
+  "parent_set_code": "grn",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "grn",
+  "block": "Guilds of Ravnica",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:42.861Z"
+}

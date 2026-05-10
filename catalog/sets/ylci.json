@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "6e26aecd-60e0-4947-b1b2-47ca9416970a",
+  "code": "ylci",
+  "name": "Alchemy: Ixalan",
+  "uri": "https://api.scryfall.com/sets/6e26aecd-60e0-4947-b1b2-47ca9416970a",
+  "scryfall_uri": "https://scryfall.com/sets/ylci",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aylci&unique=prints",
+  "released_at": "2023-12-05",
+  "set_type": "alchemy",
+  "card_count": 30,
+  "parent_set_code": "lci",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "y24",
+  "block": "Alchemy 2024",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y24.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:36.018Z"
+}

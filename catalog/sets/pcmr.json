@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+  "code": "pcmr",
+  "name": "Commander Legends Promos",
+  "uri": "https://api.scryfall.com/sets/a850cf95-dd0b-43fa-9889-4dbd1299f85d",
+  "scryfall_uri": "https://scryfall.com/sets/pcmr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apcmr&unique=prints",
+  "released_at": "2020-11-20",
+  "set_type": "promo",
+  "card_count": 6,
+  "parent_set_code": "cmr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/cmr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:31.372Z"
+}

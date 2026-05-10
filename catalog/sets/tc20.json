@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "bc7f97a6-1fd5-43cf-98f9-9f0d4872b2d1",
+  "code": "tc20",
+  "name": "Commander 2020 Tokens",
+  "uri": "https://api.scryfall.com/sets/bc7f97a6-1fd5-43cf-98f9-9f0d4872b2d1",
+  "scryfall_uri": "https://scryfall.com/sets/tc20",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atc20&unique=prints",
+  "released_at": "2020-04-17",
+  "set_type": "token",
+  "card_count": 20,
+  "parent_set_code": "c20",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/c20.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:41.010Z"
+}

@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "3a6a9844-812a-4576-ab71-0e7bc9b16f3b",
+  "code": "prwk",
+  "name": "GRN Ravnica Weekend",
+  "uri": "https://api.scryfall.com/sets/3a6a9844-812a-4576-ab71-0e7bc9b16f3b",
+  "scryfall_uri": "https://scryfall.com/sets/prwk",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aprwk&unique=prints",
+  "released_at": "2018-11-09",
+  "set_type": "promo",
+  "card_count": 10,
+  "parent_set_code": "grn",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "block_code": "grn",
+  "block": "Guilds of Ravnica",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:08.589Z"
+}

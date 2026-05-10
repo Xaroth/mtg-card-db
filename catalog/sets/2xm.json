@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "code": "2xm",
+  "mtgo_code": "2xm",
+  "arena_code": "2xm",
+  "tcgplayer_id": 2655,
+  "name": "Double Masters",
+  "uri": "https://api.scryfall.com/sets/372dafe8-b5d1-4b81-998f-3ae96b59498a",
+  "scryfall_uri": "https://scryfall.com/sets/2xm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A2xm&unique=prints",
+  "released_at": "2020-08-07",
+  "set_type": "masters",
+  "card_count": 384,
+  "printed_size": 332,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/2xm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:40.381Z"
+}

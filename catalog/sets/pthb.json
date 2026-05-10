@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "66d787e4-101d-4f72-a4ed-7c38df9b99fe",
+  "code": "pthb",
+  "name": "Theros Beyond Death Promos",
+  "uri": "https://api.scryfall.com/sets/66d787e4-101d-4f72-a4ed-7c38df9b99fe",
+  "scryfall_uri": "https://scryfall.com/sets/pthb",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apthb&unique=prints",
+  "released_at": "2020-01-24",
+  "set_type": "promo",
+  "card_count": 137,
+  "parent_set_code": "thb",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/thb.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:15.840Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "7a298c5d-9937-4df6-a544-7b3bcfe84885",
+  "name": "Mountain",
+  "set": "zen",
+  "set_name": "Zendikar",
+  "collector_number": "245",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/a/7a298c5d-9937-4df6-a544-7b3bcfe84885.jpg?1562613612",
+    "normal": "https://cards.scryfall.io/normal/front/7/a/7a298c5d-9937-4df6-a544-7b3bcfe84885.jpg?1562613612",
+    "large": "https://cards.scryfall.io/large/front/7/a/7a298c5d-9937-4df6-a544-7b3bcfe84885.jpg?1562613612",
+    "png": "https://cards.scryfall.io/png/front/7/a/7a298c5d-9937-4df6-a544-7b3bcfe84885.png?1562613612",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7a298c5d-9937-4df6-a544-7b3bcfe84885.jpg?1562613612",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7a298c5d-9937-4df6-a544-7b3bcfe84885.jpg?1562613612"
+  },
+  "prices": {
+    "usd": "0.51",
+    "usd_foil": "4.94",
+    "usd_etched": null,
+    "eur": "0.31",
+    "eur_foil": "3.91",
+    "tix": "0.04"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/zen/245/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/7a298c5d-9937-4df6-a544-7b3bcfe84885",
+  "_catalogFetchedAt": "2026-05-10T22:32:34.931Z"
+}

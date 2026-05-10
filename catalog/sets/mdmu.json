@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "86ed728a-cc0e-4d10-9d12-9f6be42c6ec7",
+  "code": "mdmu",
+  "name": "Dominaria United Minigames",
+  "uri": "https://api.scryfall.com/sets/86ed728a-cc0e-4d10-9d12-9f6be42c6ec7",
+  "scryfall_uri": "https://scryfall.com/sets/mdmu",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amdmu&unique=prints",
+  "released_at": "2022-09-09",
+  "set_type": "minigame",
+  "card_count": 3,
+  "parent_set_code": "dmu",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:56.081Z"
+}

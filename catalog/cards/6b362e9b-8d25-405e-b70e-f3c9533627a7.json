@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "6b362e9b-8d25-405e-b70e-f3c9533627a7",
+  "name": "Plains",
+  "set": "zen",
+  "set_name": "Zendikar",
+  "collector_number": "231",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/b/6b362e9b-8d25-405e-b70e-f3c9533627a7.jpg?1562613064",
+    "normal": "https://cards.scryfall.io/normal/front/6/b/6b362e9b-8d25-405e-b70e-f3c9533627a7.jpg?1562613064",
+    "large": "https://cards.scryfall.io/large/front/6/b/6b362e9b-8d25-405e-b70e-f3c9533627a7.jpg?1562613064",
+    "png": "https://cards.scryfall.io/png/front/6/b/6b362e9b-8d25-405e-b70e-f3c9533627a7.png?1562613064",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/b/6b362e9b-8d25-405e-b70e-f3c9533627a7.jpg?1562613064",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/b/6b362e9b-8d25-405e-b70e-f3c9533627a7.jpg?1562613064"
+  },
+  "prices": {
+    "usd": "0.40",
+    "usd_foil": "2.04",
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": "4.94",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/zen/231/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/6b362e9b-8d25-405e-b70e-f3c9533627a7",
+  "_catalogFetchedAt": "2026-05-10T22:32:32.124Z"
+}

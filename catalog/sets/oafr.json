@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "9d2617b0-2953-477b-bd9f-c9f9e47ee71f",
+  "code": "oafr",
+  "name": "Forgotten Realms Oversized Cards",
+  "uri": "https://api.scryfall.com/sets/9d2617b0-2953-477b-bd9f-c9f9e47ee71f",
+  "scryfall_uri": "https://scryfall.com/sets/oafr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aoafr&unique=prints",
+  "released_at": "2021-07-23",
+  "set_type": "memorabilia",
+  "card_count": 3,
+  "parent_set_code": "afr",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/afr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:07.961Z"
+}

@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "95e7f33c-9a0e-4775-bf01-9d85dc57aba1",
+  "code": "pf24",
+  "name": "MagicFest 2024",
+  "uri": "https://api.scryfall.com/sets/95e7f33c-9a0e-4775-bf01-9d85dc57aba1",
+  "scryfall_uri": "https://scryfall.com/sets/pf24",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apf24&unique=prints",
+  "released_at": "2024-01-01",
+  "set_type": "promo",
+  "card_count": 2,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:38.600Z"
+}

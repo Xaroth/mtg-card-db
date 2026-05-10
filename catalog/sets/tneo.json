@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "8bb113fb-6138-4993-877b-5cd01f8d7529",
+  "code": "tneo",
+  "name": "Kamigawa: Neon Dynasty Tokens",
+  "uri": "https://api.scryfall.com/sets/8bb113fb-6138-4993-877b-5cd01f8d7529",
+  "scryfall_uri": "https://scryfall.com/sets/tneo",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atneo&unique=prints",
+  "released_at": "2022-02-18",
+  "set_type": "token",
+  "card_count": 19,
+  "printed_size": 19,
+  "parent_set_code": "neo",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:09.467Z"
+}

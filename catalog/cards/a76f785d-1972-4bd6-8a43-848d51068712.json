@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "a76f785d-1972-4bd6-8a43-848d51068712",
+  "name": "Island",
+  "set": "acr",
+  "set_name": "Assassin's Creed",
+  "collector_number": "104",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/7/a76f785d-1972-4bd6-8a43-848d51068712.jpg?1721424527",
+    "normal": "https://cards.scryfall.io/normal/front/a/7/a76f785d-1972-4bd6-8a43-848d51068712.jpg?1721424527",
+    "large": "https://cards.scryfall.io/large/front/a/7/a76f785d-1972-4bd6-8a43-848d51068712.jpg?1721424527",
+    "png": "https://cards.scryfall.io/png/front/a/7/a76f785d-1972-4bd6-8a43-848d51068712.png?1721424527",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/7/a76f785d-1972-4bd6-8a43-848d51068712.jpg?1721424527",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/7/a76f785d-1972-4bd6-8a43-848d51068712.jpg?1721424527"
+  },
+  "prices": {
+    "usd": "0.34",
+    "usd_foil": "0.48",
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": "0.37",
+    "tix": "0.14"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/acr/104/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/a76f785d-1972-4bd6-8a43-848d51068712",
+  "_catalogFetchedAt": "2026-05-10T22:15:53.306Z"
+}

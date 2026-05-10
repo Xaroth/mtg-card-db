@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "80e2b258-2a37-4c71-a13d-9860d8bd8807",
+  "code": "pewk",
+  "name": "Eternal Weekend",
+  "uri": "https://api.scryfall.com/sets/80e2b258-2a37-4c71-a13d-9860d8bd8807",
+  "scryfall_uri": "https://scryfall.com/sets/pewk",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apewk&unique=prints",
+  "released_at": "2022-11-26",
+  "set_type": "promo",
+  "card_count": 10,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:37.599Z"
+}

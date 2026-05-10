@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "fa6a256f-bad4-495d-a2f7-007c0a773307",
+  "code": "tcm2",
+  "name": "Commander Anthology Volume II Tokens",
+  "uri": "https://api.scryfall.com/sets/fa6a256f-bad4-495d-a2f7-007c0a773307",
+  "scryfall_uri": "https://scryfall.com/sets/tcm2",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atcm2&unique=prints",
+  "released_at": "2018-06-08",
+  "set_type": "token",
+  "card_count": 19,
+  "parent_set_code": "cm2",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/cm2.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:42.031Z"
+}

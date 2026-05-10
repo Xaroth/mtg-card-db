@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "7766a0e4-ff37-4ceb-b68c-6f9336c64ba0",
+  "code": "trna",
+  "name": "Ravnica Allegiance Tokens",
+  "uri": "https://api.scryfall.com/sets/7766a0e4-ff37-4ceb-b68c-6f9336c64ba0",
+  "scryfall_uri": "https://scryfall.com/sets/trna",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atrna&unique=prints",
+  "released_at": "2019-01-25",
+  "set_type": "token",
+  "card_count": 13,
+  "parent_set_code": "rna",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "grn",
+  "block": "Guilds of Ravnica",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/rna.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:12.438Z"
+}

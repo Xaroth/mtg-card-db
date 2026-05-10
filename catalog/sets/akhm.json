@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "b8e64975-c16d-4463-b465-6c7dfcc579ff",
+  "code": "akhm",
+  "name": "Kaldheim Art Series",
+  "uri": "https://api.scryfall.com/sets/b8e64975-c16d-4463-b465-6c7dfcc579ff",
+  "scryfall_uri": "https://scryfall.com/sets/akhm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aakhm&unique=prints",
+  "released_at": "2021-02-05",
+  "set_type": "memorabilia",
+  "card_count": 81,
+  "parent_set_code": "khm",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/khm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:48.000Z"
+}

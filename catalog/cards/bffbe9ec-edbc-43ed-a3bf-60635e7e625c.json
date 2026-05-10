@@ -1,0 +1,46 @@
+{
+  "catalogVersion": 1,
+  "id": "bffbe9ec-edbc-43ed-a3bf-60635e7e625c",
+  "name": "Command Tower // Command Tower",
+  "set": "rex",
+  "set_name": "Jurassic World Collection",
+  "collector_number": "26",
+  "rarity": "common",
+  "card_faces": [
+    {
+      "name": "Command Tower",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+        "normal": "https://cards.scryfall.io/normal/front/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+        "large": "https://cards.scryfall.io/large/front/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+        "png": "https://cards.scryfall.io/png/front/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.png?1698992913",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913"
+      }
+    },
+    {
+      "name": "Command Tower",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+        "normal": "https://cards.scryfall.io/normal/back/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+        "large": "https://cards.scryfall.io/large/back/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+        "png": "https://cards.scryfall.io/png/back/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.png?1698992913",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/b/f/bffbe9ec-edbc-43ed-a3bf-60635e7e625c.jpg?1698992913"
+      }
+    }
+  ],
+  "prices": {
+    "usd": "3.25",
+    "usd_foil": "9.00",
+    "usd_etched": null,
+    "eur": "2.10",
+    "eur_foil": "6.54",
+    "tix": "0.15"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/rex/26/command-tower-command-tower?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/bffbe9ec-edbc-43ed-a3bf-60635e7e625c",
+  "_catalogFetchedAt": "2026-05-10T22:29:58.082Z"
+}

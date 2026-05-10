@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "2279da90-6de2-4335-b846-6000707940b0",
+  "code": "tbro",
+  "name": "The Brothers' War Tokens",
+  "uri": "https://api.scryfall.com/sets/2279da90-6de2-4335-b846-6000707940b0",
+  "scryfall_uri": "https://scryfall.com/sets/tbro",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atbro&unique=prints",
+  "released_at": "2022-11-18",
+  "set_type": "token",
+  "card_count": 12,
+  "parent_set_code": "bro",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:39.449Z"
+}

@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "a24031db-1378-420f-b671-bcaec52d6f6c",
+  "code": "ss1",
+  "tcgplayer_id": 2220,
+  "name": "Signature Spellbook: Jace",
+  "uri": "https://api.scryfall.com/sets/a24031db-1378-420f-b671-bcaec52d6f6c",
+  "scryfall_uri": "https://scryfall.com/sets/ss1",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ass1&unique=prints",
+  "released_at": "2018-06-15",
+  "set_type": "spellbook",
+  "card_count": 8,
+  "printed_size": 9,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ss1.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:32.803Z"
+}

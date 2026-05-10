@@ -1,0 +1,22 @@
+{
+  "object": "set",
+  "id": "5b4d929d-bdf9-4bbf-858e-e248f53325ad",
+  "code": "nec",
+  "tcgplayer_id": 2967,
+  "name": "Neon Dynasty Commander",
+  "uri": "https://api.scryfall.com/sets/5b4d929d-bdf9-4bbf-858e-e248f53325ad",
+  "scryfall_uri": "https://scryfall.com/sets/nec",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Anec&unique=prints",
+  "released_at": "2022-02-18",
+  "set_type": "commander",
+  "card_count": 179,
+  "printed_size": 38,
+  "parent_set_code": "neo",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/nec.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:06.755Z"
+}

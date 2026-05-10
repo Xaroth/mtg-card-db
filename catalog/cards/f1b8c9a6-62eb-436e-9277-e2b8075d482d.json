@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "f1b8c9a6-62eb-436e-9277-e2b8075d482d",
+  "name": "Swamp",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "collector_number": "279",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/1/f1b8c9a6-62eb-436e-9277-e2b8075d482d.jpg?1674073860",
+    "normal": "https://cards.scryfall.io/normal/front/f/1/f1b8c9a6-62eb-436e-9277-e2b8075d482d.jpg?1674073860",
+    "large": "https://cards.scryfall.io/large/front/f/1/f1b8c9a6-62eb-436e-9277-e2b8075d482d.jpg?1674073860",
+    "png": "https://cards.scryfall.io/png/front/f/1/f1b8c9a6-62eb-436e-9277-e2b8075d482d.png?1674073860",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/1/f1b8c9a6-62eb-436e-9277-e2b8075d482d.jpg?1674073860",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/1/f1b8c9a6-62eb-436e-9277-e2b8075d482d.jpg?1674073860"
+  },
+  "prices": {
+    "usd": "1.39",
+    "usd_foil": "2.12",
+    "usd_etched": null,
+    "eur": "1.40",
+    "eur_foil": "2.64",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/dmu/279/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/f1b8c9a6-62eb-436e-9277-e2b8075d482d",
+  "_catalogFetchedAt": "2026-05-10T22:16:01.432Z"
+}

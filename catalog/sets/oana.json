@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "b6072801-1d75-48e6-bdc1-f9c19ed48ecc",
+  "code": "oana",
+  "name": "Arena New Player Experience Cards",
+  "uri": "https://api.scryfall.com/sets/b6072801-1d75-48e6-bdc1-f9c19ed48ecc",
+  "scryfall_uri": "https://scryfall.com/sets/oana",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aoana&unique=prints",
+  "released_at": "2018-07-14",
+  "set_type": "starter",
+  "card_count": 14,
+  "parent_set_code": "ana",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:08.168Z"
+}

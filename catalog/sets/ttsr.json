@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "92e36faf-5459-428f-b1fa-687ad31ebfcc",
+  "code": "ttsr",
+  "name": "Time Spiral Remastered Tokens",
+  "uri": "https://api.scryfall.com/sets/92e36faf-5459-428f-b1fa-687ad31ebfcc",
+  "scryfall_uri": "https://scryfall.com/sets/ttsr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Attsr&unique=prints",
+  "released_at": "2021-03-19",
+  "set_type": "token",
+  "card_count": 15,
+  "parent_set_code": "tsr",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tsr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:17.526Z"
+}

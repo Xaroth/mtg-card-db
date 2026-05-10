@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "347699d9-cef8-457f-b08d-691abe09fc9c",
+  "code": "twar",
+  "name": "War of the Spark Tokens",
+  "uri": "https://api.scryfall.com/sets/347699d9-cef8-457f-b08d-691abe09fc9c",
+  "scryfall_uri": "https://scryfall.com/sets/twar",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atwar&unique=prints",
+  "released_at": "2019-05-03",
+  "set_type": "token",
+  "card_count": 19,
+  "parent_set_code": "war",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "grn",
+  "block": "Guilds of Ravnica",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/war.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:19.112Z"
+}

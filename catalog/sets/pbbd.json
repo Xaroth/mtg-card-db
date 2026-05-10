@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "04e3fb66-920f-4c47-b17e-8aa2681cebdf",
+  "code": "pbbd",
+  "name": "Battlebond Promos",
+  "uri": "https://api.scryfall.com/sets/04e3fb66-920f-4c47-b17e-8aa2681cebdf",
+  "scryfall_uri": "https://scryfall.com/sets/pbbd",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apbbd&unique=prints",
+  "released_at": "2018-06-08",
+  "set_type": "promo",
+  "card_count": 22,
+  "parent_set_code": "bbd",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/bbd.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:28.363Z"
+}

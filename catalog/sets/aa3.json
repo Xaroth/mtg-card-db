@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "55244c74-8af5-429e-ae99-2172acd7830b",
+  "code": "aa3",
+  "name": "Arena Anthology 3",
+  "uri": "https://api.scryfall.com/sets/55244c74-8af5-429e-ae99-2172acd7830b",
+  "scryfall_uri": "https://scryfall.com/sets/aa3",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aaa3&unique=prints",
+  "released_at": "2025-09-23",
+  "set_type": "box",
+  "card_count": 25,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:43.400Z"
+}

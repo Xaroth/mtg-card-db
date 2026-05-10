@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "b2bb7a14-16a2-4311-ab64-631a0252730c",
+  "code": "wdmu",
+  "name": "DMU Japanese Promo Tokens",
+  "uri": "https://api.scryfall.com/sets/b2bb7a14-16a2-4311-ab64-631a0252730c",
+  "scryfall_uri": "https://scryfall.com/sets/wdmu",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Awdmu&unique=prints",
+  "released_at": "2022-09-09",
+  "set_type": "token",
+  "card_count": 5,
+  "parent_set_code": "dmu",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:31.664Z"
+}

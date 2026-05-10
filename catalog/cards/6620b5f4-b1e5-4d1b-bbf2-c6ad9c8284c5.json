@@ -1,0 +1,46 @@
+{
+  "catalogVersion": 1,
+  "id": "6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5",
+  "name": "Plains // Plains",
+  "set": "rex",
+  "set_name": "Jurassic World Collection",
+  "collector_number": "21",
+  "rarity": "common",
+  "card_faces": [
+    {
+      "name": "Plains",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+        "normal": "https://cards.scryfall.io/normal/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+        "large": "https://cards.scryfall.io/large/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+        "png": "https://cards.scryfall.io/png/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.png?1698992840",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840"
+      }
+    },
+    {
+      "name": "Plains",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+        "normal": "https://cards.scryfall.io/normal/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+        "large": "https://cards.scryfall.io/large/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+        "png": "https://cards.scryfall.io/png/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.png?1698992840",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840"
+      }
+    }
+  ],
+  "prices": {
+    "usd": "4.04",
+    "usd_foil": "8.82",
+    "usd_etched": null,
+    "eur": "1.59",
+    "eur_foil": "6.22",
+    "tix": "0.58"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/rex/21/plains-plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5",
+  "_catalogFetchedAt": "2026-05-10T22:29:57.579Z"
+}

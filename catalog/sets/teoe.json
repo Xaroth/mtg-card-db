@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "8c318768-896e-4388-9211-48462b98245e",
+  "code": "teoe",
+  "mtgo_code": "teoe",
+  "arena_code": "teoe",
+  "name": "Edge of Eternities Tokens",
+  "uri": "https://api.scryfall.com/sets/8c318768-896e-4388-9211-48462b98245e",
+  "scryfall_uri": "https://scryfall.com/sets/teoe",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ateoe&unique=prints",
+  "released_at": "2025-08-01",
+  "set_type": "token",
+  "card_count": 12,
+  "parent_set_code": "eoe",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/eoe.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:52.896Z"
+}

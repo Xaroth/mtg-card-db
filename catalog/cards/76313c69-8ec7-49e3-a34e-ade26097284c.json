@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "76313c69-8ec7-49e3-a34e-ade26097284c",
+  "name": "Island",
+  "set": "eoe",
+  "set_name": "Edge of Eternities",
+  "collector_number": "263",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/6/76313c69-8ec7-49e3-a34e-ade26097284c.jpg?1752947625",
+    "normal": "https://cards.scryfall.io/normal/front/7/6/76313c69-8ec7-49e3-a34e-ade26097284c.jpg?1752947625",
+    "large": "https://cards.scryfall.io/large/front/7/6/76313c69-8ec7-49e3-a34e-ade26097284c.jpg?1752947625",
+    "png": "https://cards.scryfall.io/png/front/7/6/76313c69-8ec7-49e3-a34e-ade26097284c.png?1752947625",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76313c69-8ec7-49e3-a34e-ade26097284c.jpg?1752947625",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/76313c69-8ec7-49e3-a34e-ade26097284c.jpg?1752947625"
+  },
+  "prices": {
+    "usd": "1.48",
+    "usd_foil": "1.82",
+    "usd_etched": null,
+    "eur": "0.97",
+    "eur_foil": "1.20",
+    "tix": "0.04"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/eoe/263/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/76313c69-8ec7-49e3-a34e-ade26097284c",
+  "_catalogFetchedAt": "2026-05-10T22:16:03.350Z"
+}

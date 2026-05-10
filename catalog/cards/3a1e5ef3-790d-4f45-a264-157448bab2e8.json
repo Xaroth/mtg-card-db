@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "3a1e5ef3-790d-4f45-a264-157448bab2e8",
+  "name": "Forest",
+  "set": "pip",
+  "set_name": "Fallout",
+  "collector_number": "326",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/a/3a1e5ef3-790d-4f45-a264-157448bab2e8.jpg?1708743514",
+    "normal": "https://cards.scryfall.io/normal/front/3/a/3a1e5ef3-790d-4f45-a264-157448bab2e8.jpg?1708743514",
+    "large": "https://cards.scryfall.io/large/front/3/a/3a1e5ef3-790d-4f45-a264-157448bab2e8.jpg?1708743514",
+    "png": "https://cards.scryfall.io/png/front/3/a/3a1e5ef3-790d-4f45-a264-157448bab2e8.png?1708743514",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/a/3a1e5ef3-790d-4f45-a264-157448bab2e8.jpg?1708743514",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/a/3a1e5ef3-790d-4f45-a264-157448bab2e8.jpg?1708743514"
+  },
+  "prices": {
+    "usd": "0.30",
+    "usd_foil": "1.42",
+    "usd_etched": null,
+    "eur": "0.22",
+    "eur_foil": "0.79",
+    "tix": "0.04"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/pip/326/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/3a1e5ef3-790d-4f45-a264-157448bab2e8",
+  "_catalogFetchedAt": "2026-05-10T22:29:57.477Z"
+}

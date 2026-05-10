@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "81a2daee-8c16-4b78-9447-e80d7174f9a3",
+  "code": "sstx",
+  "name": "Strixhaven: School of Mages Substitute Cards",
+  "uri": "https://api.scryfall.com/sets/81a2daee-8c16-4b78-9447-e80d7174f9a3",
+  "scryfall_uri": "https://scryfall.com/sets/sstx",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asstx&unique=prints",
+  "released_at": "2021-04-23",
+  "set_type": "token",
+  "card_count": 9,
+  "parent_set_code": "stx",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:33.414Z"
+}

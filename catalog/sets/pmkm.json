@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "5226ce19-28b1-462f-89a2-460e994824dd",
+  "code": "pmkm",
+  "name": "Murders at Karlov Manor Promos",
+  "uri": "https://api.scryfall.com/sets/5226ce19-28b1-462f-89a2-460e994824dd",
+  "scryfall_uri": "https://scryfall.com/sets/pmkm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmkm&unique=prints",
+  "released_at": "2024-02-09",
+  "set_type": "promo",
+  "card_count": 180,
+  "parent_set_code": "mkm",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mkm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:56.998Z"
+}

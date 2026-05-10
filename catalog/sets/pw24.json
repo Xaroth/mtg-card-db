@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "47c94e14-a3a2-4353-910d-dfc310dc869a",
+  "code": "pw24",
+  "name": "Wizards Play Network 2024",
+  "uri": "https://api.scryfall.com/sets/47c94e14-a3a2-4353-910d-dfc310dc869a",
+  "scryfall_uri": "https://scryfall.com/sets/pw24",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apw24&unique=prints",
+  "released_at": "2024-01-01",
+  "set_type": "promo",
+  "card_count": 18,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:20.999Z"
+}

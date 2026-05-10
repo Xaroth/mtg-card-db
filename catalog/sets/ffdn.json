@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "3e036f87-f186-43cb-8c64-47a4350897f2",
+  "code": "ffdn",
+  "name": "Foundations Front Cards",
+  "uri": "https://api.scryfall.com/sets/3e036f87-f186-43cb-8c64-47a4350897f2",
+  "scryfall_uri": "https://scryfall.com/sets/ffdn",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Affdn&unique=prints",
+  "released_at": "2024-11-15",
+  "set_type": "memorabilia",
+  "card_count": 10,
+  "parent_set_code": "fdn",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fdn.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:28.624Z"
+}

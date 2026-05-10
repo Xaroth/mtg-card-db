@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "6c570f6d-eacf-47e4-8d9c-328dd919657d",
+  "code": "mbro",
+  "name": "The Brothers' War Minigames",
+  "uri": "https://api.scryfall.com/sets/6c570f6d-eacf-47e4-8d9c-328dd919657d",
+  "scryfall_uri": "https://scryfall.com/sets/mbro",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ambro&unique=prints",
+  "released_at": "2022-11-18",
+  "set_type": "minigame",
+  "card_count": 3,
+  "parent_set_code": "bro",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:55.286Z"
+}

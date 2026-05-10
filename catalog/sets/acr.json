@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "54b67b0b-cd3f-4e0d-ac25-fef5d966409b",
+  "code": "acr",
+  "mtgo_code": "acr",
+  "arena_code": "acr",
+  "tcgplayer_id": 23446,
+  "name": "Assassin's Creed",
+  "uri": "https://api.scryfall.com/sets/54b67b0b-cd3f-4e0d-ac25-fef5d966409b",
+  "scryfall_uri": "https://scryfall.com/sets/acr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aacr&unique=prints",
+  "released_at": "2024-07-05",
+  "set_type": "draft_innovation",
+  "card_count": 309,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/acr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:45.083Z"
+}

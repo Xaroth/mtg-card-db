@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "code": "pwcs",
+  "name": "Planeswalker Championship Promos",
+  "uri": "https://api.scryfall.com/sets/d08fce7e-36a9-4617-8a14-24eb460bcbaf",
+  "scryfall_uri": "https://scryfall.com/sets/pwcs",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apwcs&unique=prints",
+  "released_at": "2019-10-01",
+  "set_type": "promo",
+  "card_count": 42,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:21.809Z"
+}

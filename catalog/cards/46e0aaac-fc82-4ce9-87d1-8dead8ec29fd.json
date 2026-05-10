@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "46e0aaac-fc82-4ce9-87d1-8dead8ec29fd",
+  "name": "Swamp",
+  "set": "bfz",
+  "set_name": "Battle for Zendikar",
+  "collector_number": "263",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/6/46e0aaac-fc82-4ce9-87d1-8dead8ec29fd.jpg?1562911617",
+    "normal": "https://cards.scryfall.io/normal/front/4/6/46e0aaac-fc82-4ce9-87d1-8dead8ec29fd.jpg?1562911617",
+    "large": "https://cards.scryfall.io/large/front/4/6/46e0aaac-fc82-4ce9-87d1-8dead8ec29fd.jpg?1562911617",
+    "png": "https://cards.scryfall.io/png/front/4/6/46e0aaac-fc82-4ce9-87d1-8dead8ec29fd.png?1562911617",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/6/46e0aaac-fc82-4ce9-87d1-8dead8ec29fd.jpg?1562911617",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/6/46e0aaac-fc82-4ce9-87d1-8dead8ec29fd.jpg?1562911617"
+  },
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": "1.23",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.74",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/bfz/263/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/46e0aaac-fc82-4ce9-87d1-8dead8ec29fd",
+  "_catalogFetchedAt": "2026-05-10T22:15:55.807Z"
+}

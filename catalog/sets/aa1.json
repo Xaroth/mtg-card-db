@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "f89f6503-2fba-4920-a97d-6d55a2f6f4d8",
+  "code": "aa1",
+  "name": "Arena Anthology 1",
+  "uri": "https://api.scryfall.com/sets/f89f6503-2fba-4920-a97d-6d55a2f6f4d8",
+  "scryfall_uri": "https://scryfall.com/sets/aa1",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aaa1&unique=prints",
+  "released_at": "2025-08-19",
+  "set_type": "box",
+  "card_count": 26,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:42.990Z"
+}

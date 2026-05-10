@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "a6254b2a-0154-459a-936e-5967018d823b",
+  "code": "pclb",
+  "name": "Battle for Baldur's Gate Promos",
+  "uri": "https://api.scryfall.com/sets/a6254b2a-0154-459a-936e-5967018d823b",
+  "scryfall_uri": "https://scryfall.com/sets/pclb",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apclb&unique=prints",
+  "released_at": "2022-06-10",
+  "set_type": "promo",
+  "card_count": 104,
+  "parent_set_code": "clb",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/clb.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:30.765Z"
+}

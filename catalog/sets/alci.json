@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "1135b292-4f02-4eec-8623-a1b7aee474df",
+  "code": "alci",
+  "name": "The Lost Caverns of Ixalan Art Series",
+  "uri": "https://api.scryfall.com/sets/1135b292-4f02-4eec-8623-a1b7aee474df",
+  "scryfall_uri": "https://scryfall.com/sets/alci",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aalci&unique=prints",
+  "released_at": "2023-11-17",
+  "set_type": "memorabilia",
+  "card_count": 81,
+  "parent_set_code": "lci",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/lci.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:48.606Z"
+}

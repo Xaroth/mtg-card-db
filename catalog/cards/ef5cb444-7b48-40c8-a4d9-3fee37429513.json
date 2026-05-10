@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "ef5cb444-7b48-40c8-a4d9-3fee37429513",
+  "name": "Swamp",
+  "set": "hou",
+  "set_name": "Hour of Devastation",
+  "collector_number": "187",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/f/ef5cb444-7b48-40c8-a4d9-3fee37429513.jpg?1562819615",
+    "normal": "https://cards.scryfall.io/normal/front/e/f/ef5cb444-7b48-40c8-a4d9-3fee37429513.jpg?1562819615",
+    "large": "https://cards.scryfall.io/large/front/e/f/ef5cb444-7b48-40c8-a4d9-3fee37429513.jpg?1562819615",
+    "png": "https://cards.scryfall.io/png/front/e/f/ef5cb444-7b48-40c8-a4d9-3fee37429513.png?1562819615",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/f/ef5cb444-7b48-40c8-a4d9-3fee37429513.jpg?1562819615",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/f/ef5cb444-7b48-40c8-a4d9-3fee37429513.jpg?1562819615"
+  },
+  "prices": {
+    "usd": "0.43",
+    "usd_foil": "1.72",
+    "usd_etched": null,
+    "eur": "0.23",
+    "eur_foil": "1.35",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/hou/187/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/ef5cb444-7b48-40c8-a4d9-3fee37429513",
+  "_catalogFetchedAt": "2026-05-10T22:29:47.952Z"
+}

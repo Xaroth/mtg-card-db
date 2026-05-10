@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "11e90d1b-0502-43e6-b056-e24836523c13",
+  "code": "tsr",
+  "tcgplayer_id": 2772,
+  "name": "Time Spiral Remastered",
+  "uri": "https://api.scryfall.com/sets/11e90d1b-0502-43e6-b056-e24836523c13",
+  "scryfall_uri": "https://scryfall.com/sets/tsr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atsr&unique=prints",
+  "released_at": "2021-03-19",
+  "set_type": "masters",
+  "card_count": 411,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tsr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:15.342Z"
+}

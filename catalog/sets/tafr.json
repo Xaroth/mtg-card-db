@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "68e8eca4-2c75-4f44-8519-59489e76b719",
+  "code": "tafr",
+  "name": "Adventures in the Forgotten Realms Tokens",
+  "uri": "https://api.scryfall.com/sets/68e8eca4-2c75-4f44-8519-59489e76b719",
+  "scryfall_uri": "https://scryfall.com/sets/tafr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atafr&unique=prints",
+  "released_at": "2021-07-23",
+  "set_type": "token",
+  "card_count": 22,
+  "printed_size": 19,
+  "parent_set_code": "afr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/afr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:36.824Z"
+}

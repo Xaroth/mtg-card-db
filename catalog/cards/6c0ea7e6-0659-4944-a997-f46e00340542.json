@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "6c0ea7e6-0659-4944-a997-f46e00340542",
+  "name": "Swamp",
+  "set": "fic",
+  "set_name": "Final Fantasy Commander",
+  "collector_number": "480",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/c/6c0ea7e6-0659-4944-a997-f46e00340542.jpg?1759576910",
+    "normal": "https://cards.scryfall.io/normal/front/6/c/6c0ea7e6-0659-4944-a997-f46e00340542.jpg?1759576910",
+    "large": "https://cards.scryfall.io/large/front/6/c/6c0ea7e6-0659-4944-a997-f46e00340542.jpg?1759576910",
+    "png": "https://cards.scryfall.io/png/front/6/c/6c0ea7e6-0659-4944-a997-f46e00340542.png?1759576910",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/c/6c0ea7e6-0659-4944-a997-f46e00340542.jpg?1759576910",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/c/6c0ea7e6-0659-4944-a997-f46e00340542.jpg?1759576910"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.87",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.62",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/fic/480/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/6c0ea7e6-0659-4944-a997-f46e00340542",
+  "_catalogFetchedAt": "2026-05-10T22:29:45.345Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "d8fdfa7d-fd11-4c11-8743-a21538474314",
+  "name": "Plains",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "279",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/8/d8fdfa7d-fd11-4c11-8743-a21538474314.jpg?1767773699",
+    "normal": "https://cards.scryfall.io/normal/front/d/8/d8fdfa7d-fd11-4c11-8743-a21538474314.jpg?1767773699",
+    "large": "https://cards.scryfall.io/large/front/d/8/d8fdfa7d-fd11-4c11-8743-a21538474314.jpg?1767773699",
+    "png": "https://cards.scryfall.io/png/front/d/8/d8fdfa7d-fd11-4c11-8743-a21538474314.png?1767773699",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/8/d8fdfa7d-fd11-4c11-8743-a21538474314.jpg?1767773699",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/8/d8fdfa7d-fd11-4c11-8743-a21538474314.jpg?1767773699"
+  },
+  "prices": {
+    "usd": "0.18",
+    "usd_foil": "0.27",
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": "0.24",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ecl/279/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/d8fdfa7d-fd11-4c11-8743-a21538474314",
+  "_catalogFetchedAt": "2026-05-10T22:16:02.746Z"
+}

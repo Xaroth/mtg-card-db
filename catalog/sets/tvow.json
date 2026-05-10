@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "381f2eb8-544e-409c-a8c5-7171cd78edea",
+  "code": "tvow",
+  "name": "Innistrad: Crimson Vow Tokens",
+  "uri": "https://api.scryfall.com/sets/381f2eb8-544e-409c-a8c5-7171cd78edea",
+  "scryfall_uri": "https://scryfall.com/sets/tvow",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atvow&unique=prints",
+  "released_at": "2021-11-19",
+  "set_type": "token",
+  "card_count": 21,
+  "printed_size": 21,
+  "parent_set_code": "vow",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "dbl",
+  "block": "Innistrad: Double Feature",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:18.917Z"
+}

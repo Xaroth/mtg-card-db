@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "a5531353-3534-4882-8802-0304e5c2bf64",
+  "code": "e02",
+  "tcgplayer_id": 2077,
+  "name": "Explorers of Ixalan",
+  "uri": "https://api.scryfall.com/sets/a5531353-3534-4882-8802-0304e5c2bf64",
+  "scryfall_uri": "https://scryfall.com/sets/e02",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ae02&unique=prints",
+  "released_at": "2017-11-24",
+  "set_type": "box",
+  "card_count": 48,
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/e02.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:20.189Z"
+}

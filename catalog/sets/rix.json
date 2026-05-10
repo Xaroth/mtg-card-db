@@ -1,0 +1,23 @@
+{
+  "object": "set",
+  "id": "2f7e40fc-772d-4a85-bfdd-01653c41d0fa",
+  "code": "rix",
+  "mtgo_code": "rix",
+  "arena_code": "rix",
+  "tcgplayer_id": 2098,
+  "name": "Rivals of Ixalan",
+  "uri": "https://api.scryfall.com/sets/2f7e40fc-772d-4a85-bfdd-01653c41d0fa",
+  "scryfall_uri": "https://scryfall.com/sets/rix",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Arix&unique=prints",
+  "released_at": "2018-01-19",
+  "set_type": "expansion",
+  "card_count": 205,
+  "printed_size": 196,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "xln",
+  "block": "Ixalan",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/rix.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:25.599Z"
+}

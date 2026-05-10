@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "8221d15c-c993-4345-a6bb-6a7d215e3273",
+  "name": "Island",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "collector_number": "274",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/2/8221d15c-c993-4345-a6bb-6a7d215e3273.jpg?1684884976",
+    "normal": "https://cards.scryfall.io/normal/front/8/2/8221d15c-c993-4345-a6bb-6a7d215e3273.jpg?1684884976",
+    "large": "https://cards.scryfall.io/large/front/8/2/8221d15c-c993-4345-a6bb-6a7d215e3273.jpg?1684884976",
+    "png": "https://cards.scryfall.io/png/front/8/2/8221d15c-c993-4345-a6bb-6a7d215e3273.png?1684884976",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/2/8221d15c-c993-4345-a6bb-6a7d215e3273.jpg?1684884976",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/2/8221d15c-c993-4345-a6bb-6a7d215e3273.jpg?1684884976"
+  },
+  "prices": {
+    "usd": "0.49",
+    "usd_foil": "0.68",
+    "usd_etched": null,
+    "eur": "0.46",
+    "eur_foil": "0.64",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/snc/274/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/8221d15c-c993-4345-a6bb-6a7d215e3273",
+  "_catalogFetchedAt": "2026-05-10T22:32:07.971Z"
+}

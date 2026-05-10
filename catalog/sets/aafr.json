@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "8696ef63-3530-4453-a0f8-7fd3bd09306a",
+  "code": "aafr",
+  "name": "Adventures in the Forgotten Realms Art Series",
+  "uri": "https://api.scryfall.com/sets/8696ef63-3530-4453-a0f8-7fd3bd09306a",
+  "scryfall_uri": "https://scryfall.com/sets/aafr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aaafr&unique=prints",
+  "released_at": "2021-07-23",
+  "set_type": "memorabilia",
+  "card_count": 81,
+  "parent_set_code": "afr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/afr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:43.986Z"
+}

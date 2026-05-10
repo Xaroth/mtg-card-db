@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "2c2fc9f7-21af-4416-abf5-6fcb4f543680",
+  "name": "Forest",
+  "set": "akh",
+  "set_name": "Amonkhet",
+  "collector_number": "254",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/c/2c2fc9f7-21af-4416-abf5-6fcb4f543680.jpg?1543687854",
+    "normal": "https://cards.scryfall.io/normal/front/2/c/2c2fc9f7-21af-4416-abf5-6fcb4f543680.jpg?1543687854",
+    "large": "https://cards.scryfall.io/large/front/2/c/2c2fc9f7-21af-4416-abf5-6fcb4f543680.jpg?1543687854",
+    "png": "https://cards.scryfall.io/png/front/2/c/2c2fc9f7-21af-4416-abf5-6fcb4f543680.png?1543687854",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/c/2c2fc9f7-21af-4416-abf5-6fcb4f543680.jpg?1543687854",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/c/2c2fc9f7-21af-4416-abf5-6fcb4f543680.jpg?1543687854"
+  },
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": "1.27",
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": "0.73",
+    "tix": "0.04"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/akh/254/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/2c2fc9f7-21af-4416-abf5-6fcb4f543680",
+  "_catalogFetchedAt": "2026-05-10T22:15:54.402Z"
+}

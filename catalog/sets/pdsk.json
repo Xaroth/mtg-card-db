@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "6d202752-1655-491f-b3a2-86dbd35fbec8",
+  "code": "pdsk",
+  "name": "Duskmourn: House of Horror Promos",
+  "uri": "https://api.scryfall.com/sets/6d202752-1655-491f-b3a2-86dbd35fbec8",
+  "scryfall_uri": "https://scryfall.com/sets/pdsk",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apdsk&unique=prints",
+  "released_at": "2024-09-27",
+  "set_type": "promo",
+  "card_count": 160,
+  "parent_set_code": "dsk",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dsk.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:35.674Z"
+}

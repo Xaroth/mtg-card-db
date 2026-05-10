@@ -1,0 +1,22 @@
+{
+  "object": "set",
+  "id": "5064a720-907f-4cb6-a425-766dc1dd7374",
+  "code": "sta",
+  "mtgo_code": "sta",
+  "arena_code": "sta",
+  "tcgplayer_id": 2791,
+  "name": "Strixhaven Mystical Archive",
+  "uri": "https://api.scryfall.com/sets/5064a720-907f-4cb6-a425-766dc1dd7374",
+  "scryfall_uri": "https://scryfall.com/sets/sta",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asta&unique=prints",
+  "released_at": "2021-04-23",
+  "set_type": "masterpiece",
+  "card_count": 126,
+  "printed_size": 63,
+  "parent_set_code": "stx",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/sta.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:33.606Z"
+}

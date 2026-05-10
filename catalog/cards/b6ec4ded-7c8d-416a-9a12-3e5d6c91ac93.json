@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "b6ec4ded-7c8d-416a-9a12-3e5d6c91ac93",
+  "name": "Forest",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "collector_number": "271",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/6/b6ec4ded-7c8d-416a-9a12-3e5d6c91ac93.jpg?1675957593",
+    "normal": "https://cards.scryfall.io/normal/front/b/6/b6ec4ded-7c8d-416a-9a12-3e5d6c91ac93.jpg?1675957593",
+    "large": "https://cards.scryfall.io/large/front/b/6/b6ec4ded-7c8d-416a-9a12-3e5d6c91ac93.jpg?1675957593",
+    "png": "https://cards.scryfall.io/png/front/b/6/b6ec4ded-7c8d-416a-9a12-3e5d6c91ac93.png?1675957593",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/6/b6ec4ded-7c8d-416a-9a12-3e5d6c91ac93.jpg?1675957593",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/6/b6ec4ded-7c8d-416a-9a12-3e5d6c91ac93.jpg?1675957593"
+  },
+  "prices": {
+    "usd": "0.88",
+    "usd_foil": "1.40",
+    "usd_etched": null,
+    "eur": "0.62",
+    "eur_foil": "0.85",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/one/271/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/b6ec4ded-7c8d-416a-9a12-3e5d6c91ac93",
+  "_catalogFetchedAt": "2026-05-10T22:29:55.477Z"
+}

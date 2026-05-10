@@ -1,0 +1,22 @@
+{
+  "object": "set",
+  "id": "c51de34b-d4d6-4179-a432-573744ded119",
+  "code": "ncc",
+  "tcgplayer_id": 3031,
+  "name": "New Capenna Commander",
+  "uri": "https://api.scryfall.com/sets/c51de34b-d4d6-4179-a432-573744ded119",
+  "scryfall_uri": "https://scryfall.com/sets/ncc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ancc&unique=prints",
+  "released_at": "2022-04-29",
+  "set_type": "commander",
+  "card_count": 447,
+  "printed_size": 93,
+  "parent_set_code": "snc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ncc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:06.556Z"
+}

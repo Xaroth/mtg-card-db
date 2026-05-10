@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "198c5205-2614-43dd-b8c2-6e77aa0e5e91",
+  "code": "amh1",
+  "name": "Modern Horizons Art Series",
+  "uri": "https://api.scryfall.com/sets/198c5205-2614-43dd-b8c2-6e77aa0e5e91",
+  "scryfall_uri": "https://scryfall.com/sets/amh1",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aamh1&unique=prints",
+  "released_at": "2019-06-05",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "mh1",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:49.408Z"
+}

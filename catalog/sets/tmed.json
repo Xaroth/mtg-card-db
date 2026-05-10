@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "3a9213f3-71d0-4e17-a9f4-f85f705f3cbe",
+  "code": "tmed",
+  "name": "Mythic Edition Tokens",
+  "uri": "https://api.scryfall.com/sets/3a9213f3-71d0-4e17-a9f4-f85f705f3cbe",
+  "scryfall_uri": "https://scryfall.com/sets/tmed",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmed&unique=prints",
+  "released_at": "2018-10-05",
+  "set_type": "token",
+  "card_count": 16,
+  "parent_set_code": "med",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/med.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:04.026Z"
+}

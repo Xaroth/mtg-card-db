@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "3efeaa30-9db9-4e68-a658-9064d6e67516",
+  "name": "Forest",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "collector_number": "281",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/e/3efeaa30-9db9-4e68-a658-9064d6e67516.jpg?1686970665",
+    "normal": "https://cards.scryfall.io/normal/front/3/e/3efeaa30-9db9-4e68-a658-9064d6e67516.jpg?1686970665",
+    "large": "https://cards.scryfall.io/large/front/3/e/3efeaa30-9db9-4e68-a658-9064d6e67516.jpg?1686970665",
+    "png": "https://cards.scryfall.io/png/front/3/e/3efeaa30-9db9-4e68-a658-9064d6e67516.png?1686970665",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/e/3efeaa30-9db9-4e68-a658-9064d6e67516.jpg?1686970665",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/e/3efeaa30-9db9-4e68-a658-9064d6e67516.jpg?1686970665"
+  },
+  "prices": {
+    "usd": "0.57",
+    "usd_foil": "0.81",
+    "usd_etched": null,
+    "eur": "0.40",
+    "eur_foil": "0.55",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ltr/281/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/3efeaa30-9db9-4e68-a658-9064d6e67516",
+  "_catalogFetchedAt": "2026-05-10T22:29:49.659Z"
+}

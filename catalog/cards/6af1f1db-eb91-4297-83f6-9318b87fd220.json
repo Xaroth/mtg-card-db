@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "6af1f1db-eb91-4297-83f6-9318b87fd220",
+  "name": "Mountain",
+  "set": "sos",
+  "set_name": "Secrets of Strixhaven",
+  "collector_number": "270",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/a/6af1f1db-eb91-4297-83f6-9318b87fd220.jpg?1775938894",
+    "normal": "https://cards.scryfall.io/normal/front/6/a/6af1f1db-eb91-4297-83f6-9318b87fd220.jpg?1775938894",
+    "large": "https://cards.scryfall.io/large/front/6/a/6af1f1db-eb91-4297-83f6-9318b87fd220.jpg?1775938894",
+    "png": "https://cards.scryfall.io/png/front/6/a/6af1f1db-eb91-4297-83f6-9318b87fd220.png?1775938894",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/a/6af1f1db-eb91-4297-83f6-9318b87fd220.jpg?1775938894",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/a/6af1f1db-eb91-4297-83f6-9318b87fd220.jpg?1775938894"
+  },
+  "prices": {
+    "usd": "0.36",
+    "usd_foil": "0.62",
+    "usd_etched": null,
+    "eur": "0.46",
+    "eur_foil": "0.33",
+    "tix": "0.01"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/sos/270/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/6af1f1db-eb91-4297-83f6-9318b87fd220",
+  "_catalogFetchedAt": "2026-05-10T22:32:10.506Z"
+}

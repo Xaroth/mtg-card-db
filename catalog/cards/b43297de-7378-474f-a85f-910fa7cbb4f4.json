@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "b43297de-7378-474f-a85f-910fa7cbb4f4",
+  "name": "Forest",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "278",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/4/b43297de-7378-474f-a85f-910fa7cbb4f4.jpg?1767773673",
+    "normal": "https://cards.scryfall.io/normal/front/b/4/b43297de-7378-474f-a85f-910fa7cbb4f4.jpg?1767773673",
+    "large": "https://cards.scryfall.io/large/front/b/4/b43297de-7378-474f-a85f-910fa7cbb4f4.jpg?1767773673",
+    "png": "https://cards.scryfall.io/png/front/b/4/b43297de-7378-474f-a85f-910fa7cbb4f4.png?1767773673",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b43297de-7378-474f-a85f-910fa7cbb4f4.jpg?1767773673",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/4/b43297de-7378-474f-a85f-910fa7cbb4f4.jpg?1767773673"
+  },
+  "prices": {
+    "usd": "0.28",
+    "usd_foil": "0.36",
+    "usd_etched": null,
+    "eur": "0.23",
+    "eur_foil": "0.35",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ecl/278/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/b43297de-7378-474f-a85f-910fa7cbb4f4",
+  "_catalogFetchedAt": "2026-05-10T22:16:02.645Z"
+}

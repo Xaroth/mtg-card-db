@@ -1,0 +1,23 @@
+{
+  "object": "set",
+  "id": "c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "code": "blc",
+  "mtgo_code": "blc",
+  "arena_code": "blc",
+  "tcgplayer_id": 23448,
+  "name": "Bloomburrow Commander",
+  "uri": "https://api.scryfall.com/sets/c0f860b9-a2d0-4fd7-bfac-a49ac60c84f1",
+  "scryfall_uri": "https://scryfall.com/sets/blc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ablc&unique=prints",
+  "released_at": "2024-08-02",
+  "set_type": "commander",
+  "card_count": 356,
+  "parent_set_code": "blb",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/blc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:56.217Z"
+}

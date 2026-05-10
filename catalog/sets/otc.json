@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "code": "otc",
+  "tcgplayer_id": 23440,
+  "name": "Outlaws of Thunder Junction Commander",
+  "uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "scryfall_uri": "https://scryfall.com/sets/otc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aotc&unique=prints",
+  "released_at": "2024-04-19",
+  "set_type": "commander",
+  "card_count": 342,
+  "parent_set_code": "otj",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/otc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:14.307Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "d583889f-a8c3-48ce-82c1-361c06de93dc",
+  "code": "tdmr",
+  "name": "Dominaria Remastered Tokens",
+  "uri": "https://api.scryfall.com/sets/d583889f-a8c3-48ce-82c1-361c06de93dc",
+  "scryfall_uri": "https://scryfall.com/sets/tdmr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atdmr&unique=prints",
+  "released_at": "2023-01-13",
+  "set_type": "token",
+  "card_count": 14,
+  "parent_set_code": "dmr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dmr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:49.817Z"
+}

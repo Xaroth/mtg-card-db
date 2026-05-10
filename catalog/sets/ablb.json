@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "4012d64e-1e3d-4380-a631-1aa9ee9244b3",
+  "code": "ablb",
+  "name": "Bloomburrow Art Series",
+  "uri": "https://api.scryfall.com/sets/4012d64e-1e3d-4380-a631-1aa9ee9244b3",
+  "scryfall_uri": "https://scryfall.com/sets/ablb",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aablb&unique=prints",
+  "released_at": "2024-08-02",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "blb",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/blb.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:44.188Z"
+}

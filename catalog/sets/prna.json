@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "503230ec-81e3-4f92-b847-ff435b1652e0",
+  "code": "prna",
+  "name": "Ravnica Allegiance Promos",
+  "uri": "https://api.scryfall.com/sets/503230ec-81e3-4f92-b847-ff435b1652e0",
+  "scryfall_uri": "https://scryfall.com/sets/prna",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aprna&unique=prints",
+  "released_at": "2019-01-25",
+  "set_type": "promo",
+  "card_count": 81,
+  "parent_set_code": "rna",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "grn",
+  "block": "Guilds of Ravnica",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/rna.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:06.953Z"
+}

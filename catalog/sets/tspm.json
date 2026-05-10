@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "6a930c14-c228-45d6-8580-05218153815a",
+  "code": "tspm",
+  "name": "Marvel's Spider-Man Tokens",
+  "uri": "https://api.scryfall.com/sets/6a930c14-c228-45d6-8580-05218153815a",
+  "scryfall_uri": "https://scryfall.com/sets/tspm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atspm&unique=prints",
+  "released_at": "2025-09-26",
+  "set_type": "token",
+  "card_count": 7,
+  "parent_set_code": "spm",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/spm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:15.123Z"
+}

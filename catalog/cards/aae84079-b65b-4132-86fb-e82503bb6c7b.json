@@ -1,0 +1,46 @@
+{
+  "catalogVersion": 1,
+  "id": "aae84079-b65b-4132-86fb-e82503bb6c7b",
+  "name": "Mountain // Mountain",
+  "set": "rex",
+  "set_name": "Jurassic World Collection",
+  "collector_number": "24",
+  "rarity": "common",
+  "card_faces": [
+    {
+      "name": "Mountain",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+        "normal": "https://cards.scryfall.io/normal/front/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+        "large": "https://cards.scryfall.io/large/front/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+        "png": "https://cards.scryfall.io/png/front/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.png?1698992885",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885"
+      }
+    },
+    {
+      "name": "Mountain",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+        "normal": "https://cards.scryfall.io/normal/back/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+        "large": "https://cards.scryfall.io/large/back/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+        "png": "https://cards.scryfall.io/png/back/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.png?1698992885",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/a/a/aae84079-b65b-4132-86fb-e82503bb6c7b.jpg?1698992885"
+      }
+    }
+  ],
+  "prices": {
+    "usd": "5.72",
+    "usd_foil": "11.23",
+    "usd_etched": null,
+    "eur": "3.94",
+    "eur_foil": "8.76",
+    "tix": "1.42"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/rex/24/mountain-mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/aae84079-b65b-4132-86fb-e82503bb6c7b",
+  "_catalogFetchedAt": "2026-05-10T22:29:57.882Z"
+}

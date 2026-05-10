@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "5dd76e71-df9b-4fd2-b534-d3f724a56a91",
+  "name": "Plains",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "collector_number": "512",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/d/5dd76e71-df9b-4fd2-b534-d3f724a56a91.jpg?1739576902",
+    "normal": "https://cards.scryfall.io/normal/front/5/d/5dd76e71-df9b-4fd2-b534-d3f724a56a91.jpg?1739576902",
+    "large": "https://cards.scryfall.io/large/front/5/d/5dd76e71-df9b-4fd2-b534-d3f724a56a91.jpg?1739576902",
+    "png": "https://cards.scryfall.io/png/front/5/d/5dd76e71-df9b-4fd2-b534-d3f724a56a91.png?1739576902",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/d/5dd76e71-df9b-4fd2-b534-d3f724a56a91.jpg?1739576902",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/d/5dd76e71-df9b-4fd2-b534-d3f724a56a91.jpg?1739576902"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.94",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.08",
+    "tix": "0.01"
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/dft/512/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/5dd76e71-df9b-4fd2-b534-d3f724a56a91",
+  "_catalogFetchedAt": "2026-05-10T22:16:00.726Z"
+}

@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "053b14b2-b622-44ce-a695-5881e2580e1d",
+  "code": "pspl",
+  "name": "Spotlight Series",
+  "uri": "https://api.scryfall.com/sets/053b14b2-b622-44ce-a695-5881e2580e1d",
+  "scryfall_uri": "https://scryfall.com/sets/pspl",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apspl&unique=prints",
+  "released_at": "2025-01-03",
+  "set_type": "promo",
+  "card_count": 11,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:12.210Z"
+}

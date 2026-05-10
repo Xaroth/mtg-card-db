@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "code": "hbg",
+  "name": "Alchemy Horizons: Baldur's Gate",
+  "uri": "https://api.scryfall.com/sets/35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "scryfall_uri": "https://scryfall.com/sets/hbg",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ahbg&unique=prints",
+  "released_at": "2022-07-07",
+  "set_type": "alchemy",
+  "card_count": 436,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "y22",
+  "block": "Alchemy 2022",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/hbg.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:41.443Z"
+}

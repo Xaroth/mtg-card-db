@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "5193f80f-0b66-47b9-86fe-a3fc70763d3a",
+  "code": "pmh2",
+  "name": "Modern Horizons 2 Promos",
+  "uri": "https://api.scryfall.com/sets/5193f80f-0b66-47b9-86fe-a3fc70763d3a",
+  "scryfall_uri": "https://scryfall.com/sets/pmh2",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmh2&unique=prints",
+  "released_at": "2021-06-18",
+  "set_type": "promo",
+  "card_count": 86,
+  "parent_set_code": "mh2",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:56.196Z"
+}

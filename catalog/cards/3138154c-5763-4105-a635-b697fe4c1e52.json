@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "3138154c-5763-4105-a635-b697fe4c1e52",
+  "name": "Plains",
+  "set": "bfz",
+  "set_name": "Battle for Zendikar",
+  "collector_number": "254",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/1/3138154c-5763-4105-a635-b697fe4c1e52.jpg?1562906511",
+    "normal": "https://cards.scryfall.io/normal/front/3/1/3138154c-5763-4105-a635-b697fe4c1e52.jpg?1562906511",
+    "large": "https://cards.scryfall.io/large/front/3/1/3138154c-5763-4105-a635-b697fe4c1e52.jpg?1562906511",
+    "png": "https://cards.scryfall.io/png/front/3/1/3138154c-5763-4105-a635-b697fe4c1e52.png?1562906511",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/1/3138154c-5763-4105-a635-b697fe4c1e52.jpg?1562906511",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/1/3138154c-5763-4105-a635-b697fe4c1e52.jpg?1562906511"
+  },
+  "prices": {
+    "usd": "0.17",
+    "usd_foil": "0.61",
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": "0.77",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/bfz/254/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/3138154c-5763-4105-a635-b697fe4c1e52",
+  "_catalogFetchedAt": "2026-05-10T22:15:54.901Z"
+}

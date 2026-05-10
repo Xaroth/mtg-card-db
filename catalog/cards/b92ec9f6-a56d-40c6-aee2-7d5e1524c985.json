@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "b92ec9f6-a56d-40c6-aee2-7d5e1524c985",
+  "name": "Island",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "collector_number": "297",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/9/b92ec9f6-a56d-40c6-aee2-7d5e1524c985.jpg?1749278110",
+    "normal": "https://cards.scryfall.io/normal/front/b/9/b92ec9f6-a56d-40c6-aee2-7d5e1524c985.jpg?1749278110",
+    "large": "https://cards.scryfall.io/large/front/b/9/b92ec9f6-a56d-40c6-aee2-7d5e1524c985.jpg?1749278110",
+    "png": "https://cards.scryfall.io/png/front/b/9/b92ec9f6-a56d-40c6-aee2-7d5e1524c985.png?1749278110",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/9/b92ec9f6-a56d-40c6-aee2-7d5e1524c985.jpg?1749278110",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/9/b92ec9f6-a56d-40c6-aee2-7d5e1524c985.jpg?1749278110"
+  },
+  "prices": {
+    "usd": "0.21",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": "0.20",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/fin/297/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/b92ec9f6-a56d-40c6-aee2-7d5e1524c985",
+  "_catalogFetchedAt": "2026-05-10T22:29:45.943Z"
+}

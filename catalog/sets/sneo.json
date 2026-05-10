@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "5539f49e-d43b-4b0d-b7df-7173e48ab018",
+  "code": "sneo",
+  "name": "Kamigawa: Neon Dynasty Substitute Cards",
+  "uri": "https://api.scryfall.com/sets/5539f49e-d43b-4b0d-b7df-7173e48ab018",
+  "scryfall_uri": "https://scryfall.com/sets/sneo",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asneo&unique=prints",
+  "released_at": "2022-02-18",
+  "set_type": "token",
+  "card_count": 9,
+  "parent_set_code": "neo",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:30.803Z"
+}

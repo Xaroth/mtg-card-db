@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "ba042d60-b1e8-44ad-9103-f40588a0b29c",
+  "name": "Swamp",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "collector_number": "509",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/a/ba042d60-b1e8-44ad-9103-f40588a0b29c.jpg?1739576884",
+    "normal": "https://cards.scryfall.io/normal/front/b/a/ba042d60-b1e8-44ad-9103-f40588a0b29c.jpg?1739576884",
+    "large": "https://cards.scryfall.io/large/front/b/a/ba042d60-b1e8-44ad-9103-f40588a0b29c.jpg?1739576884",
+    "png": "https://cards.scryfall.io/png/front/b/a/ba042d60-b1e8-44ad-9103-f40588a0b29c.png?1739576884",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/ba042d60-b1e8-44ad-9103-f40588a0b29c.jpg?1739576884",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/ba042d60-b1e8-44ad-9103-f40588a0b29c.jpg?1739576884"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.30",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.40",
+    "tix": "0.01"
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/dft/509/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/ba042d60-b1e8-44ad-9103-f40588a0b29c",
+  "_catalogFetchedAt": "2026-05-10T22:16:00.514Z"
+}

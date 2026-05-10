@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "f5c8ab78-698b-4967-aebb-3f762d9b6044",
+  "code": "pl24",
+  "name": "Year of the Dragon 2024",
+  "uri": "https://api.scryfall.com/sets/f5c8ab78-698b-4967-aebb-3f762d9b6044",
+  "scryfall_uri": "https://scryfall.com/sets/pl24",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apl24&unique=prints",
+  "released_at": "2024-02-08",
+  "set_type": "promo",
+  "card_count": 7,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:49.789Z"
+}

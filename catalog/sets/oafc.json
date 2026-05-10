@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "a6126dce-9dfb-4478-ae9d-c02d992a8219",
+  "code": "oafc",
+  "name": "Forgotten Realms Commander Display Commanders",
+  "uri": "https://api.scryfall.com/sets/a6126dce-9dfb-4478-ae9d-c02d992a8219",
+  "scryfall_uri": "https://scryfall.com/sets/oafc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aoafc&unique=prints",
+  "released_at": "2021-07-23",
+  "set_type": "memorabilia",
+  "card_count": 4,
+  "parent_set_code": "afc",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/afc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:07.753Z"
+}

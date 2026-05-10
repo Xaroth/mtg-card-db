@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "1dbdd608-c330-4199-901f-9d141ae03786",
+  "code": "brr",
+  "tcgplayer_id": 17665,
+  "name": "The Brothers' War Retro Artifacts",
+  "uri": "https://api.scryfall.com/sets/1dbdd608-c330-4199-901f-9d141ae03786",
+  "scryfall_uri": "https://scryfall.com/sets/brr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Abrr&unique=prints",
+  "released_at": "2022-11-18",
+  "set_type": "masterpiece",
+  "card_count": 189,
+  "parent_set_code": "bro",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/brr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:57.618Z"
+}

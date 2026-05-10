@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "f3d98295-0697-433a-9429-d04600da2295",
+  "code": "p30a",
+  "tcgplayer_id": 3178,
+  "name": "30th Anniversary Play Promos",
+  "uri": "https://api.scryfall.com/sets/f3d98295-0697-433a-9429-d04600da2295",
+  "scryfall_uri": "https://scryfall.com/sets/p30a",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ap30a&unique=prints",
+  "released_at": "2022-09-02",
+  "set_type": "promo",
+  "card_count": 30,
+  "parent_set_code": "30a",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:22.959Z"
+}

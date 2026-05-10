@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "572eab93-7b1d-434b-ba92-844248e472d0",
+  "name": "Plains",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "collector_number": "277",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/7/572eab93-7b1d-434b-ba92-844248e472d0.jpg?1674073841",
+    "normal": "https://cards.scryfall.io/normal/front/5/7/572eab93-7b1d-434b-ba92-844248e472d0.jpg?1674073841",
+    "large": "https://cards.scryfall.io/large/front/5/7/572eab93-7b1d-434b-ba92-844248e472d0.jpg?1674073841",
+    "png": "https://cards.scryfall.io/png/front/5/7/572eab93-7b1d-434b-ba92-844248e472d0.png?1674073841",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/572eab93-7b1d-434b-ba92-844248e472d0.jpg?1674073841",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/572eab93-7b1d-434b-ba92-844248e472d0.jpg?1674073841"
+  },
+  "prices": {
+    "usd": "2.37",
+    "usd_foil": "2.75",
+    "usd_etched": null,
+    "eur": "2.14",
+    "eur_foil": "2.44",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/dmu/277/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/572eab93-7b1d-434b-ba92-844248e472d0",
+  "_catalogFetchedAt": "2026-05-10T22:16:01.229Z"
+}

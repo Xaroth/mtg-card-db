@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "418335b2-398f-499e-92ad-8d21a5a5b69f",
+  "name": "Swamp",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "collector_number": "274",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/1/418335b2-398f-499e-92ad-8d21a5a5b69f.jpg?1681763484",
+    "normal": "https://cards.scryfall.io/normal/front/4/1/418335b2-398f-499e-92ad-8d21a5a5b69f.jpg?1681763484",
+    "large": "https://cards.scryfall.io/large/front/4/1/418335b2-398f-499e-92ad-8d21a5a5b69f.jpg?1681763484",
+    "png": "https://cards.scryfall.io/png/front/4/1/418335b2-398f-499e-92ad-8d21a5a5b69f.png?1681763484",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/1/418335b2-398f-499e-92ad-8d21a5a5b69f.jpg?1681763484",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/1/418335b2-398f-499e-92ad-8d21a5a5b69f.jpg?1681763484"
+  },
+  "prices": {
+    "usd": "0.28",
+    "usd_foil": "0.40",
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": "0.39",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/znr/274/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/418335b2-398f-499e-92ad-8d21a5a5b69f",
+  "_catalogFetchedAt": "2026-05-10T22:32:37.531Z"
+}

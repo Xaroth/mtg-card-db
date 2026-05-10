@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "c2d4f3dd-aea0-4aec-bf7d-477e625483a6",
+  "code": "plci",
+  "name": "The Lost Caverns of Ixalan Promos",
+  "uri": "https://api.scryfall.com/sets/c2d4f3dd-aea0-4aec-bf7d-477e625483a6",
+  "scryfall_uri": "https://scryfall.com/sets/plci",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aplci&unique=prints",
+  "released_at": "2023-11-17",
+  "set_type": "promo",
+  "card_count": 136,
+  "parent_set_code": "lci",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/lci.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:50.588Z"
+}

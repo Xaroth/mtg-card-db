@@ -1,0 +1,22 @@
+{
+  "object": "set",
+  "id": "f60ec786-1f8d-42f7-9abc-0d880fe243f6",
+  "code": "c20",
+  "mtgo_code": "c20",
+  "arena_code": "c20",
+  "tcgplayer_id": 2634,
+  "name": "Commander 2020",
+  "uri": "https://api.scryfall.com/sets/f60ec786-1f8d-42f7-9abc-0d880fe243f6",
+  "scryfall_uri": "https://scryfall.com/sets/c20",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ac20&unique=prints",
+  "released_at": "2020-04-17",
+  "set_type": "commander",
+  "card_count": 322,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/c20.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:59.422Z"
+}

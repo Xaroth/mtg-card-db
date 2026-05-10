@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "ba38f256-89cf-4af3-8c6c-d3efe196aef1",
+  "code": "omic",
+  "name": "Midnight Hunt Commander Display Commanders",
+  "uri": "https://api.scryfall.com/sets/ba38f256-89cf-4af3-8c6c-d3efe196aef1",
+  "scryfall_uri": "https://scryfall.com/sets/omic",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aomic&unique=prints",
+  "released_at": "2021-09-24",
+  "set_type": "memorabilia",
+  "card_count": 2,
+  "parent_set_code": "mic",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": true,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mic.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:12.759Z"
+}

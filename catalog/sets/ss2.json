@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "9ae53f04-9cbb-45db-8b5c-972fe847a984",
+  "code": "ss2",
+  "tcgplayer_id": 2447,
+  "name": "Signature Spellbook: Gideon",
+  "uri": "https://api.scryfall.com/sets/9ae53f04-9cbb-45db-8b5c-972fe847a984",
+  "scryfall_uri": "https://scryfall.com/sets/ss2",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ass2&unique=prints",
+  "released_at": "2019-06-28",
+  "set_type": "spellbook",
+  "card_count": 8,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ss2.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:33.002Z"
+}

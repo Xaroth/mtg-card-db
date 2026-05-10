@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "baf8a774-65f3-431e-b084-328ff1000895",
+  "name": "Forest",
+  "set": "otj",
+  "set_name": "Outlaws of Thunder Junction",
+  "collector_number": "276",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/a/baf8a774-65f3-431e-b084-328ff1000895.jpg?1712356407",
+    "normal": "https://cards.scryfall.io/normal/front/b/a/baf8a774-65f3-431e-b084-328ff1000895.jpg?1712356407",
+    "large": "https://cards.scryfall.io/large/front/b/a/baf8a774-65f3-431e-b084-328ff1000895.jpg?1712356407",
+    "png": "https://cards.scryfall.io/png/front/b/a/baf8a774-65f3-431e-b084-328ff1000895.png?1712356407",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/baf8a774-65f3-431e-b084-328ff1000895.jpg?1712356407",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/baf8a774-65f3-431e-b084-328ff1000895.jpg?1712356407"
+  },
+  "prices": {
+    "usd": "0.32",
+    "usd_foil": "0.36",
+    "usd_etched": null,
+    "eur": "0.28",
+    "eur_foil": "0.38",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/otj/276/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/baf8a774-65f3-431e-b084-328ff1000895",
+  "_catalogFetchedAt": "2026-05-10T22:29:56.477Z"
+}

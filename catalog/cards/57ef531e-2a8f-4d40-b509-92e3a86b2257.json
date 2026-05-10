@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "57ef531e-2a8f-4d40-b509-92e3a86b2257",
+  "name": "Swamp",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "collector_number": "298",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/7/57ef531e-2a8f-4d40-b509-92e3a86b2257.jpg?1655495433",
+    "normal": "https://cards.scryfall.io/normal/front/5/7/57ef531e-2a8f-4d40-b509-92e3a86b2257.jpg?1655495433",
+    "large": "https://cards.scryfall.io/large/front/5/7/57ef531e-2a8f-4d40-b509-92e3a86b2257.jpg?1655495433",
+    "png": "https://cards.scryfall.io/png/front/5/7/57ef531e-2a8f-4d40-b509-92e3a86b2257.png?1655495433",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/57ef531e-2a8f-4d40-b509-92e3a86b2257.jpg?1655495433",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/57ef531e-2a8f-4d40-b509-92e3a86b2257.jpg?1655495433"
+  },
+  "prices": {
+    "usd": "6.04",
+    "usd_foil": "7.55",
+    "usd_etched": null,
+    "eur": "3.54",
+    "eur_foil": "4.63",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/neo/298/ja/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/57ef531e-2a8f-4d40-b509-92e3a86b2257",
+  "_catalogFetchedAt": "2026-05-10T22:29:53.870Z"
+}

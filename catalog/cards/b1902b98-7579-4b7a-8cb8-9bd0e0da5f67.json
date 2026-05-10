@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "b1902b98-7579-4b7a-8cb8-9bd0e0da5f67",
+  "name": "Mountain",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "collector_number": "278",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/1/b1902b98-7579-4b7a-8cb8-9bd0e0da5f67.jpg?1686970629",
+    "normal": "https://cards.scryfall.io/normal/front/b/1/b1902b98-7579-4b7a-8cb8-9bd0e0da5f67.jpg?1686970629",
+    "large": "https://cards.scryfall.io/large/front/b/1/b1902b98-7579-4b7a-8cb8-9bd0e0da5f67.jpg?1686970629",
+    "png": "https://cards.scryfall.io/png/front/b/1/b1902b98-7579-4b7a-8cb8-9bd0e0da5f67.png?1686970629",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/1/b1902b98-7579-4b7a-8cb8-9bd0e0da5f67.jpg?1686970629",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/1/b1902b98-7579-4b7a-8cb8-9bd0e0da5f67.jpg?1686970629"
+  },
+  "prices": {
+    "usd": "0.43",
+    "usd_foil": "0.46",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "0.57",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ltr/278/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/b1902b98-7579-4b7a-8cb8-9bd0e0da5f67",
+  "_catalogFetchedAt": "2026-05-10T22:29:49.355Z"
+}

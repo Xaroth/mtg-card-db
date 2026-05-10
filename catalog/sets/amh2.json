@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "95671546-fd82-43e2-966f-eba5968f629b",
+  "code": "amh2",
+  "name": "Modern Horizons 2 Art Series",
+  "uri": "https://api.scryfall.com/sets/95671546-fd82-43e2-966f-eba5968f629b",
+  "scryfall_uri": "https://scryfall.com/sets/amh2",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aamh2&unique=prints",
+  "released_at": "2021-06-18",
+  "set_type": "memorabilia",
+  "card_count": 162,
+  "printed_size": 81,
+  "parent_set_code": "mh2",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:49.612Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "8822db23-34dc-452a-92bc-a3ceee4db375",
+  "name": "Mountain",
+  "set": "woe",
+  "set_name": "Wilds of Eldraine",
+  "collector_number": "265",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/8/8822db23-34dc-452a-92bc-a3ceee4db375.jpg?1704711634",
+    "normal": "https://cards.scryfall.io/normal/front/8/8/8822db23-34dc-452a-92bc-a3ceee4db375.jpg?1704711634",
+    "large": "https://cards.scryfall.io/large/front/8/8/8822db23-34dc-452a-92bc-a3ceee4db375.jpg?1704711634",
+    "png": "https://cards.scryfall.io/png/front/8/8/8822db23-34dc-452a-92bc-a3ceee4db375.png?1704711634",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/8/8822db23-34dc-452a-92bc-a3ceee4db375.jpg?1704711634",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/8/8822db23-34dc-452a-92bc-a3ceee4db375.jpg?1704711634"
+  },
+  "prices": {
+    "usd": "0.31",
+    "usd_foil": "0.35",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.36",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/woe/265/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/8822db23-34dc-452a-92bc-a3ceee4db375",
+  "_catalogFetchedAt": "2026-05-10T22:32:31.527Z"
+}

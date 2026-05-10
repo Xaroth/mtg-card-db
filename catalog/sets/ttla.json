@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "89b3c0da-5cc2-4895-b592-36e754f856b8",
+  "code": "ttla",
+  "name": "Avatar: The Last Airbender Tokens",
+  "uri": "https://api.scryfall.com/sets/89b3c0da-5cc2-4895-b592-36e754f856b8",
+  "scryfall_uri": "https://scryfall.com/sets/ttla",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Attla&unique=prints",
+  "released_at": "2025-11-21",
+  "set_type": "token",
+  "card_count": 22,
+  "parent_set_code": "tla",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tla.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:16.795Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "0aaf15b9-1bf5-424a-a994-67beaae29d36",
+  "name": "Mountain",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "collector_number": "280",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/a/0aaf15b9-1bf5-424a-a994-67beaae29d36.jpg?1674073875",
+    "normal": "https://cards.scryfall.io/normal/front/0/a/0aaf15b9-1bf5-424a-a994-67beaae29d36.jpg?1674073875",
+    "large": "https://cards.scryfall.io/large/front/0/a/0aaf15b9-1bf5-424a-a994-67beaae29d36.jpg?1674073875",
+    "png": "https://cards.scryfall.io/png/front/0/a/0aaf15b9-1bf5-424a-a994-67beaae29d36.png?1674073875",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/a/0aaf15b9-1bf5-424a-a994-67beaae29d36.jpg?1674073875",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/a/0aaf15b9-1bf5-424a-a994-67beaae29d36.jpg?1674073875"
+  },
+  "prices": {
+    "usd": "1.11",
+    "usd_foil": "1.74",
+    "usd_etched": null,
+    "eur": "1.38",
+    "eur_foil": "1.87",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/dmu/280/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/0aaf15b9-1bf5-424a-a994-67beaae29d36",
+  "_catalogFetchedAt": "2026-05-10T22:16:01.627Z"
+}

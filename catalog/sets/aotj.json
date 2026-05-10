@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "9d2325c7-06a4-4404-8bbf-1fcdf02f15ac",
+  "code": "aotj",
+  "name": "Outlaws of Thunder Junction Art Series",
+  "uri": "https://api.scryfall.com/sets/9d2325c7-06a4-4404-8bbf-1fcdf02f15ac",
+  "scryfall_uri": "https://scryfall.com/sets/aotj",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aaotj&unique=prints",
+  "released_at": "2024-04-19",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "otj",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/otj.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:51.413Z"
+}

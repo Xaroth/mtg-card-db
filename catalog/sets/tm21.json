@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "06cfcf14-ff33-4210-a531-c2818637f7df",
+  "code": "tm21",
+  "name": "Core Set 2021 Tokens",
+  "uri": "https://api.scryfall.com/sets/06cfcf14-ff33-4210-a531-c2818637f7df",
+  "scryfall_uri": "https://scryfall.com/sets/tm21",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atm21&unique=prints",
+  "released_at": "2020-07-03",
+  "set_type": "token",
+  "card_count": 20,
+  "printed_size": 18,
+  "parent_set_code": "m21",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/m21.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:02.452Z"
+}

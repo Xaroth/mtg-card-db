@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "48811e13-5774-4da1-95ec-6ea5dc4976ad",
+  "name": "Forest",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "collector_number": "276",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/8/48811e13-5774-4da1-95ec-6ea5dc4976ad.jpg?1743205092",
+    "normal": "https://cards.scryfall.io/normal/front/4/8/48811e13-5774-4da1-95ec-6ea5dc4976ad.jpg?1743205092",
+    "large": "https://cards.scryfall.io/large/front/4/8/48811e13-5774-4da1-95ec-6ea5dc4976ad.jpg?1743205092",
+    "png": "https://cards.scryfall.io/png/front/4/8/48811e13-5774-4da1-95ec-6ea5dc4976ad.png?1743205092",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/8/48811e13-5774-4da1-95ec-6ea5dc4976ad.jpg?1743205092",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/8/48811e13-5774-4da1-95ec-6ea5dc4976ad.jpg?1743205092"
+  },
+  "prices": {
+    "usd": "1.75",
+    "usd_foil": "2.59",
+    "usd_etched": null,
+    "eur": "0.78",
+    "eur_foil": "1.30",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/tdm/276/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/48811e13-5774-4da1-95ec-6ea5dc4976ad",
+  "_catalogFetchedAt": "2026-05-10T22:32:12.710Z"
+}

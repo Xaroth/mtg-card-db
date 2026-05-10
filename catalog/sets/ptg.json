@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "d264b61b-bfb3-4388-be42-e34a1eaa00c2",
+  "code": "ptg",
+  "tcgplayer_id": 2552,
+  "name": "Ponies: The Galloping",
+  "uri": "https://api.scryfall.com/sets/d264b61b-bfb3-4388-be42-e34a1eaa00c2",
+  "scryfall_uri": "https://scryfall.com/sets/ptg",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aptg&unique=prints",
+  "released_at": "2019-10-22",
+  "set_type": "funny",
+  "card_count": 3,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ptg.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:15.633Z"
+}

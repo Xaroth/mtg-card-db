@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "2f0b935f-c299-4f84-9e8b-95c65ebb9aed",
+  "code": "tm20",
+  "name": "Core Set 2020 Tokens",
+  "uri": "https://api.scryfall.com/sets/2f0b935f-c299-4f84-9e8b-95c65ebb9aed",
+  "scryfall_uri": "https://scryfall.com/sets/tm20",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atm20&unique=prints",
+  "released_at": "2019-07-12",
+  "set_type": "token",
+  "card_count": 12,
+  "parent_set_code": "m20",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/m20.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:02.264Z"
+}

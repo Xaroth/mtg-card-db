@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "e882099c-63cd-42f0-b160-35e6922106b1",
+  "name": "Plains",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "collector_number": "272",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/8/e882099c-63cd-42f0-b160-35e6922106b1.jpg?1684885408",
+    "normal": "https://cards.scryfall.io/normal/front/e/8/e882099c-63cd-42f0-b160-35e6922106b1.jpg?1684885408",
+    "large": "https://cards.scryfall.io/large/front/e/8/e882099c-63cd-42f0-b160-35e6922106b1.jpg?1684885408",
+    "png": "https://cards.scryfall.io/png/front/e/8/e882099c-63cd-42f0-b160-35e6922106b1.png?1684885408",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/8/e882099c-63cd-42f0-b160-35e6922106b1.jpg?1684885408",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/8/e882099c-63cd-42f0-b160-35e6922106b1.jpg?1684885408"
+  },
+  "prices": {
+    "usd": "0.34",
+    "usd_foil": "0.69",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.50",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/snc/272/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/e882099c-63cd-42f0-b160-35e6922106b1",
+  "_catalogFetchedAt": "2026-05-10T22:32:07.570Z"
+}

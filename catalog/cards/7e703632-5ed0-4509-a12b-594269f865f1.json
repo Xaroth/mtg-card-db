@@ -1,0 +1,46 @@
+{
+  "catalogVersion": 1,
+  "id": "7e703632-5ed0-4509-a12b-594269f865f1",
+  "name": "Forest // Forest",
+  "set": "rex",
+  "set_name": "Jurassic World Collection",
+  "collector_number": "25",
+  "rarity": "common",
+  "card_faces": [
+    {
+      "name": "Forest",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+        "normal": "https://cards.scryfall.io/normal/front/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+        "large": "https://cards.scryfall.io/large/front/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+        "png": "https://cards.scryfall.io/png/front/7/e/7e703632-5ed0-4509-a12b-594269f865f1.png?1698992898",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898"
+      }
+    },
+    {
+      "name": "Forest",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+        "normal": "https://cards.scryfall.io/normal/back/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+        "large": "https://cards.scryfall.io/large/back/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+        "png": "https://cards.scryfall.io/png/back/7/e/7e703632-5ed0-4509-a12b-594269f865f1.png?1698992898",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/7/e/7e703632-5ed0-4509-a12b-594269f865f1.jpg?1698992898"
+      }
+    }
+  ],
+  "prices": {
+    "usd": "8.11",
+    "usd_foil": "17.32",
+    "usd_etched": null,
+    "eur": "5.22",
+    "eur_foil": "12.67",
+    "tix": "1.99"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/rex/25/forest-forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/7e703632-5ed0-4509-a12b-594269f865f1",
+  "_catalogFetchedAt": "2026-05-10T22:29:57.982Z"
+}

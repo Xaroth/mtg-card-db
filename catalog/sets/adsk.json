@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "335eb1c9-293c-43af-ab98-77726e19f376",
+  "code": "adsk",
+  "name": "Duskmourn: House of Horror Art Series",
+  "uri": "https://api.scryfall.com/sets/335eb1c9-293c-43af-ab98-77726e19f376",
+  "scryfall_uri": "https://scryfall.com/sets/adsk",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aadsk&unique=prints",
+  "released_at": "2024-09-27",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "dsk",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dsk.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:45.599Z"
+}

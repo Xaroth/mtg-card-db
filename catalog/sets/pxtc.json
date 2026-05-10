@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "2b5230c7-25a8-4521-9f6a-7e3cefb07213",
+  "code": "pxtc",
+  "name": "XLN Treasure Chest",
+  "uri": "https://api.scryfall.com/sets/2b5230c7-25a8-4521-9f6a-7e3cefb07213",
+  "scryfall_uri": "https://scryfall.com/sets/pxtc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apxtc&unique=prints",
+  "released_at": "2017-11-24",
+  "set_type": "promo",
+  "card_count": 10,
+  "parent_set_code": "xln",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "block_code": "xln",
+  "block": "Ixalan",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/xln.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:23.001Z"
+}

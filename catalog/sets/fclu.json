@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "390f8f7d-4638-45e5-addb-1567aa4ac2ab",
+  "code": "fclu",
+  "name": "Ravnica: Clue Edition Front Cards",
+  "uri": "https://api.scryfall.com/sets/390f8f7d-4638-45e5-addb-1567aa4ac2ab",
+  "scryfall_uri": "https://scryfall.com/sets/fclu",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Afclu&unique=prints",
+  "released_at": "2024-02-23",
+  "set_type": "memorabilia",
+  "card_count": 10,
+  "parent_set_code": "clu",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/clu.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:27.624Z"
+}

@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "code": "pip",
+  "tcgplayer_id": 23337,
+  "name": "Fallout",
+  "uri": "https://api.scryfall.com/sets/d84d7a49-2ef4-4808-83b4-8c65b4aa0e2d",
+  "scryfall_uri": "https://scryfall.com/sets/pip",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apip&unique=prints",
+  "released_at": "2024-03-08",
+  "set_type": "commander",
+  "card_count": 1068,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/pip.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:46.787Z"
+}

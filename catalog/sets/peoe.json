@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "7163fd7f-bf43-4380-a718-de52ba50bb78",
+  "code": "peoe",
+  "name": "Edge of Eternities Promos",
+  "uri": "https://api.scryfall.com/sets/7163fd7f-bf43-4380-a718-de52ba50bb78",
+  "scryfall_uri": "https://scryfall.com/sets/peoe",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apeoe&unique=prints",
+  "released_at": "2025-08-01",
+  "set_type": "promo",
+  "card_count": 160,
+  "parent_set_code": "eoe",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/eoe.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:37.202Z"
+}

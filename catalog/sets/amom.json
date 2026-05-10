@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "f835c2e6-0f96-4a98-9e6c-5d2836ce1c54",
+  "code": "amom",
+  "name": "March of the Machine Art Series",
+  "uri": "https://api.scryfall.com/sets/f835c2e6-0f96-4a98-9e6c-5d2836ce1c54",
+  "scryfall_uri": "https://scryfall.com/sets/amom",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aamom&unique=prints",
+  "released_at": "2023-04-21",
+  "set_type": "memorabilia",
+  "card_count": 81,
+  "parent_set_code": "mom",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:50.408Z"
+}

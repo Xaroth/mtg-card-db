@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "d7332292-8eae-4d07-b48d-c96effb3994a",
+  "code": "ta25",
+  "name": "Masters 25 Tokens",
+  "uri": "https://api.scryfall.com/sets/d7332292-8eae-4d07-b48d-c96effb3994a",
+  "scryfall_uri": "https://scryfall.com/sets/ta25",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ata25&unique=prints",
+  "released_at": "2018-03-16",
+  "set_type": "token",
+  "card_count": 16,
+  "parent_set_code": "a25",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/a25.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:36.015Z"
+}

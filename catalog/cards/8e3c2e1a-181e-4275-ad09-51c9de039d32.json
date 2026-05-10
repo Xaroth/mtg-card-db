@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "8e3c2e1a-181e-4275-ad09-51c9de039d32",
+  "name": "Mountain",
+  "set": "ugl",
+  "set_name": "Unglued",
+  "collector_number": "87",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/e/8e3c2e1a-181e-4275-ad09-51c9de039d32.jpg?1562799121",
+    "normal": "https://cards.scryfall.io/normal/front/8/e/8e3c2e1a-181e-4275-ad09-51c9de039d32.jpg?1562799121",
+    "large": "https://cards.scryfall.io/large/front/8/e/8e3c2e1a-181e-4275-ad09-51c9de039d32.jpg?1562799121",
+    "png": "https://cards.scryfall.io/png/front/8/e/8e3c2e1a-181e-4275-ad09-51c9de039d32.png?1562799121",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/e/8e3c2e1a-181e-4275-ad09-51c9de039d32.jpg?1562799121",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/e/8e3c2e1a-181e-4275-ad09-51c9de039d32.jpg?1562799121"
+  },
+  "prices": {
+    "usd": "8.50",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "5.59",
+    "eur_foil": null,
+    "tix": null
+  },
+  "foil": false,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ugl/87/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/8e3c2e1a-181e-4275-ad09-51c9de039d32",
+  "_catalogFetchedAt": "2026-05-10T22:32:21.517Z"
+}

@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "bb017236-6da1-4558-a8bd-cf020e964530",
+  "code": "pm20",
+  "tcgplayer_id": 92,
+  "name": "Core Set 2020 Promos",
+  "uri": "https://api.scryfall.com/sets/bb017236-6da1-4558-a8bd-cf020e964530",
+  "scryfall_uri": "https://scryfall.com/sets/pm20",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apm20&unique=prints",
+  "released_at": "2019-07-12",
+  "set_type": "promo",
+  "card_count": 144,
+  "parent_set_code": "m20",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/m20.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:54.792Z"
+}

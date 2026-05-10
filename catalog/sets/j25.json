@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "9201567c-bab5-4720-aac9-260e6741f115",
+  "code": "j25",
+  "tcgplayer_id": 23792,
+  "name": "Foundations Jumpstart",
+  "uri": "https://api.scryfall.com/sets/9201567c-bab5-4720-aac9-260e6741f115",
+  "scryfall_uri": "https://scryfall.com/sets/j25",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aj25&unique=prints",
+  "released_at": "2024-11-15",
+  "set_type": "draft_innovation",
+  "card_count": 779,
+  "parent_set_code": "fdn",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/j25.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:46.477Z"
+}

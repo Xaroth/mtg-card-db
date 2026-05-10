@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "b0b68008-d01b-4250-9069-fdd4925213a6",
+  "code": "ptsr",
+  "name": "Time Spiral Remastered Promos",
+  "uri": "https://api.scryfall.com/sets/b0b68008-d01b-4250-9069-fdd4925213a6",
+  "scryfall_uri": "https://scryfall.com/sets/ptsr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aptsr&unique=prints",
+  "released_at": "2023-09-08",
+  "set_type": "promo",
+  "card_count": 3,
+  "parent_set_code": "tsr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tsr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:17.637Z"
+}

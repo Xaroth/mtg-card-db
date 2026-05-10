@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+  "code": "tgk1",
+  "name": "GRN Guild Kit Tokens",
+  "uri": "https://api.scryfall.com/sets/9cabda5f-97cd-4eb3-93b9-83d1e9a191cb",
+  "scryfall_uri": "https://scryfall.com/sets/tgk1",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atgk1&unique=prints",
+  "released_at": "2018-11-02",
+  "set_type": "token",
+  "card_count": 10,
+  "parent_set_code": "gk1",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:54.496Z"
+}

@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "0cd69528-1ce7-46e0-ac5e-fd10f8699d33",
+  "code": "pmda",
+  "name": "Magic × Duel Masters Promos",
+  "uri": "https://api.scryfall.com/sets/0cd69528-1ce7-46e0-ac5e-fd10f8699d33",
+  "scryfall_uri": "https://scryfall.com/sets/pmda",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmda&unique=prints",
+  "released_at": "2023-09-08",
+  "set_type": "promo",
+  "card_count": 4,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:55.644Z"
+}

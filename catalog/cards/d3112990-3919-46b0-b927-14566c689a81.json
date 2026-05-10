@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "d3112990-3919-46b0-b927-14566c689a81",
+  "name": "Mountain",
+  "set": "akh",
+  "set_name": "Amonkhet",
+  "collector_number": "253",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/3/d3112990-3919-46b0-b927-14566c689a81.jpg?1543687850",
+    "normal": "https://cards.scryfall.io/normal/front/d/3/d3112990-3919-46b0-b927-14566c689a81.jpg?1543687850",
+    "large": "https://cards.scryfall.io/large/front/d/3/d3112990-3919-46b0-b927-14566c689a81.jpg?1543687850",
+    "png": "https://cards.scryfall.io/png/front/d/3/d3112990-3919-46b0-b927-14566c689a81.png?1543687850",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/3/d3112990-3919-46b0-b927-14566c689a81.jpg?1543687850",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/3/d3112990-3919-46b0-b927-14566c689a81.jpg?1543687850"
+  },
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": "1.43",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.72",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/akh/253/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/d3112990-3919-46b0-b927-14566c689a81",
+  "_catalogFetchedAt": "2026-05-10T22:15:54.303Z"
+}

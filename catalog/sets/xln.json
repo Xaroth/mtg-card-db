@@ -1,0 +1,23 @@
+{
+  "object": "set",
+  "id": "fe0dad85-54bc-4151-9200-d68da84dd0f2",
+  "code": "xln",
+  "mtgo_code": "xln",
+  "arena_code": "xln",
+  "tcgplayer_id": 2043,
+  "name": "Ixalan",
+  "uri": "https://api.scryfall.com/sets/fe0dad85-54bc-4151-9200-d68da84dd0f2",
+  "scryfall_uri": "https://scryfall.com/sets/xln",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Axln&unique=prints",
+  "released_at": "2017-09-29",
+  "set_type": "expansion",
+  "card_count": 289,
+  "printed_size": 279,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "xln",
+  "block": "Ixalan",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/xln.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:34.445Z"
+}

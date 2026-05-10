@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "0a45560e-ce25-45a5-aa43-aa33d1964cd8",
+  "name": "Forest",
+  "set": "fic",
+  "set_name": "Final Fantasy Commander",
+  "collector_number": "482",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/a/0a45560e-ce25-45a5-aa43-aa33d1964cd8.jpg?1759576892",
+    "normal": "https://cards.scryfall.io/normal/front/0/a/0a45560e-ce25-45a5-aa43-aa33d1964cd8.jpg?1759576892",
+    "large": "https://cards.scryfall.io/large/front/0/a/0a45560e-ce25-45a5-aa43-aa33d1964cd8.jpg?1759576892",
+    "png": "https://cards.scryfall.io/png/front/0/a/0a45560e-ce25-45a5-aa43-aa33d1964cd8.png?1759576892",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/a/0a45560e-ce25-45a5-aa43-aa33d1964cd8.jpg?1759576892",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/a/0a45560e-ce25-45a5-aa43-aa33d1964cd8.jpg?1759576892"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "3.83",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.41",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/fic/482/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/0a45560e-ce25-45a5-aa43-aa33d1964cd8",
+  "_catalogFetchedAt": "2026-05-10T22:29:45.542Z"
+}

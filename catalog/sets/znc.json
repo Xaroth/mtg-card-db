@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "25c6bd9b-4e10-40a4-b9b5-0f4d9b5852a1",
+  "code": "znc",
+  "tcgplayer_id": 2716,
+  "name": "Zendikar Rising Commander",
+  "uri": "https://api.scryfall.com/sets/25c6bd9b-4e10-40a4-b9b5-0f4d9b5852a1",
+  "scryfall_uri": "https://scryfall.com/sets/znc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aznc&unique=prints",
+  "released_at": "2020-09-25",
+  "set_type": "commander",
+  "card_count": 142,
+  "parent_set_code": "znr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/znc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:38.051Z"
+}

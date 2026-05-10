@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "650e47f3-476f-4b32-b892-c1a01335d0fe",
+  "name": "Forest",
+  "set": "acr",
+  "set_name": "Assassin's Creed",
+  "collector_number": "110",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/5/650e47f3-476f-4b32-b892-c1a01335d0fe.jpg?1721424583",
+    "normal": "https://cards.scryfall.io/normal/front/6/5/650e47f3-476f-4b32-b892-c1a01335d0fe.jpg?1721424583",
+    "large": "https://cards.scryfall.io/large/front/6/5/650e47f3-476f-4b32-b892-c1a01335d0fe.jpg?1721424583",
+    "png": "https://cards.scryfall.io/png/front/6/5/650e47f3-476f-4b32-b892-c1a01335d0fe.png?1721424583",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/5/650e47f3-476f-4b32-b892-c1a01335d0fe.jpg?1721424583",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/5/650e47f3-476f-4b32-b892-c1a01335d0fe.jpg?1721424583"
+  },
+  "prices": {
+    "usd": "0.28",
+    "usd_foil": "0.35",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "0.42",
+    "tix": "0.25"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/acr/110/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/650e47f3-476f-4b32-b892-c1a01335d0fe",
+  "_catalogFetchedAt": "2026-05-10T22:15:53.904Z"
+}

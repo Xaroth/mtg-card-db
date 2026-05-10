@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "b94d7cb4-b974-4863-b741-b1619f3fcb73",
+  "code": "ea3",
+  "name": "Explorer Anthology 3",
+  "uri": "https://api.scryfall.com/sets/b94d7cb4-b974-4863-b741-b1619f3fcb73",
+  "scryfall_uri": "https://scryfall.com/sets/ea3",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aea3&unique=prints",
+  "released_at": "2023-07-18",
+  "set_type": "box",
+  "card_count": 25,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:20.704Z"
+}

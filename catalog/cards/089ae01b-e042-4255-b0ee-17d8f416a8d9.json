@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "089ae01b-e042-4255-b0ee-17d8f416a8d9",
+  "name": "Plains",
+  "set": "eoe",
+  "set_name": "Edge of Eternities",
+  "collector_number": "262",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/8/089ae01b-e042-4255-b0ee-17d8f416a8d9.jpg?1752947623",
+    "normal": "https://cards.scryfall.io/normal/front/0/8/089ae01b-e042-4255-b0ee-17d8f416a8d9.jpg?1752947623",
+    "large": "https://cards.scryfall.io/large/front/0/8/089ae01b-e042-4255-b0ee-17d8f416a8d9.jpg?1752947623",
+    "png": "https://cards.scryfall.io/png/front/0/8/089ae01b-e042-4255-b0ee-17d8f416a8d9.png?1752947623",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/8/089ae01b-e042-4255-b0ee-17d8f416a8d9.jpg?1752947623",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/8/089ae01b-e042-4255-b0ee-17d8f416a8d9.jpg?1752947623"
+  },
+  "prices": {
+    "usd": "0.82",
+    "usd_foil": "1.14",
+    "usd_etched": null,
+    "eur": "0.85",
+    "eur_foil": "0.90",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/eoe/262/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/089ae01b-e042-4255-b0ee-17d8f416a8d9",
+  "_catalogFetchedAt": "2026-05-10T22:16:03.247Z"
+}

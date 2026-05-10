@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "8d858150-d438-49cb-81d6-8fc5b8feccc4",
+  "code": "tc18",
+  "name": "Commander 2018 Tokens",
+  "uri": "https://api.scryfall.com/sets/8d858150-d438-49cb-81d6-8fc5b8feccc4",
+  "scryfall_uri": "https://scryfall.com/sets/tc18",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atc18&unique=prints",
+  "released_at": "2018-08-09",
+  "set_type": "token",
+  "card_count": 26,
+  "parent_set_code": "c18",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/c18.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:40.615Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "de27268e-c9c5-4d97-9bfd-28ad8cb7b1a0",
+  "code": "tinr",
+  "name": "Innistrad Remastered Tokens",
+  "uri": "https://api.scryfall.com/sets/de27268e-c9c5-4d97-9bfd-28ad8cb7b1a0",
+  "scryfall_uri": "https://scryfall.com/sets/tinr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atinr&unique=prints",
+  "released_at": "2025-01-24",
+  "set_type": "token",
+  "card_count": 27,
+  "parent_set_code": "inr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/inr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:57.826Z"
+}

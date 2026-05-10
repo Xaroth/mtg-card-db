@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "3963badb-c147-489a-95a7-6520a2960bf6",
+  "code": "pw23",
+  "name": "Wizards Play Network 2023",
+  "uri": "https://api.scryfall.com/sets/3963badb-c147-489a-95a7-6520a2960bf6",
+  "scryfall_uri": "https://scryfall.com/sets/pw23",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apw23&unique=prints",
+  "released_at": "2023-01-01",
+  "set_type": "promo",
+  "card_count": 11,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:20.883Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "5dda1113-352c-471a-a7e0-a9a3cb3f19c5",
+  "name": "Forest",
+  "set": "unf",
+  "set_name": "Unfinity",
+  "collector_number": "239",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/d/5dda1113-352c-471a-a7e0-a9a3cb3f19c5.jpg?1673916441",
+    "normal": "https://cards.scryfall.io/normal/front/5/d/5dda1113-352c-471a-a7e0-a9a3cb3f19c5.jpg?1673916441",
+    "large": "https://cards.scryfall.io/large/front/5/d/5dda1113-352c-471a-a7e0-a9a3cb3f19c5.jpg?1673916441",
+    "png": "https://cards.scryfall.io/png/front/5/d/5dda1113-352c-471a-a7e0-a9a3cb3f19c5.png?1673916441",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/d/5dda1113-352c-471a-a7e0-a9a3cb3f19c5.jpg?1673916441",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/d/5dda1113-352c-471a-a7e0-a9a3cb3f19c5.jpg?1673916441"
+  },
+  "prices": {
+    "usd": "0.72",
+    "usd_foil": "1.25",
+    "usd_etched": null,
+    "eur": "0.90",
+    "eur_foil": "1.37",
+    "tix": "0.54"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/unf/239/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/5dda1113-352c-471a-a7e0-a9a3cb3f19c5",
+  "_catalogFetchedAt": "2026-05-10T22:32:23.718Z"
+}

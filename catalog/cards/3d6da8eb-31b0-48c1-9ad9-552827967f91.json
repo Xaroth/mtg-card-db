@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "3d6da8eb-31b0-48c1-9ad9-552827967f91",
+  "name": "Mountain",
+  "set": "unf",
+  "set_name": "Unfinity",
+  "collector_number": "238",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1673916433",
+    "normal": "https://cards.scryfall.io/normal/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1673916433",
+    "large": "https://cards.scryfall.io/large/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1673916433",
+    "png": "https://cards.scryfall.io/png/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.png?1673916433",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1673916433",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1673916433"
+  },
+  "prices": {
+    "usd": "1.17",
+    "usd_foil": "1.71",
+    "usd_etched": null,
+    "eur": "1.23",
+    "eur_foil": "1.71",
+    "tix": "1.91"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/unf/238/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/3d6da8eb-31b0-48c1-9ad9-552827967f91",
+  "_catalogFetchedAt": "2026-05-10T22:32:23.518Z"
+}

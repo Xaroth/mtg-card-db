@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "c20ec10e-78fc-49dc-a112-7863a34056b1",
+  "name": "Plains",
+  "set": "hou",
+  "set_name": "Hour of Devastation",
+  "collector_number": "185",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/2/c20ec10e-78fc-49dc-a112-7863a34056b1.jpg?1562813477",
+    "normal": "https://cards.scryfall.io/normal/front/c/2/c20ec10e-78fc-49dc-a112-7863a34056b1.jpg?1562813477",
+    "large": "https://cards.scryfall.io/large/front/c/2/c20ec10e-78fc-49dc-a112-7863a34056b1.jpg?1562813477",
+    "png": "https://cards.scryfall.io/png/front/c/2/c20ec10e-78fc-49dc-a112-7863a34056b1.png?1562813477",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/2/c20ec10e-78fc-49dc-a112-7863a34056b1.jpg?1562813477",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/2/c20ec10e-78fc-49dc-a112-7863a34056b1.jpg?1562813477"
+  },
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": "0.89",
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": "1.10",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/hou/185/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/c20ec10e-78fc-49dc-a112-7863a34056b1",
+  "_catalogFetchedAt": "2026-05-10T22:29:47.751Z"
+}

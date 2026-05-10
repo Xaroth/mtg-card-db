@@ -1,0 +1,46 @@
+{
+  "catalogVersion": 1,
+  "id": "843b35ec-7b59-4a22-8fee-2e876a02306b",
+  "name": "Swamp // Swamp",
+  "set": "rex",
+  "set_name": "Jurassic World Collection",
+  "collector_number": "23",
+  "rarity": "common",
+  "card_faces": [
+    {
+      "name": "Swamp",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+        "normal": "https://cards.scryfall.io/normal/front/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+        "large": "https://cards.scryfall.io/large/front/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+        "png": "https://cards.scryfall.io/png/front/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.png?1698992870",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870"
+      }
+    },
+    {
+      "name": "Swamp",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+        "normal": "https://cards.scryfall.io/normal/back/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+        "large": "https://cards.scryfall.io/large/back/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+        "png": "https://cards.scryfall.io/png/back/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.png?1698992870",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/8/4/843b35ec-7b59-4a22-8fee-2e876a02306b.jpg?1698992870"
+      }
+    }
+  ],
+  "prices": {
+    "usd": "4.49",
+    "usd_foil": "5.55",
+    "usd_etched": null,
+    "eur": "0.99",
+    "eur_foil": "2.67",
+    "tix": "1.04"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/rex/23/swamp-swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/843b35ec-7b59-4a22-8fee-2e876a02306b",
+  "_catalogFetchedAt": "2026-05-10T22:29:57.782Z"
+}

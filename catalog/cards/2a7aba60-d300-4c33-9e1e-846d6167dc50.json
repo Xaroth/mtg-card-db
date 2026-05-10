@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "2a7aba60-d300-4c33-9e1e-846d6167dc50",
+  "name": "Forest",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "collector_number": "516",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/a/2a7aba60-d300-4c33-9e1e-846d6167dc50.jpg?1739576898",
+    "normal": "https://cards.scryfall.io/normal/front/2/a/2a7aba60-d300-4c33-9e1e-846d6167dc50.jpg?1739576898",
+    "large": "https://cards.scryfall.io/large/front/2/a/2a7aba60-d300-4c33-9e1e-846d6167dc50.jpg?1739576898",
+    "png": "https://cards.scryfall.io/png/front/2/a/2a7aba60-d300-4c33-9e1e-846d6167dc50.png?1739576898",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/a/2a7aba60-d300-4c33-9e1e-846d6167dc50.jpg?1739576898",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/a/2a7aba60-d300-4c33-9e1e-846d6167dc50.jpg?1739576898"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "4.93",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.76",
+    "tix": "0.01"
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/dft/516/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/2a7aba60-d300-4c33-9e1e-846d6167dc50",
+  "_catalogFetchedAt": "2026-05-10T22:16:01.127Z"
+}

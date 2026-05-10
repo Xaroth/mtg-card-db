@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "b609eb59-1d0d-4fd0-bc25-3e3eeccf0913",
+  "code": "totp",
+  "name": "Breaking News Tokens",
+  "uri": "https://api.scryfall.com/sets/b609eb59-1d0d-4fd0-bc25-3e3eeccf0913",
+  "scryfall_uri": "https://scryfall.com/sets/totp",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atotp&unique=prints",
+  "released_at": "2024-04-19",
+  "set_type": "token",
+  "card_count": 5,
+  "parent_set_code": "otp",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/otp.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:11.248Z"
+}

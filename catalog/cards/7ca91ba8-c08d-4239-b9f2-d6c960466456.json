@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "7ca91ba8-c08d-4239-b9f2-d6c960466456",
+  "name": "Forest",
+  "set": "tla",
+  "set_name": "Avatar: The Last Airbender",
+  "collector_number": "296",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/c/7ca91ba8-c08d-4239-b9f2-d6c960466456.jpg?1764122139",
+    "normal": "https://cards.scryfall.io/normal/front/7/c/7ca91ba8-c08d-4239-b9f2-d6c960466456.jpg?1764122139",
+    "large": "https://cards.scryfall.io/large/front/7/c/7ca91ba8-c08d-4239-b9f2-d6c960466456.jpg?1764122139",
+    "png": "https://cards.scryfall.io/png/front/7/c/7ca91ba8-c08d-4239-b9f2-d6c960466456.png?1764122139",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/c/7ca91ba8-c08d-4239-b9f2-d6c960466456.jpg?1764122139",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/c/7ca91ba8-c08d-4239-b9f2-d6c960466456.jpg?1764122139"
+  },
+  "prices": {
+    "usd": "0.51",
+    "usd_foil": "0.64",
+    "usd_etched": null,
+    "eur": "0.28",
+    "eur_foil": "0.50",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/tla/296/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/7ca91ba8-c08d-4239-b9f2-d6c960466456",
+  "_catalogFetchedAt": "2026-05-10T22:32:16.716Z"
+}

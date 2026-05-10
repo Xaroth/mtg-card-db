@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "be72862d-d71e-4b18-98a6-59019399f631",
+  "name": "Forest",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "collector_number": "306",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/e/be72862d-d71e-4b18-98a6-59019399f631.jpg?1748706924",
+    "normal": "https://cards.scryfall.io/normal/front/b/e/be72862d-d71e-4b18-98a6-59019399f631.jpg?1748706924",
+    "large": "https://cards.scryfall.io/large/front/b/e/be72862d-d71e-4b18-98a6-59019399f631.jpg?1748706924",
+    "png": "https://cards.scryfall.io/png/front/b/e/be72862d-d71e-4b18-98a6-59019399f631.png?1748706924",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/e/be72862d-d71e-4b18-98a6-59019399f631.jpg?1748706924",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/e/be72862d-d71e-4b18-98a6-59019399f631.jpg?1748706924"
+  },
+  "prices": {
+    "usd": "0.32",
+    "usd_foil": "0.37",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "0.37",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/fin/306/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/be72862d-d71e-4b18-98a6-59019399f631",
+  "_catalogFetchedAt": "2026-05-10T22:29:46.850Z"
+}

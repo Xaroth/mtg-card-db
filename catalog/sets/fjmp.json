@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "08435c3a-335f-436e-a8a5-43752ebc2c14",
+  "code": "fjmp",
+  "name": "Jumpstart Front Cards",
+  "uri": "https://api.scryfall.com/sets/08435c3a-335f-436e-a8a5-43752ebc2c14",
+  "scryfall_uri": "https://scryfall.com/sets/fjmp",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Afjmp&unique=prints",
+  "released_at": "2020-06-18",
+  "set_type": "memorabilia",
+  "card_count": 46,
+  "parent_set_code": "jmp",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/jmp.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:29.615Z"
+}

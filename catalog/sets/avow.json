@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "595121bf-ef1d-4ee8-a8ce-591ca2a74ef1",
+  "code": "avow",
+  "name": "Crimson Vow Art Series",
+  "uri": "https://api.scryfall.com/sets/595121bf-ef1d-4ee8-a8ce-591ca2a74ef1",
+  "scryfall_uri": "https://scryfall.com/sets/avow",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aavow&unique=prints",
+  "released_at": "2021-11-19",
+  "set_type": "memorabilia",
+  "card_count": 81,
+  "parent_set_code": "vow",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "dbl",
+  "block": "Innistrad: Double Feature",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:54.408Z"
+}

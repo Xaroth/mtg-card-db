@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "e912a6f3-790f-4950-bacf-4693f517b469",
+  "code": "tm3c",
+  "name": "Modern Horizons 3 Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/e912a6f3-790f-4950-bacf-4693f517b469",
+  "scryfall_uri": "https://scryfall.com/sets/tm3c",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atm3c&unique=prints",
+  "released_at": "2024-06-14",
+  "set_type": "token",
+  "card_count": 28,
+  "parent_set_code": "m3c",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/m3c.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:02.943Z"
+}

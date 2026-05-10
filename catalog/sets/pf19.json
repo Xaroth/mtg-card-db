@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "3d0d0d5b-e6d6-4dea-9250-5cea04725638",
+  "code": "pf19",
+  "name": "MagicFest 2019",
+  "uri": "https://api.scryfall.com/sets/3d0d0d5b-e6d6-4dea-9250-5cea04725638",
+  "scryfall_uri": "https://scryfall.com/sets/pf19",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apf19&unique=prints",
+  "released_at": "2019-01-01",
+  "set_type": "promo",
+  "card_count": 7,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:37.995Z"
+}

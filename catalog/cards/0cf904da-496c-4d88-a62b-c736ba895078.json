@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "0cf904da-496c-4d88-a62b-c736ba895078",
+  "name": "Swamp",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "276",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/c/0cf904da-496c-4d88-a62b-c736ba895078.jpg?1767773637",
+    "normal": "https://cards.scryfall.io/normal/front/0/c/0cf904da-496c-4d88-a62b-c736ba895078.jpg?1767773637",
+    "large": "https://cards.scryfall.io/large/front/0/c/0cf904da-496c-4d88-a62b-c736ba895078.jpg?1767773637",
+    "png": "https://cards.scryfall.io/png/front/0/c/0cf904da-496c-4d88-a62b-c736ba895078.png?1767773637",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/c/0cf904da-496c-4d88-a62b-c736ba895078.jpg?1767773637",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/c/0cf904da-496c-4d88-a62b-c736ba895078.jpg?1767773637"
+  },
+  "prices": {
+    "usd": "0.28",
+    "usd_foil": "0.36",
+    "usd_etched": null,
+    "eur": "0.22",
+    "eur_foil": "0.30",
+    "tix": "0.04"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ecl/276/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/0cf904da-496c-4d88-a62b-c736ba895078",
+  "_catalogFetchedAt": "2026-05-10T22:16:02.447Z"
+}

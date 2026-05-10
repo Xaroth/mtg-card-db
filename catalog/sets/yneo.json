@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "e804713e-fee5-49ee-8a34-5889ffd6094a",
+  "code": "yneo",
+  "name": "Alchemy: Kamigawa",
+  "uri": "https://api.scryfall.com/sets/e804713e-fee5-49ee-8a34-5889ffd6094a",
+  "scryfall_uri": "https://scryfall.com/sets/yneo",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ayneo&unique=prints",
+  "released_at": "2022-03-17",
+  "set_type": "alchemy",
+  "card_count": 30,
+  "parent_set_code": "neo",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "y22",
+  "block": "Alchemy 2022",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y22.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:36.654Z"
+}

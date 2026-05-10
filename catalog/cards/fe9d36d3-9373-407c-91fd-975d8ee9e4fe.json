@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "fe9d36d3-9373-407c-91fd-975d8ee9e4fe",
+  "name": "Island",
+  "set": "bro",
+  "set_name": "The Brothers' War",
+  "collector_number": "280",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/e/fe9d36d3-9373-407c-91fd-975d8ee9e4fe.jpg?1674422330",
+    "normal": "https://cards.scryfall.io/normal/front/f/e/fe9d36d3-9373-407c-91fd-975d8ee9e4fe.jpg?1674422330",
+    "large": "https://cards.scryfall.io/large/front/f/e/fe9d36d3-9373-407c-91fd-975d8ee9e4fe.jpg?1674422330",
+    "png": "https://cards.scryfall.io/png/front/f/e/fe9d36d3-9373-407c-91fd-975d8ee9e4fe.png?1674422330",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/e/fe9d36d3-9373-407c-91fd-975d8ee9e4fe.jpg?1674422330",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/e/fe9d36d3-9373-407c-91fd-975d8ee9e4fe.jpg?1674422330"
+  },
+  "prices": {
+    "usd": "0.49",
+    "usd_foil": "1.14",
+    "usd_etched": null,
+    "eur": "0.27",
+    "eur_foil": "0.53",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/bro/280/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/fe9d36d3-9373-407c-91fd-975d8ee9e4fe",
+  "_catalogFetchedAt": "2026-05-10T22:15:59.008Z"
+}

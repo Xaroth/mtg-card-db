@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "81d56780-1efc-4487-9803-43d634ca13d0",
+  "code": "brc",
+  "tcgplayer_id": 3159,
+  "name": "The Brothers' War Commander",
+  "uri": "https://api.scryfall.com/sets/81d56780-1efc-4487-9803-43d634ca13d0",
+  "scryfall_uri": "https://scryfall.com/sets/brc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Abrc&unique=prints",
+  "released_at": "2022-11-18",
+  "set_type": "commander",
+  "card_count": 209,
+  "parent_set_code": "bro",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/brc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:57.217Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "4af147e4-cf99-4f32-a77e-d116412f469a",
+  "code": "pmom",
+  "name": "March of the Machine Promos",
+  "uri": "https://api.scryfall.com/sets/4af147e4-cf99-4f32-a77e-d116412f469a",
+  "scryfall_uri": "https://scryfall.com/sets/pmom",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmom&unique=prints",
+  "released_at": "2023-04-21",
+  "set_type": "promo",
+  "card_count": 144,
+  "parent_set_code": "mom",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:57.595Z"
+}

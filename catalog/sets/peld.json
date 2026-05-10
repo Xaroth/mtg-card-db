@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "5f593578-5079-4988-8e88-a3df186bdc2b",
+  "code": "peld",
+  "name": "Throne of Eldraine Promos",
+  "uri": "https://api.scryfall.com/sets/5f593578-5079-4988-8e88-a3df186bdc2b",
+  "scryfall_uri": "https://scryfall.com/sets/peld",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apeld&unique=prints",
+  "released_at": "2019-10-04",
+  "set_type": "promo",
+  "card_count": 138,
+  "parent_set_code": "eld",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/eld.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:36.599Z"
+}

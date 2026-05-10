@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "883ce74c-d4b4-4ee8-84d2-c1377fea1596",
+  "code": "trex",
+  "name": "Jurassic World Collection Tokens",
+  "uri": "https://api.scryfall.com/sets/883ce74c-d4b4-4ee8-84d2-c1377fea1596",
+  "scryfall_uri": "https://scryfall.com/sets/trex",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atrex&unique=prints",
+  "released_at": "2023-11-17",
+  "set_type": "token",
+  "card_count": 2,
+  "parent_set_code": "rex",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/rex.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:12.031Z"
+}

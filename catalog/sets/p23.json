@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "0ccafe7e-c9ee-4742-89fd-06f1e14eacb0",
+  "code": "p23",
+  "name": "Judge Gift Cards 2023",
+  "uri": "https://api.scryfall.com/sets/0ccafe7e-c9ee-4742-89fd-06f1e14eacb0",
+  "scryfall_uri": "https://scryfall.com/sets/p23",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ap23&unique=prints",
+  "released_at": "2023-01-01",
+  "set_type": "promo",
+  "card_count": 10,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "block_code": "jgp",
+  "block": "Judge Gift Cards",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/archie.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:22.605Z"
+}

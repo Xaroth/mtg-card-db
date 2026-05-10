@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "cabe866d-01c3-4ec5-9d41-70305208c2b1",
+  "name": "Swamp",
+  "set": "bro",
+  "set_name": "The Brothers' War",
+  "collector_number": "282",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/a/cabe866d-01c3-4ec5-9d41-70305208c2b1.jpg?1674422344",
+    "normal": "https://cards.scryfall.io/normal/front/c/a/cabe866d-01c3-4ec5-9d41-70305208c2b1.jpg?1674422344",
+    "large": "https://cards.scryfall.io/large/front/c/a/cabe866d-01c3-4ec5-9d41-70305208c2b1.jpg?1674422344",
+    "png": "https://cards.scryfall.io/png/front/c/a/cabe866d-01c3-4ec5-9d41-70305208c2b1.png?1674422344",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/a/cabe866d-01c3-4ec5-9d41-70305208c2b1.jpg?1674422344",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/a/cabe866d-01c3-4ec5-9d41-70305208c2b1.jpg?1674422344"
+  },
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": "0.53",
+    "usd_etched": null,
+    "eur": "0.38",
+    "eur_foil": "0.69",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/bro/282/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/cabe866d-01c3-4ec5-9d41-70305208c2b1",
+  "_catalogFetchedAt": "2026-05-10T22:15:59.210Z"
+}

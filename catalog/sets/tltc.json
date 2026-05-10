@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+  "code": "tltc",
+  "name": "Tales of Middle-earth Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/e88d1f88-385e-4cdc-afbb-c23f3d48f61a",
+  "scryfall_uri": "https://scryfall.com/sets/tltc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atltc&unique=prints",
+  "released_at": "2023-06-23",
+  "set_type": "token",
+  "card_count": 15,
+  "parent_set_code": "ltc",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ltc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:00.435Z"
+}

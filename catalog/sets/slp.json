@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "c325b3f9-51e1-416b-83b1-138f11790dd1",
+  "code": "slp",
+  "tcgplayer_id": 22970,
+  "name": "Secret Lair Promo",
+  "uri": "https://api.scryfall.com/sets/c325b3f9-51e1-416b-83b1-138f11790dd1",
+  "scryfall_uri": "https://scryfall.com/sets/slp",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aslp&unique=prints",
+  "released_at": "2023-02-17",
+  "set_type": "promo",
+  "card_count": 51,
+  "parent_set_code": "sld",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:29.408Z"
+}

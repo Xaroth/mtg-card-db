@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+  "code": "pl25",
+  "name": "Year of the Snake 2025",
+  "uri": "https://api.scryfall.com/sets/d0c670b6-e070-4ba9-9bf1-9c661ba9c7c5",
+  "scryfall_uri": "https://scryfall.com/sets/pl25",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apl25&unique=prints",
+  "released_at": "2025-02-14",
+  "set_type": "promo",
+  "card_count": 6,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:50.000Z"
+}

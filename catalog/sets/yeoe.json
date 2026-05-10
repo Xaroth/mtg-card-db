@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "9383ab27-10b2-49ce-9004-61587a6a477b",
+  "code": "yeoe",
+  "name": "Alchemy: Edge of Eternities",
+  "uri": "https://api.scryfall.com/sets/9383ab27-10b2-49ce-9004-61587a6a477b",
+  "scryfall_uri": "https://scryfall.com/sets/yeoe",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ayeoe&unique=prints",
+  "released_at": "2025-08-19",
+  "set_type": "alchemy",
+  "card_count": 40,
+  "parent_set_code": "eoe",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y25.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:35.818Z"
+}

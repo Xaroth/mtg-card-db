@@ -1,0 +1,23 @@
+{
+  "object": "set",
+  "id": "597c6d4a-8212-4903-a6af-12c4ae9e13f0",
+  "code": "grn",
+  "mtgo_code": "grn",
+  "arena_code": "grn",
+  "tcgplayer_id": 2290,
+  "name": "Guilds of Ravnica",
+  "uri": "https://api.scryfall.com/sets/597c6d4a-8212-4903-a6af-12c4ae9e13f0",
+  "scryfall_uri": "https://scryfall.com/sets/grn",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Agrn&unique=prints",
+  "released_at": "2018-10-05",
+  "set_type": "expansion",
+  "card_count": 273,
+  "printed_size": 259,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "grn",
+  "block": "Guilds of Ravnica",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:36.050Z"
+}

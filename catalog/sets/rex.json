@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "647b6fd3-6935-4b96-85a4-d0191487ea5a",
+  "code": "rex",
+  "tcgplayer_id": 23317,
+  "name": "Jurassic World Collection",
+  "uri": "https://api.scryfall.com/sets/647b6fd3-6935-4b96-85a4-d0191487ea5a",
+  "scryfall_uri": "https://scryfall.com/sets/rex",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Arex&unique=prints",
+  "released_at": "2023-11-17",
+  "set_type": "eternal",
+  "card_count": 45,
+  "parent_set_code": "lci",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/rex.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:25.031Z"
+}

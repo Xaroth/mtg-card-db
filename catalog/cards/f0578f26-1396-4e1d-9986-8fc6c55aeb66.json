@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "f0578f26-1396-4e1d-9986-8fc6c55aeb66",
+  "name": "Island",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "collector_number": "295",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/0/f0578f26-1396-4e1d-9986-8fc6c55aeb66.jpg?1669724057",
+    "normal": "https://cards.scryfall.io/normal/front/f/0/f0578f26-1396-4e1d-9986-8fc6c55aeb66.jpg?1669724057",
+    "large": "https://cards.scryfall.io/large/front/f/0/f0578f26-1396-4e1d-9986-8fc6c55aeb66.jpg?1669724057",
+    "png": "https://cards.scryfall.io/png/front/f/0/f0578f26-1396-4e1d-9986-8fc6c55aeb66.png?1669724057",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/0/f0578f26-1396-4e1d-9986-8fc6c55aeb66.jpg?1669724057",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/0/f0578f26-1396-4e1d-9986-8fc6c55aeb66.jpg?1669724057"
+  },
+  "prices": {
+    "usd": "3.16",
+    "usd_foil": "4.32",
+    "usd_etched": null,
+    "eur": "1.72",
+    "eur_foil": "3.51",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/neo/295/ja/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/f0578f26-1396-4e1d-9986-8fc6c55aeb66",
+  "_catalogFetchedAt": "2026-05-10T22:29:53.570Z"
+}

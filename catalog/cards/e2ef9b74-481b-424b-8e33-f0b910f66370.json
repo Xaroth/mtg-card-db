@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "e2ef9b74-481b-424b-8e33-f0b910f66370",
+  "name": "Forest",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "collector_number": "280",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/2/e2ef9b74-481b-424b-8e33-f0b910f66370.jpg?1681845936",
+    "normal": "https://cards.scryfall.io/normal/front/e/2/e2ef9b74-481b-424b-8e33-f0b910f66370.jpg?1681845936",
+    "large": "https://cards.scryfall.io/large/front/e/2/e2ef9b74-481b-424b-8e33-f0b910f66370.jpg?1681845936",
+    "png": "https://cards.scryfall.io/png/front/e/2/e2ef9b74-481b-424b-8e33-f0b910f66370.png?1681845936",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/2/e2ef9b74-481b-424b-8e33-f0b910f66370.jpg?1681845936",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/2/e2ef9b74-481b-424b-8e33-f0b910f66370.jpg?1681845936"
+  },
+  "prices": {
+    "usd": "0.35",
+    "usd_foil": "0.67",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.50",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/znr/280/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/e2ef9b74-481b-424b-8e33-f0b910f66370",
+  "_catalogFetchedAt": "2026-05-10T22:32:38.733Z"
+}

@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "8a673262-8745-452d-820a-03d5c4a4f135",
+  "code": "ymid",
+  "name": "Alchemy: Innistrad",
+  "uri": "https://api.scryfall.com/sets/8a673262-8745-452d-820a-03d5c4a4f135",
+  "scryfall_uri": "https://scryfall.com/sets/ymid",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aymid&unique=prints",
+  "released_at": "2021-12-09",
+  "set_type": "alchemy",
+  "card_count": 63,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "y22",
+  "block": "Alchemy 2022",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y22.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:36.216Z"
+}

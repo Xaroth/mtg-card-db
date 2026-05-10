@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "b651abe6-2c19-4ba0-8fa1-9b5909ccbef7",
+  "code": "psnc",
+  "name": "Streets of New Capenna Promos",
+  "uri": "https://api.scryfall.com/sets/b651abe6-2c19-4ba0-8fa1-9b5909ccbef7",
+  "scryfall_uri": "https://scryfall.com/sets/psnc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apsnc&unique=prints",
+  "released_at": "2022-04-29",
+  "set_type": "promo",
+  "card_count": 161,
+  "parent_set_code": "snc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:11.207Z"
+}

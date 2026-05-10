@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "c7533cbb-ab73-4a0c-9ea0-baa97c4665b8",
+  "name": "Mountain",
+  "set": "dft",
+  "set_name": "Aetherdrift",
+  "collector_number": "510",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/7/c7533cbb-ab73-4a0c-9ea0-baa97c4665b8.jpg?1738358154",
+    "normal": "https://cards.scryfall.io/normal/front/c/7/c7533cbb-ab73-4a0c-9ea0-baa97c4665b8.jpg?1738358154",
+    "large": "https://cards.scryfall.io/large/front/c/7/c7533cbb-ab73-4a0c-9ea0-baa97c4665b8.jpg?1738358154",
+    "png": "https://cards.scryfall.io/png/front/c/7/c7533cbb-ab73-4a0c-9ea0-baa97c4665b8.png?1738358154",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/7/c7533cbb-ab73-4a0c-9ea0-baa97c4665b8.jpg?1738358154",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/7/c7533cbb-ab73-4a0c-9ea0-baa97c4665b8.jpg?1738358154"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.14",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.41",
+    "tix": "0.01"
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/dft/510/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/c7533cbb-ab73-4a0c-9ea0-baa97c4665b8",
+  "_catalogFetchedAt": "2026-05-10T22:16:00.637Z"
+}

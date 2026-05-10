@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "640891dc-bc2d-4f9d-aee9-6e057f1fa60c",
+  "code": "plg21",
+  "name": "Love Your LGS 2021",
+  "uri": "https://api.scryfall.com/sets/640891dc-bc2d-4f9d-aee9-6e057f1fa60c",
+  "scryfall_uri": "https://scryfall.com/sets/plg21",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aplg21&unique=prints",
+  "released_at": "2021-06-22",
+  "set_type": "promo",
+  "card_count": 11,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:50.987Z"
+}

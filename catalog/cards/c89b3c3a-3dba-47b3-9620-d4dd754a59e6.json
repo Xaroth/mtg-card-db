@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "c89b3c3a-3dba-47b3-9620-d4dd754a59e6",
+  "name": "Mountain",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "collector_number": "277",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/8/c89b3c3a-3dba-47b3-9620-d4dd754a59e6.jpg?1681845972",
+    "normal": "https://cards.scryfall.io/normal/front/c/8/c89b3c3a-3dba-47b3-9620-d4dd754a59e6.jpg?1681845972",
+    "large": "https://cards.scryfall.io/large/front/c/8/c89b3c3a-3dba-47b3-9620-d4dd754a59e6.jpg?1681845972",
+    "png": "https://cards.scryfall.io/png/front/c/8/c89b3c3a-3dba-47b3-9620-d4dd754a59e6.png?1681845972",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c89b3c3a-3dba-47b3-9620-d4dd754a59e6.jpg?1681845972",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c89b3c3a-3dba-47b3-9620-d4dd754a59e6.jpg?1681845972"
+  },
+  "prices": {
+    "usd": "0.29",
+    "usd_foil": "0.40",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "0.30",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/znr/277/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/c89b3c3a-3dba-47b3-9620-d4dd754a59e6",
+  "_catalogFetchedAt": "2026-05-10T22:32:38.131Z"
+}

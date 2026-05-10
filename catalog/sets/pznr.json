@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "76c61d42-610a-4b5a-880a-7a1fc1222f81",
+  "code": "pznr",
+  "name": "Zendikar Rising Promos",
+  "uri": "https://api.scryfall.com/sets/76c61d42-610a-4b5a-880a-7a1fc1222f81",
+  "scryfall_uri": "https://scryfall.com/sets/pznr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apznr&unique=prints",
+  "released_at": "2020-09-25",
+  "set_type": "promo",
+  "card_count": 153,
+  "parent_set_code": "znr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/znr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:24.003Z"
+}

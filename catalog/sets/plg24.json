@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "d72a9b9d-4a13-4d8b-a1b3-756c4575e4f8",
+  "code": "plg24",
+  "name": "Love Your LGS 2024",
+  "uri": "https://api.scryfall.com/sets/d72a9b9d-4a13-4d8b-a1b3-756c4575e4f8",
+  "scryfall_uri": "https://scryfall.com/sets/plg24",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aplg24&unique=prints",
+  "released_at": "2024-08-06",
+  "set_type": "promo",
+  "card_count": 7,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:51.396Z"
+}

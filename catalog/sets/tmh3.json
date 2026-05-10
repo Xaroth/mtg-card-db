@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "7aa71d91-3b45-4a2f-a183-0b3c1918c285",
+  "code": "tmh3",
+  "name": "Modern Horizons 3 Tokens",
+  "uri": "https://api.scryfall.com/sets/7aa71d91-3b45-4a2f-a183-0b3c1918c285",
+  "scryfall_uri": "https://scryfall.com/sets/tmh3",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmh3&unique=prints",
+  "released_at": "2024-06-14",
+  "set_type": "token",
+  "card_count": 43,
+  "parent_set_code": "mh3",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mh3.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:04.614Z"
+}

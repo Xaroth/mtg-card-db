@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "967bba11-2f81-452c-98c4-56bd7c051242",
+  "code": "tgrn",
+  "name": "Guilds of Ravnica Tokens",
+  "uri": "https://api.scryfall.com/sets/967bba11-2f81-452c-98c4-56bd7c051242",
+  "scryfall_uri": "https://scryfall.com/sets/tgrn",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atgrn&unique=prints",
+  "released_at": "2018-10-05",
+  "set_type": "token",
+  "card_count": 8,
+  "parent_set_code": "grn",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "grn",
+  "block": "Guilds of Ravnica",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:55.296Z"
+}

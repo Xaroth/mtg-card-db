@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "69cb6b1c-61db-4d66-beee-b849b34a519c",
+  "code": "smom",
+  "name": "March of the Machine Substitute Cards",
+  "uri": "https://api.scryfall.com/sets/69cb6b1c-61db-4d66-beee-b849b34a519c",
+  "scryfall_uri": "https://scryfall.com/sets/smom",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asmom&unique=prints",
+  "released_at": "2023-04-21",
+  "set_type": "token",
+  "card_count": 1,
+  "parent_set_code": "mom",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:30.409Z"
+}

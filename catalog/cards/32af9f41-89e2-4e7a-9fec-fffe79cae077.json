@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "32af9f41-89e2-4e7a-9fec-fffe79cae077",
+  "name": "Forest",
+  "set": "thb",
+  "set_name": "Theros Beyond Death",
+  "collector_number": "254",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/2/32af9f41-89e2-4e7a-9fec-fffe79cae077.jpg?1641306082",
+    "normal": "https://cards.scryfall.io/normal/front/3/2/32af9f41-89e2-4e7a-9fec-fffe79cae077.jpg?1641306082",
+    "large": "https://cards.scryfall.io/large/front/3/2/32af9f41-89e2-4e7a-9fec-fffe79cae077.jpg?1641306082",
+    "png": "https://cards.scryfall.io/png/front/3/2/32af9f41-89e2-4e7a-9fec-fffe79cae077.png?1641306082",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/2/32af9f41-89e2-4e7a-9fec-fffe79cae077.jpg?1641306082",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/2/32af9f41-89e2-4e7a-9fec-fffe79cae077.jpg?1641306082"
+  },
+  "prices": {
+    "usd": "1.00",
+    "usd_foil": "1.75",
+    "usd_etched": null,
+    "eur": "0.86",
+    "eur_foil": "1.66",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/thb/254/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/32af9f41-89e2-4e7a-9fec-fffe79cae077",
+  "_catalogFetchedAt": "2026-05-10T22:32:14.717Z"
+}

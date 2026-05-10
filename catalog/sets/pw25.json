@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "eac8a97a-7eb5-4d0f-8206-e4963e57b265",
+  "code": "pw25",
+  "name": "Wizards Play Network 2025",
+  "uri": "https://api.scryfall.com/sets/eac8a97a-7eb5-4d0f-8206-e4963e57b265",
+  "scryfall_uri": "https://scryfall.com/sets/pw25",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apw25&unique=prints",
+  "released_at": "2025-01-01",
+  "set_type": "promo",
+  "card_count": 17,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:21.219Z"
+}

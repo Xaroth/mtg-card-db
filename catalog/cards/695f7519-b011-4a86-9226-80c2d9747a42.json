@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "695f7519-b011-4a86-9226-80c2d9747a42",
+  "name": "Island",
+  "set": "bfz",
+  "set_name": "Battle for Zendikar",
+  "collector_number": "258",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/9/695f7519-b011-4a86-9226-80c2d9747a42.jpg?1562919807",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/695f7519-b011-4a86-9226-80c2d9747a42.jpg?1562919807",
+    "large": "https://cards.scryfall.io/large/front/6/9/695f7519-b011-4a86-9226-80c2d9747a42.jpg?1562919807",
+    "png": "https://cards.scryfall.io/png/front/6/9/695f7519-b011-4a86-9226-80c2d9747a42.png?1562919807",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/695f7519-b011-4a86-9226-80c2d9747a42.jpg?1562919807",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/695f7519-b011-4a86-9226-80c2d9747a42.jpg?1562919807"
+  },
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": "1.36",
+    "usd_etched": null,
+    "eur": "0.21",
+    "eur_foil": "0.54",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/bfz/258/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/695f7519-b011-4a86-9226-80c2d9747a42",
+  "_catalogFetchedAt": "2026-05-10T22:15:55.301Z"
+}

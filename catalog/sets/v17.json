@@ -1,0 +1,23 @@
+{
+  "object": "set",
+  "id": "63c89a12-d115-4084-a4af-fceef40ca02f",
+  "code": "v17",
+  "mtgo_code": "v17",
+  "arena_code": "v17",
+  "tcgplayer_id": 2078,
+  "name": "From the Vault: Transform",
+  "uri": "https://api.scryfall.com/sets/63c89a12-d115-4084-a4af-fceef40ca02f",
+  "scryfall_uri": "https://scryfall.com/sets/v17",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Av17&unique=prints",
+  "released_at": "2017-11-24",
+  "set_type": "from_the_vault",
+  "card_count": 16,
+  "printed_size": 15,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "block_code": "ftv",
+  "block": "From the Vault",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/v17.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:28.405Z"
+}

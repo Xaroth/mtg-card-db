@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "e9dbe497-c76a-4037-82c1-7ef338d6c54c",
+  "code": "phtr",
+  "name": "2016 Heroes of the Realm",
+  "uri": "https://api.scryfall.com/sets/e9dbe497-c76a-4037-82c1-7ef338d6c54c",
+  "scryfall_uri": "https://scryfall.com/sets/phtr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aphtr&unique=prints",
+  "released_at": "2017-09-20",
+  "set_type": "funny",
+  "card_count": 3,
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "htr",
+  "block": "Heroes of the Realm",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:45.582Z"
+}

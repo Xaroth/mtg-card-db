@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "cdf05b47-9597-41ca-8050-be1987b9ef64",
+  "code": "mneo",
+  "name": "Kamigawa: Neon Dynasty Minigames",
+  "uri": "https://api.scryfall.com/sets/cdf05b47-9597-41ca-8050-be1987b9ef64",
+  "scryfall_uri": "https://scryfall.com/sets/mneo",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amneo&unique=prints",
+  "released_at": "2022-02-18",
+  "set_type": "minigame",
+  "card_count": 3,
+  "parent_set_code": "neo",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:00.722Z"
+}

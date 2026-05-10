@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "3879667a-f0b8-4bc2-8662-7c861e22b4e9",
+  "code": "ymkm",
+  "name": "Alchemy: Murders at Karlov Manor ",
+  "uri": "https://api.scryfall.com/sets/3879667a-f0b8-4bc2-8662-7c861e22b4e9",
+  "scryfall_uri": "https://scryfall.com/sets/ymkm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aymkm&unique=prints",
+  "released_at": "2024-03-05",
+  "set_type": "alchemy",
+  "card_count": 30,
+  "parent_set_code": "mkm",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "y24",
+  "block": "Alchemy 2024",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y24.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:36.438Z"
+}

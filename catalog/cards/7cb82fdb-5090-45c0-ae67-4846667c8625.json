@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "7cb82fdb-5090-45c0-ae67-4846667c8625",
+  "name": "Mountain",
+  "set": "lci",
+  "set_name": "The Lost Caverns of Ixalan",
+  "collector_number": "290",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/c/7cb82fdb-5090-45c0-ae67-4846667c8625.jpg?1699044724",
+    "normal": "https://cards.scryfall.io/normal/front/7/c/7cb82fdb-5090-45c0-ae67-4846667c8625.jpg?1699044724",
+    "large": "https://cards.scryfall.io/large/front/7/c/7cb82fdb-5090-45c0-ae67-4846667c8625.jpg?1699044724",
+    "png": "https://cards.scryfall.io/png/front/7/c/7cb82fdb-5090-45c0-ae67-4846667c8625.png?1699044724",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/c/7cb82fdb-5090-45c0-ae67-4846667c8625.jpg?1699044724",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/c/7cb82fdb-5090-45c0-ae67-4846667c8625.jpg?1699044724"
+  },
+  "prices": {
+    "usd": "0.72",
+    "usd_foil": "0.97",
+    "usd_etched": null,
+    "eur": "0.33",
+    "eur_foil": "0.51",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/lci/290/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/7cb82fdb-5090-45c0-ae67-4846667c8625",
+  "_catalogFetchedAt": "2026-05-10T22:29:48.556Z"
+}

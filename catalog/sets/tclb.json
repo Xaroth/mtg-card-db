@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "942706db-55db-4d8b-8337-deca3a4b522c",
+  "code": "tclb",
+  "name": "Battle for Baldur's Gate Tokens",
+  "uri": "https://api.scryfall.com/sets/942706db-55db-4d8b-8337-deca3a4b522c",
+  "scryfall_uri": "https://scryfall.com/sets/tclb",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atclb&unique=prints",
+  "released_at": "2022-06-10",
+  "set_type": "token",
+  "card_count": 51,
+  "printed_size": 20,
+  "parent_set_code": "clb",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/clb.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:41.917Z"
+}

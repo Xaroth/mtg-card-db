@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "ee86ac2f-f398-4422-8721-8ac859fbf5bc",
+  "name": "Plains",
+  "set": "fin",
+  "set_name": "Final Fantasy",
+  "collector_number": "296",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/e/ee86ac2f-f398-4422-8721-8ac859fbf5bc.jpg?1748706884",
+    "normal": "https://cards.scryfall.io/normal/front/e/e/ee86ac2f-f398-4422-8721-8ac859fbf5bc.jpg?1748706884",
+    "large": "https://cards.scryfall.io/large/front/e/e/ee86ac2f-f398-4422-8721-8ac859fbf5bc.jpg?1748706884",
+    "png": "https://cards.scryfall.io/png/front/e/e/ee86ac2f-f398-4422-8721-8ac859fbf5bc.png?1748706884",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/e/ee86ac2f-f398-4422-8721-8ac859fbf5bc.jpg?1748706884",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/e/ee86ac2f-f398-4422-8721-8ac859fbf5bc.jpg?1748706884"
+  },
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": "0.24",
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": "0.30",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/fin/296/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/ee86ac2f-f398-4422-8721-8ac859fbf5bc",
+  "_catalogFetchedAt": "2026-05-10T22:29:45.845Z"
+}

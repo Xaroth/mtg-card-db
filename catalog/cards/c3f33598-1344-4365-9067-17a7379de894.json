@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "c3f33598-1344-4365-9067-17a7379de894",
+  "name": "Plains",
+  "set": "pip",
+  "set_name": "Fallout",
+  "collector_number": "317",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/3/c3f33598-1344-4365-9067-17a7379de894.jpg?1708743477",
+    "normal": "https://cards.scryfall.io/normal/front/c/3/c3f33598-1344-4365-9067-17a7379de894.jpg?1708743477",
+    "large": "https://cards.scryfall.io/large/front/c/3/c3f33598-1344-4365-9067-17a7379de894.jpg?1708743477",
+    "png": "https://cards.scryfall.io/png/front/c/3/c3f33598-1344-4365-9067-17a7379de894.png?1708743477",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/3/c3f33598-1344-4365-9067-17a7379de894.jpg?1708743477",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/3/c3f33598-1344-4365-9067-17a7379de894.jpg?1708743477"
+  },
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": "2.14",
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": "1.06",
+    "tix": "0.04"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/pip/317/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/c3f33598-1344-4365-9067-17a7379de894",
+  "_catalogFetchedAt": "2026-05-10T22:29:56.576Z"
+}

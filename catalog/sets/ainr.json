@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "03368b5a-dcb8-4742-bf70-f194718d0bc8",
+  "code": "ainr",
+  "name": "Innistrad Remastered Art Series",
+  "uri": "https://api.scryfall.com/sets/03368b5a-dcb8-4742-bf70-f194718d0bc8",
+  "scryfall_uri": "https://scryfall.com/sets/ainr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aainr&unique=prints",
+  "released_at": "2025-01-24",
+  "set_type": "memorabilia",
+  "card_count": 25,
+  "parent_set_code": "inr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/inr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:47.445Z"
+}

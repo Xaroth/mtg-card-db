@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "ad780626-4b50-4b92-b5c1-49e060bd597d",
+  "code": "psos",
+  "name": "Secrets of Strixhaven Promos",
+  "uri": "https://api.scryfall.com/sets/ad780626-4b50-4b92-b5c1-49e060bd597d",
+  "scryfall_uri": "https://scryfall.com/sets/psos",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apsos&unique=prints",
+  "released_at": "2026-04-24",
+  "set_type": "promo",
+  "card_count": 80,
+  "parent_set_code": "sos",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/sos.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:12.064Z"
+}

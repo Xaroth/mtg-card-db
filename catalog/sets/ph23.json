@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "ecbf5a1a-ccdd-4279-856c-928977171f05",
+  "code": "ph23",
+  "name": "2023 Heroes of the Realm",
+  "uri": "https://api.scryfall.com/sets/ecbf5a1a-ccdd-4279-856c-928977171f05",
+  "scryfall_uri": "https://scryfall.com/sets/ph23",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aph23&unique=prints",
+  "released_at": "2025-08-24",
+  "set_type": "funny",
+  "card_count": 2,
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "htr",
+  "block": "Heroes of the Realm",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:44.582Z"
+}

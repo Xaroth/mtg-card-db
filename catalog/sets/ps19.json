@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "9e585a9c-2bba-4310-94a9-036329ee264c",
+  "code": "ps19",
+  "name": "San Diego Comic-Con 2019",
+  "uri": "https://api.scryfall.com/sets/9e585a9c-2bba-4310-94a9-036329ee264c",
+  "scryfall_uri": "https://scryfall.com/sets/ps19",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aps19&unique=prints",
+  "released_at": "2019-07-18",
+  "set_type": "promo",
+  "card_count": 5,
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/war.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:10.004Z"
+}

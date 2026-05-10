@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "9a58d03b-1b47-4d3c-9d8a-18f20c8f978b",
+  "name": "Mountain",
+  "set": "fic",
+  "set_name": "Final Fantasy Commander",
+  "collector_number": "481",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/a/9a58d03b-1b47-4d3c-9d8a-18f20c8f978b.jpg?1759576902",
+    "normal": "https://cards.scryfall.io/normal/front/9/a/9a58d03b-1b47-4d3c-9d8a-18f20c8f978b.jpg?1759576902",
+    "large": "https://cards.scryfall.io/large/front/9/a/9a58d03b-1b47-4d3c-9d8a-18f20c8f978b.jpg?1759576902",
+    "png": "https://cards.scryfall.io/png/front/9/a/9a58d03b-1b47-4d3c-9d8a-18f20c8f978b.png?1759576902",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/a/9a58d03b-1b47-4d3c-9d8a-18f20c8f978b.jpg?1759576902",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/a/9a58d03b-1b47-4d3c-9d8a-18f20c8f978b.jpg?1759576902"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.67",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.03",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/fic/481/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/9a58d03b-1b47-4d3c-9d8a-18f20c8f978b",
+  "_catalogFetchedAt": "2026-05-10T22:29:45.443Z"
+}

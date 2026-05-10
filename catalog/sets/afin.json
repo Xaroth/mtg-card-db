@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "77b0f33a-10f6-4559-b53a-1c9f0e15149c",
+  "code": "afin",
+  "name": "Final Fantasy Art Series",
+  "uri": "https://api.scryfall.com/sets/77b0f33a-10f6-4559-b53a-1c9f0e15149c",
+  "scryfall_uri": "https://scryfall.com/sets/afin",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aafin&unique=prints",
+  "released_at": "2025-06-13",
+  "set_type": "memorabilia",
+  "card_count": 53,
+  "parent_set_code": "fin",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fin.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:47.016Z"
+}

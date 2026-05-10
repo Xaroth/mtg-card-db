@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "be071312-2af9-4c4a-bcba-b726ee1eabb1",
+  "code": "g18",
+  "name": "M19 Gift Pack",
+  "uri": "https://api.scryfall.com/sets/be071312-2af9-4c4a-bcba-b726ee1eabb1",
+  "scryfall_uri": "https://scryfall.com/sets/g18",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ag18&unique=prints",
+  "released_at": "2018-11-16",
+  "set_type": "box",
+  "card_count": 5,
+  "parent_set_code": "m19",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/m19.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:34.233Z"
+}

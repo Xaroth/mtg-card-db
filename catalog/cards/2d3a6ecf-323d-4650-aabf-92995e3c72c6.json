@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "2d3a6ecf-323d-4650-aabf-92995e3c72c6",
+  "name": "Forest",
+  "set": "bfz",
+  "set_name": "Battle for Zendikar",
+  "collector_number": "272",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/d/2d3a6ecf-323d-4650-aabf-92995e3c72c6.jpg?1562905566",
+    "normal": "https://cards.scryfall.io/normal/front/2/d/2d3a6ecf-323d-4650-aabf-92995e3c72c6.jpg?1562905566",
+    "large": "https://cards.scryfall.io/large/front/2/d/2d3a6ecf-323d-4650-aabf-92995e3c72c6.jpg?1562905566",
+    "png": "https://cards.scryfall.io/png/front/2/d/2d3a6ecf-323d-4650-aabf-92995e3c72c6.png?1562905566",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/d/2d3a6ecf-323d-4650-aabf-92995e3c72c6.jpg?1562905566",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/d/2d3a6ecf-323d-4650-aabf-92995e3c72c6.jpg?1562905566"
+  },
+  "prices": {
+    "usd": "0.18",
+    "usd_foil": "1.14",
+    "usd_etched": null,
+    "eur": "0.16",
+    "eur_foil": "0.82",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/bfz/272/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/2d3a6ecf-323d-4650-aabf-92995e3c72c6",
+  "_catalogFetchedAt": "2026-05-10T22:15:56.702Z"
+}

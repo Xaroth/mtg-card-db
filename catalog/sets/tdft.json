@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "3916f769-ad69-4527-9700-33b266113013",
+  "code": "tdft",
+  "name": "Aetherdrift Tokens",
+  "uri": "https://api.scryfall.com/sets/3916f769-ad69-4527-9700-33b266113013",
+  "scryfall_uri": "https://scryfall.com/sets/tdft",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atdft&unique=prints",
+  "released_at": "2025-02-14",
+  "set_type": "token",
+  "card_count": 14,
+  "parent_set_code": "dft",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dft.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:48.777Z"
+}

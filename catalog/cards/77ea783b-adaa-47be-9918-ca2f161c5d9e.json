@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "77ea783b-adaa-47be-9918-ca2f161c5d9e",
+  "name": "Island",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "collector_number": "269",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/7/77ea783b-adaa-47be-9918-ca2f161c5d9e.jpg?1681845944",
+    "normal": "https://cards.scryfall.io/normal/front/7/7/77ea783b-adaa-47be-9918-ca2f161c5d9e.jpg?1681845944",
+    "large": "https://cards.scryfall.io/large/front/7/7/77ea783b-adaa-47be-9918-ca2f161c5d9e.jpg?1681845944",
+    "png": "https://cards.scryfall.io/png/front/7/7/77ea783b-adaa-47be-9918-ca2f161c5d9e.png?1681845944",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/7/77ea783b-adaa-47be-9918-ca2f161c5d9e.jpg?1681845944",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/7/77ea783b-adaa-47be-9918-ca2f161c5d9e.jpg?1681845944"
+  },
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": "0.42",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.31",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/znr/269/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/77ea783b-adaa-47be-9918-ca2f161c5d9e",
+  "_catalogFetchedAt": "2026-05-10T22:32:36.530Z"
+}

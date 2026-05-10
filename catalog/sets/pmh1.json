@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "20fb960d-f44a-495e-8667-6b36daecc03d",
+  "code": "pmh1",
+  "mtgo_code": "pmh1",
+  "arena_code": "pmh1",
+  "name": "Modern Horizons Promos",
+  "uri": "https://api.scryfall.com/sets/20fb960d-f44a-495e-8667-6b36daecc03d",
+  "scryfall_uri": "https://scryfall.com/sets/pmh1",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmh1&unique=prints",
+  "released_at": "2019-06-14",
+  "set_type": "promo",
+  "card_count": 2,
+  "parent_set_code": "mh1",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:56.001Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "19e95cc8-2387-4ea4-9045-19a130effe7f",
+  "code": "wmom",
+  "name": "MOM Japanese Promo Tokens",
+  "uri": "https://api.scryfall.com/sets/19e95cc8-2387-4ea4-9045-19a130effe7f",
+  "scryfall_uri": "https://scryfall.com/sets/wmom",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Awmom&unique=prints",
+  "released_at": "2023-04-21",
+  "set_type": "token",
+  "card_count": 12,
+  "parent_set_code": "mom",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:32.637Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "e67477a4-6878-4356-8037-807f41590ad1",
+  "name": "Island",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "collector_number": "278",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/6/e67477a4-6878-4356-8037-807f41590ad1.jpg?1674073850",
+    "normal": "https://cards.scryfall.io/normal/front/e/6/e67477a4-6878-4356-8037-807f41590ad1.jpg?1674073850",
+    "large": "https://cards.scryfall.io/large/front/e/6/e67477a4-6878-4356-8037-807f41590ad1.jpg?1674073850",
+    "png": "https://cards.scryfall.io/png/front/e/6/e67477a4-6878-4356-8037-807f41590ad1.png?1674073850",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/6/e67477a4-6878-4356-8037-807f41590ad1.jpg?1674073850",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/6/e67477a4-6878-4356-8037-807f41590ad1.jpg?1674073850"
+  },
+  "prices": {
+    "usd": "1.03",
+    "usd_foil": "1.70",
+    "usd_etched": null,
+    "eur": "1.06",
+    "eur_foil": "1.42",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/dmu/278/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/e67477a4-6878-4356-8037-807f41590ad1",
+  "_catalogFetchedAt": "2026-05-10T22:16:01.332Z"
+}

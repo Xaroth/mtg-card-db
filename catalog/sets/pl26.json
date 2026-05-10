@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "20083173-c2da-4009-a6bd-5d56da78968d",
+  "code": "pl26",
+  "name": "Year of the Horse 2026",
+  "uri": "https://api.scryfall.com/sets/20083173-c2da-4009-a6bd-5d56da78968d",
+  "scryfall_uri": "https://scryfall.com/sets/pl26",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apl26&unique=prints",
+  "released_at": "2026-02-17",
+  "set_type": "promo",
+  "card_count": 5,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:50.185Z"
+}

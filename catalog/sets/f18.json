@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "3a1c398c-c72b-4617-acae-3e6b06ae08d5",
+  "code": "f18",
+  "name": "Friday Night Magic 2018",
+  "uri": "https://api.scryfall.com/sets/3a1c398c-c72b-4617-acae-3e6b06ae08d5",
+  "scryfall_uri": "https://scryfall.com/sets/f18",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Af18&unique=prints",
+  "released_at": "2017-12-27",
+  "set_type": "promo",
+  "card_count": 3,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "block_code": "fnm",
+  "block": "Friday Night Magic",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:26.824Z"
+}

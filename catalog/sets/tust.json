@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "f494ec08-2e39-4228-bddb-200967e2b109",
+  "code": "tust",
+  "name": "Unstable Tokens",
+  "uri": "https://api.scryfall.com/sets/f494ec08-2e39-4228-bddb-200967e2b109",
+  "scryfall_uri": "https://scryfall.com/sets/tust",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atust&unique=prints",
+  "released_at": "2017-12-08",
+  "set_type": "token",
+  "card_count": 20,
+  "parent_set_code": "ust",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ust.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:18.527Z"
+}

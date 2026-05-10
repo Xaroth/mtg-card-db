@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "4c5b03fd-184b-4b7d-8170-3b24b9a4c0c4",
+  "code": "plg22",
+  "name": "Love Your LGS 2022",
+  "uri": "https://api.scryfall.com/sets/4c5b03fd-184b-4b7d-8170-3b24b9a4c0c4",
+  "scryfall_uri": "https://scryfall.com/sets/plg22",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aplg22&unique=prints",
+  "released_at": "2022-07-01",
+  "set_type": "promo",
+  "card_count": 2,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:51.204Z"
+}

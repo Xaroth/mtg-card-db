@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "code": "ptdm",
+  "name": "Tarkir: Dragonstorm Promos",
+  "uri": "https://api.scryfall.com/sets/f17bfc1b-a0dc-45df-9585-84d8d433124f",
+  "scryfall_uri": "https://scryfall.com/sets/ptdm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aptdm&unique=prints",
+  "released_at": "2025-04-11",
+  "set_type": "promo",
+  "card_count": 160,
+  "parent_set_code": "tdm",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tdm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:15.251Z"
+}

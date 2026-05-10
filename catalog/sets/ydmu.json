@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "63e08e74-9029-40c3-887a-56211c15ab21",
+  "code": "ydmu",
+  "name": "Alchemy: Dominaria",
+  "uri": "https://api.scryfall.com/sets/63e08e74-9029-40c3-887a-56211c15ab21",
+  "scryfall_uri": "https://scryfall.com/sets/ydmu",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aydmu&unique=prints",
+  "released_at": "2022-10-05",
+  "set_type": "alchemy",
+  "card_count": 39,
+  "parent_set_code": "dmu",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "y23",
+  "block": "Alchemy 2023",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y23.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:35.245Z"
+}

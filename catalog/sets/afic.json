@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "ff17e3ce-4121-48bf-9463-fa6d3781bb38",
+  "code": "afic",
+  "name": "Final Fantasy Scene Box",
+  "uri": "https://api.scryfall.com/sets/ff17e3ce-4121-48bf-9463-fa6d3781bb38",
+  "scryfall_uri": "https://scryfall.com/sets/afic",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aafic&unique=prints",
+  "released_at": "2025-12-05",
+  "set_type": "memorabilia",
+  "card_count": 24,
+  "parent_set_code": "fic",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fic.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:46.805Z"
+}

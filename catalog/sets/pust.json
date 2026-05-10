@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "d9724b93-8557-4e7b-b056-919d2f8c385b",
+  "code": "pust",
+  "name": "Unstable Promos",
+  "uri": "https://api.scryfall.com/sets/d9724b93-8557-4e7b-b056-919d2f8c385b",
+  "scryfall_uri": "https://scryfall.com/sets/pust",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apust&unique=prints",
+  "released_at": "2017-12-08",
+  "set_type": "promo",
+  "card_count": 1,
+  "parent_set_code": "ust",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ust.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:19.232Z"
+}

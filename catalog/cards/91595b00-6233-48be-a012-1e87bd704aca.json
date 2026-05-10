@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "91595b00-6233-48be-a012-1e87bd704aca",
+  "name": "Island",
+  "set": "2xm",
+  "set_name": "Double Masters",
+  "collector_number": "375",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/1/91595b00-6233-48be-a012-1e87bd704aca.jpg?1641305846",
+    "normal": "https://cards.scryfall.io/normal/front/9/1/91595b00-6233-48be-a012-1e87bd704aca.jpg?1641305846",
+    "large": "https://cards.scryfall.io/large/front/9/1/91595b00-6233-48be-a012-1e87bd704aca.jpg?1641305846",
+    "png": "https://cards.scryfall.io/png/front/9/1/91595b00-6233-48be-a012-1e87bd704aca.png?1641305846",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/1/91595b00-6233-48be-a012-1e87bd704aca.jpg?1641305846",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/1/91595b00-6233-48be-a012-1e87bd704aca.jpg?1641305846"
+  },
+  "prices": {
+    "usd": "1.75",
+    "usd_foil": "3.02",
+    "usd_etched": null,
+    "eur": "1.62",
+    "eur_foil": "3.70",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/2xm/375/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/91595b00-6233-48be-a012-1e87bd704aca",
+  "_catalogFetchedAt": "2026-05-10T22:15:52.201Z"
+}

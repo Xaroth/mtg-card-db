@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "0c1a194b-a2ab-4eb1-88be-291ea32fad7e",
+  "code": "mmid",
+  "name": "Innistrad: Midnight Hunt Minigames",
+  "uri": "https://api.scryfall.com/sets/0c1a194b-a2ab-4eb1-88be-291ea32fad7e",
+  "scryfall_uri": "https://scryfall.com/sets/mmid",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ammid&unique=prints",
+  "released_at": "2021-09-24",
+  "set_type": "minigame",
+  "card_count": 3,
+  "parent_set_code": "mid",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mid.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:00.287Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "815261f8-daaa-4d76-86d9-d2801eb3f1f7",
+  "name": "Forest",
+  "set": "tmt",
+  "set_name": "Teenage Mutant Ninja Turtles",
+  "collector_number": "309",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/1/815261f8-daaa-4d76-86d9-d2801eb3f1f7.jpg?1771345147",
+    "normal": "https://cards.scryfall.io/normal/front/8/1/815261f8-daaa-4d76-86d9-d2801eb3f1f7.jpg?1771345147",
+    "large": "https://cards.scryfall.io/large/front/8/1/815261f8-daaa-4d76-86d9-d2801eb3f1f7.jpg?1771345147",
+    "png": "https://cards.scryfall.io/png/front/8/1/815261f8-daaa-4d76-86d9-d2801eb3f1f7.png?1771345147",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/1/815261f8-daaa-4d76-86d9-d2801eb3f1f7.jpg?1771345147",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/1/815261f8-daaa-4d76-86d9-d2801eb3f1f7.jpg?1771345147"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.01",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.96",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/tmt/309/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/815261f8-daaa-4d76-86d9-d2801eb3f1f7",
+  "_catalogFetchedAt": "2026-05-10T22:32:19.714Z"
+}

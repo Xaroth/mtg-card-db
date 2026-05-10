@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "e7140c68-d478-4ca3-9185-9a64d5e104df",
+  "code": "prix",
+  "name": "Rivals of Ixalan Promos",
+  "uri": "https://api.scryfall.com/sets/e7140c68-d478-4ca3-9185-9a64d5e104df",
+  "scryfall_uri": "https://scryfall.com/sets/prix",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aprix&unique=prints",
+  "released_at": "2018-01-19",
+  "set_type": "promo",
+  "card_count": 98,
+  "parent_set_code": "rix",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "xln",
+  "block": "Ixalan",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/rix.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:04.403Z"
+}

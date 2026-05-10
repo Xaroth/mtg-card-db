@@ -1,0 +1,40 @@
+{
+  "prints": [
+    {
+      "id": "7019912c-bd9b-4b96-9388-400794909aa1",
+      "set": "ogw",
+      "collector_number": "183",
+      "name": "Wastes",
+      "storage": {
+        "nonfoil": 2,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "69b215fe-0d97-4ca1-9490-174220fd454b",
+      "set": "ogw",
+      "collector_number": "184",
+      "name": "Wastes",
+      "storage": {
+        "nonfoil": 1,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    }
+  ]
+}

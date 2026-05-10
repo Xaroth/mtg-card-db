@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "8ac1fceb-8427-409c-98a4-9a5c1ff980b4",
+  "name": "Snow-Covered Island",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "collector_number": "251",
+  "rarity": "common",
+  "type_line": "Basic Snow Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/a/8ac1fceb-8427-409c-98a4-9a5c1ff980b4.jpg?1562202628",
+    "normal": "https://cards.scryfall.io/normal/front/8/a/8ac1fceb-8427-409c-98a4-9a5c1ff980b4.jpg?1562202628",
+    "large": "https://cards.scryfall.io/large/front/8/a/8ac1fceb-8427-409c-98a4-9a5c1ff980b4.jpg?1562202628",
+    "png": "https://cards.scryfall.io/png/front/8/a/8ac1fceb-8427-409c-98a4-9a5c1ff980b4.png?1562202628",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/a/8ac1fceb-8427-409c-98a4-9a5c1ff980b4.jpg?1562202628",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/a/8ac1fceb-8427-409c-98a4-9a5c1ff980b4.jpg?1562202628"
+  },
+  "prices": {
+    "usd": "1.68",
+    "usd_foil": "7.24",
+    "usd_etched": null,
+    "eur": "1.14",
+    "eur_foil": "4.49",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/mh1/251/snow-covered-island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/8ac1fceb-8427-409c-98a4-9a5c1ff980b4",
+  "_catalogFetchedAt": "2026-05-10T22:29:49.855Z"
+}

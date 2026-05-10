@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "07ee7ac3-059b-4de5-924a-2bd1b7910c8b",
+  "code": "tlci",
+  "name": "The Lost Caverns of Ixalan Tokens",
+  "uri": "https://api.scryfall.com/sets/07ee7ac3-059b-4de5-924a-2bd1b7910c8b",
+  "scryfall_uri": "https://scryfall.com/sets/tlci",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atlci&unique=prints",
+  "released_at": "2023-11-17",
+  "set_type": "token",
+  "card_count": 19,
+  "parent_set_code": "lci",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/lci.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:59.826Z"
+}

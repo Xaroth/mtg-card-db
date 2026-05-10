@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "8a4448b6-0dbe-427c-b145-8ac915fc0dfc",
+  "name": "Mountain",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "collector_number": "274",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/a/8a4448b6-0dbe-427c-b145-8ac915fc0dfc.jpg?1643595235",
+    "normal": "https://cards.scryfall.io/normal/front/8/a/8a4448b6-0dbe-427c-b145-8ac915fc0dfc.jpg?1643595235",
+    "large": "https://cards.scryfall.io/large/front/8/a/8a4448b6-0dbe-427c-b145-8ac915fc0dfc.jpg?1643595235",
+    "png": "https://cards.scryfall.io/png/front/8/a/8a4448b6-0dbe-427c-b145-8ac915fc0dfc.png?1643595235",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/a/8a4448b6-0dbe-427c-b145-8ac915fc0dfc.jpg?1643595235",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/a/8a4448b6-0dbe-427c-b145-8ac915fc0dfc.jpg?1643595235"
+  },
+  "prices": {
+    "usd": "0.38",
+    "usd_foil": "0.84",
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": "0.55",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/vow/274/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/8a4448b6-0dbe-427c-b145-8ac915fc0dfc",
+  "_catalogFetchedAt": "2026-05-10T22:32:30.124Z"
+}

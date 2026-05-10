@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "20b4cbcc-c394-4be3-8072-8893b48c866d",
+  "name": "Island",
+  "set": "zen",
+  "set_name": "Zendikar",
+  "collector_number": "235",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/0/20b4cbcc-c394-4be3-8072-8893b48c866d.jpg?1562610494",
+    "normal": "https://cards.scryfall.io/normal/front/2/0/20b4cbcc-c394-4be3-8072-8893b48c866d.jpg?1562610494",
+    "large": "https://cards.scryfall.io/large/front/2/0/20b4cbcc-c394-4be3-8072-8893b48c866d.jpg?1562610494",
+    "png": "https://cards.scryfall.io/png/front/2/0/20b4cbcc-c394-4be3-8072-8893b48c866d.png?1562610494",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/0/20b4cbcc-c394-4be3-8072-8893b48c866d.jpg?1562610494",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/0/20b4cbcc-c394-4be3-8072-8893b48c866d.jpg?1562610494"
+  },
+  "prices": {
+    "usd": "0.43",
+    "usd_foil": "6.82",
+    "usd_etched": null,
+    "eur": "0.40",
+    "eur_foil": "2.59",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/zen/235/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/20b4cbcc-c394-4be3-8072-8893b48c866d",
+  "_catalogFetchedAt": "2026-05-10T22:32:32.925Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "c01b381e-9acc-44bf-82d7-8834a41421fc",
+  "code": "smh3",
+  "name": "Modern Horizons 3 Substitute Cards",
+  "uri": "https://api.scryfall.com/sets/c01b381e-9acc-44bf-82d7-8834a41421fc",
+  "scryfall_uri": "https://scryfall.com/sets/smh3",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asmh3&unique=prints",
+  "released_at": "2024-06-14",
+  "set_type": "token",
+  "card_count": 1,
+  "parent_set_code": "mh3",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mh3.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:30.005Z"
+}

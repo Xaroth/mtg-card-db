@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "ee765d6b-a5ee-4bcd-bbd0-9bc55697ed3c",
+  "code": "pm19",
+  "name": "Core Set 2019 Promos",
+  "uri": "https://api.scryfall.com/sets/ee765d6b-a5ee-4bcd-bbd0-9bc55697ed3c",
+  "scryfall_uri": "https://scryfall.com/sets/pm19",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apm19&unique=prints",
+  "released_at": "2018-07-13",
+  "set_type": "promo",
+  "card_count": 95,
+  "parent_set_code": "m19",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/m19.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:54.595Z"
+}

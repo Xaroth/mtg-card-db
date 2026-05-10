@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "6418bc71-de29-410c-baf3-f63f5615eee2",
+  "name": "Mountain",
+  "set": "2xm",
+  "set_name": "Double Masters",
+  "collector_number": "379",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/4/6418bc71-de29-410c-baf3-f63f5615eee2.jpg?1641305698",
+    "normal": "https://cards.scryfall.io/normal/front/6/4/6418bc71-de29-410c-baf3-f63f5615eee2.jpg?1641305698",
+    "large": "https://cards.scryfall.io/large/front/6/4/6418bc71-de29-410c-baf3-f63f5615eee2.jpg?1641305698",
+    "png": "https://cards.scryfall.io/png/front/6/4/6418bc71-de29-410c-baf3-f63f5615eee2.png?1641305698",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/4/6418bc71-de29-410c-baf3-f63f5615eee2.jpg?1641305698",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/4/6418bc71-de29-410c-baf3-f63f5615eee2.jpg?1641305698"
+  },
+  "prices": {
+    "usd": "2.19",
+    "usd_foil": "3.10",
+    "usd_etched": null,
+    "eur": "1.44",
+    "eur_foil": "3.39",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/2xm/379/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/6418bc71-de29-410c-baf3-f63f5615eee2",
+  "_catalogFetchedAt": "2026-05-10T22:15:52.601Z"
+}

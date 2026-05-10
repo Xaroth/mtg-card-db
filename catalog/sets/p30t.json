@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "fb140855-cf1e-4496-9104-7ab45e2afe36",
+  "code": "p30t",
+  "name": "30th Anniversary Celebration Tokyo",
+  "uri": "https://api.scryfall.com/sets/fb140855-cf1e-4496-9104-7ab45e2afe36",
+  "scryfall_uri": "https://scryfall.com/sets/p30t",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ap30t&unique=prints",
+  "released_at": "2023-09-01",
+  "set_type": "promo",
+  "card_count": 2,
+  "parent_set_code": "30a",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:23.559Z"
+}

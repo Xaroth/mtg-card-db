@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "code": "prm",
+  "mtgo_code": "prm",
+  "arena_code": "prm",
+  "tcgplayer_id": 24690,
+  "name": "Magic Online Promos",
+  "uri": "https://api.scryfall.com/sets/638940fb-6be9-4be3-b83f-68d3902fbbe5",
+  "scryfall_uri": "https://scryfall.com/sets/prm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aprm&unique=prints",
+  "released_at": "2002-06-24",
+  "set_type": "promo",
+  "card_count": 3110,
+  "digital": true,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mtgo.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:06.817Z"
+}

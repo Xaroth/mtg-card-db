@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "840aaaed-a90e-4db0-8dce-f15e92df6d64",
+  "code": "pcel",
+  "name": "Celebration Cards",
+  "uri": "https://api.scryfall.com/sets/840aaaed-a90e-4db0-8dce-f15e92df6d64",
+  "scryfall_uri": "https://scryfall.com/sets/pcel",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apcel&unique=prints",
+  "released_at": "1996-08-14",
+  "set_type": "memorabilia",
+  "card_count": 9,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:30.371Z"
+}

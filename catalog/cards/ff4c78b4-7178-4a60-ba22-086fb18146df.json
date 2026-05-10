@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "ff4c78b4-7178-4a60-ba22-086fb18146df",
+  "name": "Forest",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "collector_number": "308",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/f/ff4c78b4-7178-4a60-ba22-086fb18146df.jpg?1717013886",
+    "normal": "https://cards.scryfall.io/normal/front/f/f/ff4c78b4-7178-4a60-ba22-086fb18146df.jpg?1717013886",
+    "large": "https://cards.scryfall.io/large/front/f/f/ff4c78b4-7178-4a60-ba22-086fb18146df.jpg?1717013886",
+    "png": "https://cards.scryfall.io/png/front/f/f/ff4c78b4-7178-4a60-ba22-086fb18146df.png?1717013886",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/f/ff4c78b4-7178-4a60-ba22-086fb18146df.jpg?1717013886",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/f/ff4c78b4-7178-4a60-ba22-086fb18146df.jpg?1717013886"
+  },
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": "0.33",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.31",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/mh3/308/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/ff4c78b4-7178-4a60-ba22-086fb18146df",
+  "_catalogFetchedAt": "2026-05-10T22:29:50.657Z"
+}

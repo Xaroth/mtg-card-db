@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "94023707-128c-438e-95e3-c86f1ce72fb5",
+  "code": "tmkc",
+  "name": "Murders at Karlov Manor Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/94023707-128c-438e-95e3-c86f1ce72fb5",
+  "scryfall_uri": "https://scryfall.com/sets/tmkc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmkc&unique=prints",
+  "released_at": "2024-02-09",
+  "set_type": "token",
+  "card_count": 31,
+  "parent_set_code": "mkc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mkc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:05.257Z"
+}

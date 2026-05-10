@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "3e724e54-a622-4c77-8183-5a397a7c14a9",
+  "name": "Swamp",
+  "set": "eoe",
+  "set_name": "Edge of Eternities",
+  "collector_number": "264",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/e/3e724e54-a622-4c77-8183-5a397a7c14a9.jpg?1752947631",
+    "normal": "https://cards.scryfall.io/normal/front/3/e/3e724e54-a622-4c77-8183-5a397a7c14a9.jpg?1752947631",
+    "large": "https://cards.scryfall.io/large/front/3/e/3e724e54-a622-4c77-8183-5a397a7c14a9.jpg?1752947631",
+    "png": "https://cards.scryfall.io/png/front/3/e/3e724e54-a622-4c77-8183-5a397a7c14a9.png?1752947631",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/e/3e724e54-a622-4c77-8183-5a397a7c14a9.jpg?1752947631",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/e/3e724e54-a622-4c77-8183-5a397a7c14a9.jpg?1752947631"
+  },
+  "prices": {
+    "usd": "1.43",
+    "usd_foil": "1.78",
+    "usd_etched": null,
+    "eur": "1.23",
+    "eur_foil": "1.72",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/eoe/264/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/3e724e54-a622-4c77-8183-5a397a7c14a9",
+  "_catalogFetchedAt": "2026-05-10T22:16:03.449Z"
+}

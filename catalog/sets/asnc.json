@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "32d16b44-d39f-42af-80d8-470700c7259c",
+  "code": "asnc",
+  "name": "New Capenna Art Series",
+  "uri": "https://api.scryfall.com/sets/32d16b44-d39f-42af-80d8-470700c7259c",
+  "scryfall_uri": "https://scryfall.com/sets/asnc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aasnc&unique=prints",
+  "released_at": "2022-04-29",
+  "set_type": "memorabilia",
+  "card_count": 81,
+  "parent_set_code": "snc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:52.413Z"
+}

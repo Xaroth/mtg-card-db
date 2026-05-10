@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "b044630d-50e7-431b-8e91-bd53e967f594",
+  "name": "Mountain",
+  "set": "spm",
+  "set_name": "Marvel's Spider-Man",
+  "collector_number": "192",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/0/b044630d-50e7-431b-8e91-bd53e967f594.jpg?1757409774",
+    "normal": "https://cards.scryfall.io/normal/front/b/0/b044630d-50e7-431b-8e91-bd53e967f594.jpg?1757409774",
+    "large": "https://cards.scryfall.io/large/front/b/0/b044630d-50e7-431b-8e91-bd53e967f594.jpg?1757409774",
+    "png": "https://cards.scryfall.io/png/front/b/0/b044630d-50e7-431b-8e91-bd53e967f594.png?1757409774",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/0/b044630d-50e7-431b-8e91-bd53e967f594.jpg?1757409774",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/0/b044630d-50e7-431b-8e91-bd53e967f594.jpg?1757409774"
+  },
+  "prices": {
+    "usd": "0.32",
+    "usd_foil": "0.36",
+    "usd_etched": null,
+    "eur": "0.12",
+    "eur_foil": "0.21",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/spm/192/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/b044630d-50e7-431b-8e91-bd53e967f594",
+  "_catalogFetchedAt": "2026-05-10T22:32:11.509Z"
+}

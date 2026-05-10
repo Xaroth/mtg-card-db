@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "7a76d8ee-28fc-49ac-951c-a4d29822f91e",
+  "name": "Plains",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "collector_number": "294",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/a/7a76d8ee-28fc-49ac-951c-a4d29822f91e.jpg?1655495359",
+    "normal": "https://cards.scryfall.io/normal/front/7/a/7a76d8ee-28fc-49ac-951c-a4d29822f91e.jpg?1655495359",
+    "large": "https://cards.scryfall.io/large/front/7/a/7a76d8ee-28fc-49ac-951c-a4d29822f91e.jpg?1655495359",
+    "png": "https://cards.scryfall.io/png/front/7/a/7a76d8ee-28fc-49ac-951c-a4d29822f91e.png?1655495359",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7a76d8ee-28fc-49ac-951c-a4d29822f91e.jpg?1655495359",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7a76d8ee-28fc-49ac-951c-a4d29822f91e.jpg?1655495359"
+  },
+  "prices": {
+    "usd": "2.05",
+    "usd_foil": "2.70",
+    "usd_etched": null,
+    "eur": "1.46",
+    "eur_foil": "2.19",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/neo/294/ja/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/7a76d8ee-28fc-49ac-951c-a4d29822f91e",
+  "_catalogFetchedAt": "2026-05-10T22:29:53.468Z"
+}

@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "71da38d2-c15a-45c4-97b2-a791a2fd695b",
+  "code": "j18",
+  "tcgplayer_id": 62,
+  "name": "Judge Gift Cards 2018",
+  "uri": "https://api.scryfall.com/sets/71da38d2-c15a-45c4-97b2-a791a2fd695b",
+  "scryfall_uri": "https://scryfall.com/sets/j18",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aj18&unique=prints",
+  "released_at": "2018-01-01",
+  "set_type": "promo",
+  "card_count": 8,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "block_code": "jgp",
+  "block": "Judge Gift Cards",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:45.490Z"
+}

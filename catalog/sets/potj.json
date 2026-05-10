@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "efa35c12-8c68-4d9d-9081-f0f57e564ba3",
+  "code": "potj",
+  "name": "Outlaws of Thunder Junction Promos",
+  "uri": "https://api.scryfall.com/sets/efa35c12-8c68-4d9d-9081-f0f57e564ba3",
+  "scryfall_uri": "https://scryfall.com/sets/potj",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apotj&unique=prints",
+  "released_at": "2024-04-19",
+  "set_type": "promo",
+  "card_count": 160,
+  "parent_set_code": "otj",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/otj.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:01.792Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "31a6abc8-69af-4aea-883e-7b9265fee9f6",
+  "code": "te01",
+  "name": "Archenemy: Nicol Bolas Tokens",
+  "uri": "https://api.scryfall.com/sets/31a6abc8-69af-4aea-883e-7b9265fee9f6",
+  "scryfall_uri": "https://scryfall.com/sets/te01",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ate01&unique=prints",
+  "released_at": "2017-09-08",
+  "set_type": "token",
+  "card_count": 5,
+  "parent_set_code": "e01",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/e01.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:51.496Z"
+}

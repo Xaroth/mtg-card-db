@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "5c6322d4-52bf-471a-a5b2-8329ef4be39a",
+  "name": "Island",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "collector_number": "263",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/c/5c6322d4-52bf-471a-a5b2-8329ef4be39a.jpg?1675957286",
+    "normal": "https://cards.scryfall.io/normal/front/5/c/5c6322d4-52bf-471a-a5b2-8329ef4be39a.jpg?1675957286",
+    "large": "https://cards.scryfall.io/large/front/5/c/5c6322d4-52bf-471a-a5b2-8329ef4be39a.jpg?1675957286",
+    "png": "https://cards.scryfall.io/png/front/5/c/5c6322d4-52bf-471a-a5b2-8329ef4be39a.png?1675957286",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5c6322d4-52bf-471a-a5b2-8329ef4be39a.jpg?1675957286",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5c6322d4-52bf-471a-a5b2-8329ef4be39a.jpg?1675957286"
+  },
+  "prices": {
+    "usd": "0.28",
+    "usd_foil": "0.37",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "0.30",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/one/263/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/5c6322d4-52bf-471a-a5b2-8329ef4be39a",
+  "_catalogFetchedAt": "2026-05-10T22:29:54.673Z"
+}

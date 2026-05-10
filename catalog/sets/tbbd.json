@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "b08b40c1-a3fc-4920-a4f6-842c7286fb98",
+  "code": "tbbd",
+  "name": "Battlebond Tokens",
+  "uri": "https://api.scryfall.com/sets/b08b40c1-a3fc-4920-a4f6-842c7286fb98",
+  "scryfall_uri": "https://scryfall.com/sets/tbbd",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atbbd&unique=prints",
+  "released_at": "2018-06-08",
+  "set_type": "token",
+  "card_count": 8,
+  "parent_set_code": "bbd",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/bbd.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:37.829Z"
+}

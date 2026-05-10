@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "e10cf192-68e9-4c3f-ab44-31fe594cc7d4",
+  "code": "adft",
+  "name": "Aetherdrift Art Series",
+  "uri": "https://api.scryfall.com/sets/e10cf192-68e9-4c3f-ab44-31fe594cc7d4",
+  "scryfall_uri": "https://scryfall.com/sets/adft",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aadft&unique=prints",
+  "released_at": "2025-02-14",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "dft",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dft.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:45.220Z"
+}

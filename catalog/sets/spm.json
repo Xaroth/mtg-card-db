@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "a1c7b891-9e96-434c-9994-be58b62b27f1",
+  "code": "spm",
+  "tcgplayer_id": 24245,
+  "name": "Marvel's Spider-Man",
+  "uri": "https://api.scryfall.com/sets/a1c7b891-9e96-434c-9994-be58b62b27f1",
+  "scryfall_uri": "https://scryfall.com/sets/spm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aspm&unique=prints",
+  "released_at": "2025-09-26",
+  "set_type": "expansion",
+  "card_count": 286,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/spm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:32.611Z"
+}

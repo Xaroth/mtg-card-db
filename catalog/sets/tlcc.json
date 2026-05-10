@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "76e77066-7b87-4e70-82eb-769a17b744fa",
+  "code": "tlcc",
+  "name": "The Lost Caverns of Ixalan Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/76e77066-7b87-4e70-82eb-769a17b744fa",
+  "scryfall_uri": "https://scryfall.com/sets/tlcc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atlcc&unique=prints",
+  "released_at": "2023-11-17",
+  "set_type": "token",
+  "card_count": 18,
+  "parent_set_code": "lcc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/lcc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:59.636Z"
+}

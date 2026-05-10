@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "8ff0b4b8-2b1b-4283-a35c-6edd5bbcf373",
+  "code": "pana",
+  "name": "MTG Arena Promos",
+  "uri": "https://api.scryfall.com/sets/8ff0b4b8-2b1b-4283-a35c-6edd5bbcf373",
+  "scryfall_uri": "https://scryfall.com/sets/pana",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apana&unique=prints",
+  "released_at": "2018-07-14",
+  "set_type": "promo",
+  "card_count": 78,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:27.165Z"
+}

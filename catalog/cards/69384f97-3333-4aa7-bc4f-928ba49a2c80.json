@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "69384f97-3333-4aa7-bc4f-928ba49a2c80",
+  "name": "Swamp",
+  "set": "ugl",
+  "set_name": "Unglued",
+  "collector_number": "86",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/9/69384f97-3333-4aa7-bc4f-928ba49a2c80.jpg?1562799109",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/69384f97-3333-4aa7-bc4f-928ba49a2c80.jpg?1562799109",
+    "large": "https://cards.scryfall.io/large/front/6/9/69384f97-3333-4aa7-bc4f-928ba49a2c80.jpg?1562799109",
+    "png": "https://cards.scryfall.io/png/front/6/9/69384f97-3333-4aa7-bc4f-928ba49a2c80.png?1562799109",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/69384f97-3333-4aa7-bc4f-928ba49a2c80.jpg?1562799109",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/69384f97-3333-4aa7-bc4f-928ba49a2c80.jpg?1562799109"
+  },
+  "prices": {
+    "usd": "9.17",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "4.76",
+    "eur_foil": null,
+    "tix": null
+  },
+  "foil": false,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ugl/86/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/69384f97-3333-4aa7-bc4f-928ba49a2c80",
+  "_catalogFetchedAt": "2026-05-10T22:32:21.318Z"
+}

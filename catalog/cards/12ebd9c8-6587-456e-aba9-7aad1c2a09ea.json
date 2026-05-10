@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "12ebd9c8-6587-456e-aba9-7aad1c2a09ea",
+  "name": "Island",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "275",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/2/12ebd9c8-6587-456e-aba9-7aad1c2a09ea.jpg?1767773615",
+    "normal": "https://cards.scryfall.io/normal/front/1/2/12ebd9c8-6587-456e-aba9-7aad1c2a09ea.jpg?1767773615",
+    "large": "https://cards.scryfall.io/large/front/1/2/12ebd9c8-6587-456e-aba9-7aad1c2a09ea.jpg?1767773615",
+    "png": "https://cards.scryfall.io/png/front/1/2/12ebd9c8-6587-456e-aba9-7aad1c2a09ea.png?1767773615",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/12ebd9c8-6587-456e-aba9-7aad1c2a09ea.jpg?1767773615",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/12ebd9c8-6587-456e-aba9-7aad1c2a09ea.jpg?1767773615"
+  },
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": "0.37",
+    "usd_etched": null,
+    "eur": "0.30",
+    "eur_foil": "0.25",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ecl/275/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/12ebd9c8-6587-456e-aba9-7aad1c2a09ea",
+  "_catalogFetchedAt": "2026-05-10T22:16:02.347Z"
+}

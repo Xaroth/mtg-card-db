@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "2b5268ef-c332-4cfc-bd22-804ef512f625",
+  "code": "acmm",
+  "name": "Commander Masters Art Series",
+  "uri": "https://api.scryfall.com/sets/2b5268ef-c332-4cfc-bd22-804ef512f625",
+  "scryfall_uri": "https://scryfall.com/sets/acmm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aacmm&unique=prints",
+  "released_at": "2023-08-04",
+  "set_type": "memorabilia",
+  "card_count": 81,
+  "parent_set_code": "cmm",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/cmm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:44.793Z"
+}

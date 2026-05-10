@@ -1,0 +1,23 @@
+{
+  "object": "set",
+  "id": "8b51294d-fc54-410c-83b2-0168837ede87",
+  "code": "otp",
+  "mtgo_code": "otp",
+  "arena_code": "otp",
+  "tcgplayer_id": 23442,
+  "name": "Breaking News",
+  "uri": "https://api.scryfall.com/sets/8b51294d-fc54-410c-83b2-0168837ede87",
+  "scryfall_uri": "https://scryfall.com/sets/otp",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aotp&unique=prints",
+  "released_at": "2024-04-19",
+  "set_type": "masterpiece",
+  "card_count": 80,
+  "parent_set_code": "otj",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "otj",
+  "block": "Outlaws of Thunder Junction",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/otp.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:14.707Z"
+}

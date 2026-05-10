@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "deabdaa1-6227-48e4-82d5-63a1771320b2",
+  "name": "Plains",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "collector_number": "268",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/e/deabdaa1-6227-48e4-82d5-63a1771320b2.jpg?1643595060",
+    "normal": "https://cards.scryfall.io/normal/front/d/e/deabdaa1-6227-48e4-82d5-63a1771320b2.jpg?1643595060",
+    "large": "https://cards.scryfall.io/large/front/d/e/deabdaa1-6227-48e4-82d5-63a1771320b2.jpg?1643595060",
+    "png": "https://cards.scryfall.io/png/front/d/e/deabdaa1-6227-48e4-82d5-63a1771320b2.png?1643595060",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/e/deabdaa1-6227-48e4-82d5-63a1771320b2.jpg?1643595060",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/e/deabdaa1-6227-48e4-82d5-63a1771320b2.jpg?1643595060"
+  },
+  "prices": {
+    "usd": "0.39",
+    "usd_foil": "1.07",
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": "0.37",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/vow/268/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/deabdaa1-6227-48e4-82d5-63a1771320b2",
+  "_catalogFetchedAt": "2026-05-10T22:32:28.922Z"
+}

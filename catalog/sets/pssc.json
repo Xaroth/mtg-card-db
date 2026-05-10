@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "d983636f-97f5-4ab7-9a43-0260e10bb753",
+  "code": "pssc",
+  "name": "Secret Lair Showcase Planes",
+  "uri": "https://api.scryfall.com/sets/d983636f-97f5-4ab7-9a43-0260e10bb753",
+  "scryfall_uri": "https://scryfall.com/sets/pssc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apssc&unique=prints",
+  "released_at": "2025-02-21",
+  "set_type": "memorabilia",
+  "card_count": 10,
+  "parent_set_code": "sld",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:13.608Z"
+}

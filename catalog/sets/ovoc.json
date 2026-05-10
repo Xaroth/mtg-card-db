@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "e2b34562-32c8-4221-9fb8-d634b7ad4f86",
+  "code": "ovoc",
+  "name": "Crimson Vow Commander Display Commanders",
+  "uri": "https://api.scryfall.com/sets/e2b34562-32c8-4221-9fb8-d634b7ad4f86",
+  "scryfall_uri": "https://scryfall.com/sets/ovoc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aovoc&unique=prints",
+  "released_at": "2021-11-19",
+  "set_type": "memorabilia",
+  "card_count": 2,
+  "printed_size": 6,
+  "parent_set_code": "voc",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": true,
+  "block_code": "dbl",
+  "block": "Innistrad: Double Feature",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/voc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:15.153Z"
+}

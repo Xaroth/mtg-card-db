@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "a825ac86-d642-42fd-b6aa-94aa804907d9",
+  "name": "Swamp",
+  "set": "lci",
+  "set_name": "The Lost Caverns of Ixalan",
+  "collector_number": "289",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/8/a825ac86-d642-42fd-b6aa-94aa804907d9.jpg?1699044722",
+    "normal": "https://cards.scryfall.io/normal/front/a/8/a825ac86-d642-42fd-b6aa-94aa804907d9.jpg?1699044722",
+    "large": "https://cards.scryfall.io/large/front/a/8/a825ac86-d642-42fd-b6aa-94aa804907d9.jpg?1699044722",
+    "png": "https://cards.scryfall.io/png/front/a/8/a825ac86-d642-42fd-b6aa-94aa804907d9.png?1699044722",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/8/a825ac86-d642-42fd-b6aa-94aa804907d9.jpg?1699044722",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/8/a825ac86-d642-42fd-b6aa-94aa804907d9.jpg?1699044722"
+  },
+  "prices": {
+    "usd": "0.38",
+    "usd_foil": "0.79",
+    "usd_etched": null,
+    "eur": "0.33",
+    "eur_foil": "0.44",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/lci/289/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/a825ac86-d642-42fd-b6aa-94aa804907d9",
+  "_catalogFetchedAt": "2026-05-10T22:29:48.451Z"
+}

@@ -1,0 +1,23 @@
+{
+  "object": "set",
+  "id": "44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "code": "mid",
+  "mtgo_code": "mid",
+  "arena_code": "mid",
+  "tcgplayer_id": 2864,
+  "name": "Innistrad: Midnight Hunt",
+  "uri": "https://api.scryfall.com/sets/44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "scryfall_uri": "https://scryfall.com/sets/mid",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amid&unique=prints",
+  "released_at": "2021-09-24",
+  "set_type": "expansion",
+  "card_count": 398,
+  "printed_size": 277,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "dbl",
+  "block": "Innistrad: Double Feature",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mid.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:58.302Z"
+}

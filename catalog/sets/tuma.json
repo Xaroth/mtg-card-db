@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "804240d7-957c-4860-a684-d3d51dfe1c77",
+  "code": "tuma",
+  "name": "Ultimate Masters Tokens",
+  "uri": "https://api.scryfall.com/sets/804240d7-957c-4860-a684-d3d51dfe1c77",
+  "scryfall_uri": "https://scryfall.com/sets/tuma",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atuma&unique=prints",
+  "released_at": "2018-12-07",
+  "set_type": "token",
+  "card_count": 16,
+  "parent_set_code": "uma",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/uma.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:17.915Z"
+}

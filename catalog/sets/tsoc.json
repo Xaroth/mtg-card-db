@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "cb590d57-927c-437a-934c-7f774881d1c9",
+  "code": "tsoc",
+  "mtgo_code": "tsoc",
+  "arena_code": "tsoc",
+  "name": "Secrets of Strixhaven Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/cb590d57-927c-437a-934c-7f774881d1c9",
+  "scryfall_uri": "https://scryfall.com/sets/tsoc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atsoc&unique=prints",
+  "released_at": "2026-04-24",
+  "set_type": "token",
+  "card_count": 30,
+  "parent_set_code": "soc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/soc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:14.121Z"
+}

@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "4c822528-83c3-42c7-8708-dd1d37166819",
+  "code": "dsc",
+  "tcgplayer_id": 23551,
+  "name": "Duskmourn: House of Horror Commander",
+  "uri": "https://api.scryfall.com/sets/4c822528-83c3-42c7-8708-dd1d37166819",
+  "scryfall_uri": "https://scryfall.com/sets/dsc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Adsc&unique=prints",
+  "released_at": "2024-09-27",
+  "set_type": "commander",
+  "card_count": 373,
+  "parent_set_code": "dsk",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dsc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:18.953Z"
+}

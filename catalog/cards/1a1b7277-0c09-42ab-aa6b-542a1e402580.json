@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "1a1b7277-0c09-42ab-aa6b-542a1e402580",
+  "name": "Forest",
+  "set": "bro",
+  "set_name": "The Brothers' War",
+  "collector_number": "286",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/a/1a1b7277-0c09-42ab-aa6b-542a1e402580.jpg?1674422372",
+    "normal": "https://cards.scryfall.io/normal/front/1/a/1a1b7277-0c09-42ab-aa6b-542a1e402580.jpg?1674422372",
+    "large": "https://cards.scryfall.io/large/front/1/a/1a1b7277-0c09-42ab-aa6b-542a1e402580.jpg?1674422372",
+    "png": "https://cards.scryfall.io/png/front/1/a/1a1b7277-0c09-42ab-aa6b-542a1e402580.png?1674422372",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/a/1a1b7277-0c09-42ab-aa6b-542a1e402580.jpg?1674422372",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/a/1a1b7277-0c09-42ab-aa6b-542a1e402580.jpg?1674422372"
+  },
+  "prices": {
+    "usd": "0.42",
+    "usd_foil": "0.45",
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": "0.36",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/bro/286/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/1a1b7277-0c09-42ab-aa6b-542a1e402580",
+  "_catalogFetchedAt": "2026-05-10T22:15:59.613Z"
+}

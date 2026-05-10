@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "8aaceeb7-7dd8-4fda-a95e-d9ec9c50860a",
+  "code": "admu",
+  "name": "Dominaria United Art Series",
+  "uri": "https://api.scryfall.com/sets/8aaceeb7-7dd8-4fda-a95e-d9ec9c50860a",
+  "scryfall_uri": "https://scryfall.com/sets/admu",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aadmu&unique=prints",
+  "released_at": "2022-09-09",
+  "set_type": "memorabilia",
+  "card_count": 81,
+  "parent_set_code": "dmu",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:45.406Z"
+}

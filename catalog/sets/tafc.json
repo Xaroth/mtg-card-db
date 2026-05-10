@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "28158e6a-efa3-42d8-90da-b8c7a7cc9dea",
+  "code": "tafc",
+  "name": "Forgotten Realms Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/28158e6a-efa3-42d8-90da-b8c7a7cc9dea",
+  "scryfall_uri": "https://scryfall.com/sets/tafc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atafc&unique=prints",
+  "released_at": "2021-07-23",
+  "set_type": "token",
+  "card_count": 13,
+  "printed_size": 13,
+  "parent_set_code": "afc",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/afc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:36.609Z"
+}

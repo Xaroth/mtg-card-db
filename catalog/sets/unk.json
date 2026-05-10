@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "d2703c4f-66b6-438d-9368-ebb55aa12e78",
+  "code": "unk",
+  "tcgplayer_id": 23025,
+  "name": "Unknown Event",
+  "uri": "https://api.scryfall.com/sets/d2703c4f-66b6-438d-9368-ebb55aa12e78",
+  "scryfall_uri": "https://scryfall.com/sets/unk",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aunk&unique=prints",
+  "released_at": "2023-02-15",
+  "set_type": "funny",
+  "card_count": 510,
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/planeswalker.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:26.255Z"
+}

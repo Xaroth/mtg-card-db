@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "200c397b-bf57-46a2-8ebf-592148fd49a4",
+  "code": "tthb",
+  "name": "Theros Beyond Death Tokens",
+  "uri": "https://api.scryfall.com/sets/200c397b-bf57-46a2-8ebf-592148fd49a4",
+  "scryfall_uri": "https://scryfall.com/sets/tthb",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atthb&unique=prints",
+  "released_at": "2020-01-24",
+  "set_type": "token",
+  "card_count": 14,
+  "parent_set_code": "thb",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/thb.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:16.161Z"
+}

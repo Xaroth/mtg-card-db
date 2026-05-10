@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "faf368ed-8cd5-40cf-9ca3-8298bd1f244e",
+  "code": "tdsc",
+  "name": "Duskmourn Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/faf368ed-8cd5-40cf-9ca3-8298bd1f244e",
+  "scryfall_uri": "https://scryfall.com/sets/tdsc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atdsc&unique=prints",
+  "released_at": "2024-09-27",
+  "set_type": "token",
+  "card_count": 23,
+  "parent_set_code": "dsc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dsc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:50.606Z"
+}

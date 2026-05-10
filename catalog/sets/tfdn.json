@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "abb31a61-9d0e-47ed-852a-8c5249396c7d",
+  "code": "tfdn",
+  "name": "Foundations Tokens",
+  "uri": "https://api.scryfall.com/sets/abb31a61-9d0e-47ed-852a-8c5249396c7d",
+  "scryfall_uri": "https://scryfall.com/sets/tfdn",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atfdn&unique=prints",
+  "released_at": "2024-11-15",
+  "set_type": "token",
+  "card_count": 33,
+  "parent_set_code": "fdn",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fdn.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:53.494Z"
+}

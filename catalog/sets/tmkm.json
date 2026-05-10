@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "4be7158b-d5e6-4558-accc-ed0661f2371b",
+  "code": "tmkm",
+  "name": "Murders at Karlov Manor Tokens",
+  "uri": "https://api.scryfall.com/sets/4be7158b-d5e6-4558-accc-ed0661f2371b",
+  "scryfall_uri": "https://scryfall.com/sets/tmkm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmkm&unique=prints",
+  "released_at": "2024-02-09",
+  "set_type": "token",
+  "card_count": 22,
+  "parent_set_code": "mkm",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mkm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:05.416Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "c0055fd3-8a6e-4f2f-9835-e55447721d09",
+  "code": "oclb",
+  "name": "Battle for Baldur's Gate Oversized Cards",
+  "uri": "https://api.scryfall.com/sets/c0055fd3-8a6e-4f2f-9835-e55447721d09",
+  "scryfall_uri": "https://scryfall.com/sets/oclb",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aoclb&unique=prints",
+  "released_at": "2022-06-10",
+  "set_type": "memorabilia",
+  "card_count": 1,
+  "parent_set_code": "clb",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/clb.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:10.359Z"
+}

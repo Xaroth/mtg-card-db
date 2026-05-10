@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "24e668b5-8312-498e-9bd7-c77a102bb55c",
+  "code": "zne",
+  "tcgplayer_id": 2713,
+  "name": "Zendikar Rising Expeditions",
+  "uri": "https://api.scryfall.com/sets/24e668b5-8312-498e-9bd7-c77a102bb55c",
+  "scryfall_uri": "https://scryfall.com/sets/zne",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Azne&unique=prints",
+  "released_at": "2020-09-25",
+  "set_type": "masterpiece",
+  "card_count": 30,
+  "parent_set_code": "znr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/zne.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:38.245Z"
+}

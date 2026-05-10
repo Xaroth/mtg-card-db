@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "6ad4e9cd-76e2-4ee0-8185-8b3aec3578ce",
+  "name": "Mountain",
+  "set": "hou",
+  "set_name": "Hour of Devastation",
+  "collector_number": "188",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/a/6ad4e9cd-76e2-4ee0-8185-8b3aec3578ce.jpg?1562802573",
+    "normal": "https://cards.scryfall.io/normal/front/6/a/6ad4e9cd-76e2-4ee0-8185-8b3aec3578ce.jpg?1562802573",
+    "large": "https://cards.scryfall.io/large/front/6/a/6ad4e9cd-76e2-4ee0-8185-8b3aec3578ce.jpg?1562802573",
+    "png": "https://cards.scryfall.io/png/front/6/a/6ad4e9cd-76e2-4ee0-8185-8b3aec3578ce.png?1562802573",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/a/6ad4e9cd-76e2-4ee0-8185-8b3aec3578ce.jpg?1562802573",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/a/6ad4e9cd-76e2-4ee0-8185-8b3aec3578ce.jpg?1562802573"
+  },
+  "prices": {
+    "usd": "0.31",
+    "usd_foil": "1.61",
+    "usd_etched": null,
+    "eur": "0.23",
+    "eur_foil": "1.39",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/hou/188/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/6ad4e9cd-76e2-4ee0-8185-8b3aec3578ce",
+  "_catalogFetchedAt": "2026-05-10T22:29:48.052Z"
+}

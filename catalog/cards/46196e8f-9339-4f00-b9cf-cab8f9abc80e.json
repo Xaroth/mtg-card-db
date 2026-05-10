@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "46196e8f-9339-4f00-b9cf-cab8f9abc80e",
+  "name": "Forest",
+  "set": "sos",
+  "set_name": "Secrets of Strixhaven",
+  "collector_number": "271",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/6/46196e8f-9339-4f00-b9cf-cab8f9abc80e.jpg?1775938902",
+    "normal": "https://cards.scryfall.io/normal/front/4/6/46196e8f-9339-4f00-b9cf-cab8f9abc80e.jpg?1775938902",
+    "large": "https://cards.scryfall.io/large/front/4/6/46196e8f-9339-4f00-b9cf-cab8f9abc80e.jpg?1775938902",
+    "png": "https://cards.scryfall.io/png/front/4/6/46196e8f-9339-4f00-b9cf-cab8f9abc80e.png?1775938902",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/6/46196e8f-9339-4f00-b9cf-cab8f9abc80e.jpg?1775938902",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/6/46196e8f-9339-4f00-b9cf-cab8f9abc80e.jpg?1775938902"
+  },
+  "prices": {
+    "usd": "0.54",
+    "usd_foil": "0.52",
+    "usd_etched": null,
+    "eur": "0.48",
+    "eur_foil": "0.16",
+    "tix": "0.01"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/sos/271/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/46196e8f-9339-4f00-b9cf-cab8f9abc80e",
+  "_catalogFetchedAt": "2026-05-10T22:32:10.705Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "55c61b29-797f-4fda-acf1-039a807954c9",
+  "name": "Mountain",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "collector_number": "270",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/5/55c61b29-797f-4fda-acf1-039a807954c9.jpg?1675957592",
+    "normal": "https://cards.scryfall.io/normal/front/5/5/55c61b29-797f-4fda-acf1-039a807954c9.jpg?1675957592",
+    "large": "https://cards.scryfall.io/large/front/5/5/55c61b29-797f-4fda-acf1-039a807954c9.jpg?1675957592",
+    "png": "https://cards.scryfall.io/png/front/5/5/55c61b29-797f-4fda-acf1-039a807954c9.png?1675957592",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/5/55c61b29-797f-4fda-acf1-039a807954c9.jpg?1675957592",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/5/55c61b29-797f-4fda-acf1-039a807954c9.jpg?1675957592"
+  },
+  "prices": {
+    "usd": "0.96",
+    "usd_foil": "1.53",
+    "usd_etched": null,
+    "eur": "0.47",
+    "eur_foil": "0.78",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/one/270/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/55c61b29-797f-4fda-acf1-039a807954c9",
+  "_catalogFetchedAt": "2026-05-10T22:29:55.375Z"
+}

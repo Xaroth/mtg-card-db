@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "03a103bc-60be-463f-a2ab-3d2ad5363354",
+  "code": "tdmc",
+  "name": "Dominaria United Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/03a103bc-60be-463f-a2ab-3d2ad5363354",
+  "scryfall_uri": "https://scryfall.com/sets/tdmc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atdmc&unique=prints",
+  "released_at": "2022-09-09",
+  "set_type": "token",
+  "card_count": 12,
+  "parent_set_code": "dmc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dmc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:49.588Z"
+}

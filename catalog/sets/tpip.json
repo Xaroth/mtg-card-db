@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "0516d9a9-8262-4fed-9207-7deca5306cdf",
+  "code": "tpip",
+  "name": "Fallout Tokens",
+  "uri": "https://api.scryfall.com/sets/0516d9a9-8262-4fed-9207-7deca5306cdf",
+  "scryfall_uri": "https://scryfall.com/sets/tpip",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atpip&unique=prints",
+  "released_at": "2024-03-08",
+  "set_type": "token",
+  "card_count": 22,
+  "parent_set_code": "pip",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/pip.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:11.633Z"
+}

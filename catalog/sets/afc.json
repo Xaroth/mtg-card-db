@@ -1,0 +1,22 @@
+{
+  "object": "set",
+  "id": "db1b46f9-893c-4623-9465-985ff6e4472c",
+  "code": "afc",
+  "tcgplayer_id": 2870,
+  "name": "Forgotten Realms Commander",
+  "uri": "https://api.scryfall.com/sets/db1b46f9-893c-4623-9465-985ff6e4472c",
+  "scryfall_uri": "https://scryfall.com/sets/afc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aafc&unique=prints",
+  "released_at": "2021-07-23",
+  "set_type": "commander",
+  "card_count": 331,
+  "printed_size": 62,
+  "parent_set_code": "afr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/afc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:46.439Z"
+}

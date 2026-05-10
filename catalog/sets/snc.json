@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "df837242-8c15-42e4-b049-c933a02dc501",
+  "code": "snc",
+  "mtgo_code": "snc",
+  "arena_code": "snc",
+  "tcgplayer_id": 3026,
+  "name": "Streets of New Capenna",
+  "uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+  "scryfall_uri": "https://scryfall.com/sets/snc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asnc&unique=prints",
+  "released_at": "2022-04-29",
+  "set_type": "expansion",
+  "card_count": 513,
+  "printed_size": 281,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:30.617Z"
+}

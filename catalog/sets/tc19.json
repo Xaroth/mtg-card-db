@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "3e10647f-a051-4790-af9d-7501544fac73",
+  "code": "tc19",
+  "name": "Commander 2019 Tokens",
+  "uri": "https://api.scryfall.com/sets/3e10647f-a051-4790-af9d-7501544fac73",
+  "scryfall_uri": "https://scryfall.com/sets/tc19",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atc19&unique=prints",
+  "released_at": "2019-08-01",
+  "set_type": "token",
+  "card_count": 29,
+  "parent_set_code": "c19",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/c19.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:40.816Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "341b05e6-93bb-4071-b8c6-1644f56e026d",
+  "name": "Forest",
+  "set": "zen",
+  "set_name": "Zendikar",
+  "collector_number": "249",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/4/341b05e6-93bb-4071-b8c6-1644f56e026d.jpg?1562611173",
+    "normal": "https://cards.scryfall.io/normal/front/3/4/341b05e6-93bb-4071-b8c6-1644f56e026d.jpg?1562611173",
+    "large": "https://cards.scryfall.io/large/front/3/4/341b05e6-93bb-4071-b8c6-1644f56e026d.jpg?1562611173",
+    "png": "https://cards.scryfall.io/png/front/3/4/341b05e6-93bb-4071-b8c6-1644f56e026d.png?1562611173",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/4/341b05e6-93bb-4071-b8c6-1644f56e026d.jpg?1562611173",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/4/341b05e6-93bb-4071-b8c6-1644f56e026d.jpg?1562611173"
+  },
+  "prices": {
+    "usd": "0.39",
+    "usd_foil": "7.66",
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": "2.72",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/zen/249/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/341b05e6-93bb-4071-b8c6-1644f56e026d",
+  "_catalogFetchedAt": "2026-05-10T22:32:35.729Z"
+}

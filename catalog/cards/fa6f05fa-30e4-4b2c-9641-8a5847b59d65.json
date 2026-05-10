@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "fa6f05fa-30e4-4b2c-9641-8a5847b59d65",
+  "name": "Island",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "64",
+  "rarity": "rare",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/a/fa6f05fa-30e4-4b2c-9641-8a5847b59d65.jpg?1666888832",
+    "normal": "https://cards.scryfall.io/normal/front/f/a/fa6f05fa-30e4-4b2c-9641-8a5847b59d65.jpg?1666888832",
+    "large": "https://cards.scryfall.io/large/front/f/a/fa6f05fa-30e4-4b2c-9641-8a5847b59d65.jpg?1666888832",
+    "png": "https://cards.scryfall.io/png/front/f/a/fa6f05fa-30e4-4b2c-9641-8a5847b59d65.png?1666888832",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/a/fa6f05fa-30e4-4b2c-9641-8a5847b59d65.jpg?1666888832",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/a/fa6f05fa-30e4-4b2c-9641-8a5847b59d65.jpg?1666888832"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "18.03",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "11.45",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/sld/64/ja/%E5%B3%B6-(island)?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/fa6f05fa-30e4-4b2c-9641-8a5847b59d65",
+  "_catalogFetchedAt": "2026-05-10T22:29:58.282Z"
+}

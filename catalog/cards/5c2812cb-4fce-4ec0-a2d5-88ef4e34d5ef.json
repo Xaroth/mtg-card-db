@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "5c2812cb-4fce-4ec0-a2d5-88ef4e34d5ef",
+  "name": "Plains",
+  "set": "tmt",
+  "set_name": "Teenage Mutant Ninja Turtles",
+  "collector_number": "305",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/c/5c2812cb-4fce-4ec0-a2d5-88ef4e34d5ef.jpg?1771345121",
+    "normal": "https://cards.scryfall.io/normal/front/5/c/5c2812cb-4fce-4ec0-a2d5-88ef4e34d5ef.jpg?1771345121",
+    "large": "https://cards.scryfall.io/large/front/5/c/5c2812cb-4fce-4ec0-a2d5-88ef4e34d5ef.jpg?1771345121",
+    "png": "https://cards.scryfall.io/png/front/5/c/5c2812cb-4fce-4ec0-a2d5-88ef4e34d5ef.png?1771345121",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5c2812cb-4fce-4ec0-a2d5-88ef4e34d5ef.jpg?1771345121",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5c2812cb-4fce-4ec0-a2d5-88ef4e34d5ef.jpg?1771345121"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.68",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.92",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/tmt/305/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/5c2812cb-4fce-4ec0-a2d5-88ef4e34d5ef",
+  "_catalogFetchedAt": "2026-05-10T22:32:18.916Z"
+}

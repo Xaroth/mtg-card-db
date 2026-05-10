@@ -1,0 +1,454 @@
+{
+  "prints": [
+    {
+      "id": "58a735c9-08a1-4950-bf8c-ed1cfba76765",
+      "set": "bfz",
+      "collector_number": "250",
+      "name": "Plains",
+      "storage": {
+        "nonfoil": 7,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "5a8279b9-c1dd-43db-a01b-89567bb43374",
+      "set": "bfz",
+      "collector_number": "251",
+      "name": "Plains",
+      "storage": {
+        "nonfoil": 5,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "0a143c32-d78b-40ee-8d2b-a8ce303162d6",
+      "set": "bfz",
+      "collector_number": "252",
+      "name": "Plains",
+      "storage": {
+        "nonfoil": 6,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "b11c9a26-3234-480b-94cf-49f15f2b0002",
+      "set": "bfz",
+      "collector_number": "253",
+      "name": "Plains",
+      "storage": {
+        "nonfoil": 5,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "3138154c-5763-4105-a635-b697fe4c1e52",
+      "set": "bfz",
+      "collector_number": "254",
+      "name": "Plains",
+      "storage": {
+        "nonfoil": 5,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "8490261d-4246-4232-b7fc-23204c14a7b5",
+      "set": "bfz",
+      "collector_number": "255",
+      "name": "Island",
+      "storage": {
+        "nonfoil": 5,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "5cde9dcf-f0b4-4e76-ac4e-d4a8ac355fbe",
+      "set": "bfz",
+      "collector_number": "256",
+      "name": "Island",
+      "storage": {
+        "nonfoil": 7,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "21e41579-5cbf-41c8-ac1b-e6256220087d",
+      "set": "bfz",
+      "collector_number": "257",
+      "name": "Island",
+      "storage": {
+        "nonfoil": 8,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "695f7519-b011-4a86-9226-80c2d9747a42",
+      "set": "bfz",
+      "collector_number": "258",
+      "name": "Island",
+      "storage": {
+        "nonfoil": 5,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "71207752-0d8a-4ab5-be64-cca600608e76",
+      "set": "bfz",
+      "collector_number": "259",
+      "name": "Island",
+      "storage": {
+        "nonfoil": 1,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "132155ae-f7a4-4957-91cb-e51ff52716f9",
+      "set": "bfz",
+      "collector_number": "260",
+      "name": "Swamp",
+      "storage": {
+        "nonfoil": 8,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "a8594426-c965-4187-a72d-7582f21b0ea1",
+      "set": "bfz",
+      "collector_number": "261",
+      "name": "Swamp",
+      "storage": {
+        "nonfoil": 0,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "5452c8e4-3463-4ae3-a9d1-5947bea4684e",
+      "set": "bfz",
+      "collector_number": "262",
+      "name": "Swamp",
+      "storage": {
+        "nonfoil": 7,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "46e0aaac-fc82-4ce9-87d1-8dead8ec29fd",
+      "set": "bfz",
+      "collector_number": "263",
+      "name": "Swamp",
+      "storage": {
+        "nonfoil": 5,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "1c590ebb-1e3a-4861-b8f2-aef9c4259efd",
+      "set": "bfz",
+      "collector_number": "264",
+      "name": "Swamp",
+      "storage": {
+        "nonfoil": 5,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "0c9cbae1-6b04-4408-82fe-3fcf61dffbe2",
+      "set": "bfz",
+      "collector_number": "265",
+      "name": "Mountain",
+      "storage": {
+        "nonfoil": 3,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "3a42ac42-b21a-449b-abda-6906f06e8120",
+      "set": "bfz",
+      "collector_number": "266",
+      "name": "Mountain",
+      "storage": {
+        "nonfoil": 1,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "37acb733-b3bd-4140-915d-b2c0989208aa",
+      "set": "bfz",
+      "collector_number": "267",
+      "name": "Mountain",
+      "storage": {
+        "nonfoil": 4,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "11c94acd-ad60-4aec-b11b-f4dc4a9adfbc",
+      "set": "bfz",
+      "collector_number": "268",
+      "name": "Mountain",
+      "storage": {
+        "nonfoil": 1,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "3cecf0db-0e0e-4329-b055-bb9dad912ca8",
+      "set": "bfz",
+      "collector_number": "269",
+      "name": "Mountain",
+      "storage": {
+        "nonfoil": 4,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "642102a2-abde-4e76-a6d6-08f7befe1196",
+      "set": "bfz",
+      "collector_number": "270",
+      "name": "Forest",
+      "storage": {
+        "nonfoil": 3,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "491b26e4-1d52-457c-a00c-bdee127f8a97",
+      "set": "bfz",
+      "collector_number": "271",
+      "name": "Forest",
+      "storage": {
+        "nonfoil": 1,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "2d3a6ecf-323d-4650-aabf-92995e3c72c6",
+      "set": "bfz",
+      "collector_number": "272",
+      "name": "Forest",
+      "storage": {
+        "nonfoil": 8,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "3f7f206a-7b5e-4fd5-8c9e-d665ac3f7dea",
+      "set": "bfz",
+      "collector_number": "273",
+      "name": "Forest",
+      "storage": {
+        "nonfoil": 4,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "8c70181e-7b28-46b1-a51a-ba99e58e8566",
+      "set": "bfz",
+      "collector_number": "274",
+      "name": "Forest",
+      "storage": {
+        "nonfoil": 1,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "5acefadb-8b2f-4319-a5e9-1e8fd9ef3086",
+  "name": "Plains",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "collector_number": "269",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/a/5acefadb-8b2f-4319-a5e9-1e8fd9ef3086.jpg?1699826439",
+    "normal": "https://cards.scryfall.io/normal/front/5/a/5acefadb-8b2f-4319-a5e9-1e8fd9ef3086.jpg?1699826439",
+    "large": "https://cards.scryfall.io/large/front/5/a/5acefadb-8b2f-4319-a5e9-1e8fd9ef3086.jpg?1699826439",
+    "png": "https://cards.scryfall.io/png/front/5/a/5acefadb-8b2f-4319-a5e9-1e8fd9ef3086.png?1699826439",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/a/5acefadb-8b2f-4319-a5e9-1e8fd9ef3086.jpg?1699826439",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/a/5acefadb-8b2f-4319-a5e9-1e8fd9ef3086.jpg?1699826439"
+  },
+  "prices": {
+    "usd": "0.36",
+    "usd_foil": "0.70",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "0.32",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/mid/269/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/5acefadb-8b2f-4319-a5e9-1e8fd9ef3086",
+  "_catalogFetchedAt": "2026-05-10T22:29:50.963Z"
+}

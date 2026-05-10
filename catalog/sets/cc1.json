@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "code": "cc1",
+  "mtgo_code": "cc1",
+  "arena_code": "cc1",
+  "tcgplayer_id": 2699,
+  "name": "Commander Collection: Green",
+  "uri": "https://api.scryfall.com/sets/4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "scryfall_uri": "https://scryfall.com/sets/cc1",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Acc1&unique=prints",
+  "released_at": "2020-12-04",
+  "set_type": "arsenal",
+  "card_count": 8,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/cc1.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:03.011Z"
+}

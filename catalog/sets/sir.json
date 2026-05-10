@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "code": "sir",
+  "name": "Shadows over Innistrad Remastered",
+  "uri": "https://api.scryfall.com/sets/c3694ff5-7b12-4f29-8d82-2c9b553ac60e",
+  "scryfall_uri": "https://scryfall.com/sets/sir",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asir&unique=prints",
+  "released_at": "2023-03-21",
+  "set_type": "masters",
+  "card_count": 294,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/sir.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:28.217Z"
+}

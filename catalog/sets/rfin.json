@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "07300e67-c2bb-4200-b526-204574a5ed45",
+  "code": "rfin",
+  "name": "Final Fantasy Regional Promos",
+  "uri": "https://api.scryfall.com/sets/07300e67-c2bb-4200-b526-204574a5ed45",
+  "scryfall_uri": "https://scryfall.com/sets/rfin",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Arfin&unique=prints",
+  "released_at": "2025-06-13",
+  "set_type": "promo",
+  "card_count": 2,
+  "parent_set_code": "fin",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fin.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:25.198Z"
+}

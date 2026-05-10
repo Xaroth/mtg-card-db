@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "886eae6e-ced2-4d94-96fa-9bb5385b06f4",
+  "name": "Island",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "collector_number": "284",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/8/886eae6e-ced2-4d94-96fa-9bb5385b06f4.jpg?1730489661",
+    "normal": "https://cards.scryfall.io/normal/front/8/8/886eae6e-ced2-4d94-96fa-9bb5385b06f4.jpg?1730489661",
+    "large": "https://cards.scryfall.io/large/front/8/8/886eae6e-ced2-4d94-96fa-9bb5385b06f4.jpg?1730489661",
+    "png": "https://cards.scryfall.io/png/front/8/8/886eae6e-ced2-4d94-96fa-9bb5385b06f4.png?1730489661",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/8/886eae6e-ced2-4d94-96fa-9bb5385b06f4.jpg?1730489661",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/8/886eae6e-ced2-4d94-96fa-9bb5385b06f4.jpg?1730489661"
+  },
+  "prices": {
+    "usd": "0.20",
+    "usd_foil": "0.34",
+    "usd_etched": null,
+    "eur": "0.21",
+    "eur_foil": "0.24",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/fdn/284/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/886eae6e-ced2-4d94-96fa-9bb5385b06f4",
+  "_catalogFetchedAt": "2026-05-10T22:16:04.455Z"
+}

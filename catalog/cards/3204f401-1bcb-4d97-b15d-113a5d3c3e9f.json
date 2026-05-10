@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "3204f401-1bcb-4d97-b15d-113a5d3c3e9f",
+  "name": "Mountain",
+  "set": "eoe",
+  "set_name": "Edge of Eternities",
+  "collector_number": "265",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/2/3204f401-1bcb-4d97-b15d-113a5d3c3e9f.jpg?1752947632",
+    "normal": "https://cards.scryfall.io/normal/front/3/2/3204f401-1bcb-4d97-b15d-113a5d3c3e9f.jpg?1752947632",
+    "large": "https://cards.scryfall.io/large/front/3/2/3204f401-1bcb-4d97-b15d-113a5d3c3e9f.jpg?1752947632",
+    "png": "https://cards.scryfall.io/png/front/3/2/3204f401-1bcb-4d97-b15d-113a5d3c3e9f.png?1752947632",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/2/3204f401-1bcb-4d97-b15d-113a5d3c3e9f.jpg?1752947632",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/2/3204f401-1bcb-4d97-b15d-113a5d3c3e9f.jpg?1752947632"
+  },
+  "prices": {
+    "usd": "1.57",
+    "usd_foil": "2.35",
+    "usd_etched": null,
+    "eur": "1.48",
+    "eur_foil": "1.84",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/eoe/265/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/3204f401-1bcb-4d97-b15d-113a5d3c3e9f",
+  "_catalogFetchedAt": "2026-05-10T22:16:03.548Z"
+}

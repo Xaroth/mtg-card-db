@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "bc9f3d1b-bb3a-4a78-9031-ed439212a48b",
+  "name": "Forest",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "2544",
+  "rarity": "rare",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/c/bc9f3d1b-bb3a-4a78-9031-ed439212a48b.jpg?1776173691",
+    "normal": "https://cards.scryfall.io/normal/front/b/c/bc9f3d1b-bb3a-4a78-9031-ed439212a48b.jpg?1776173691",
+    "large": "https://cards.scryfall.io/large/front/b/c/bc9f3d1b-bb3a-4a78-9031-ed439212a48b.jpg?1776173691",
+    "png": "https://cards.scryfall.io/png/front/b/c/bc9f3d1b-bb3a-4a78-9031-ed439212a48b.png?1776173691",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/c/bc9f3d1b-bb3a-4a78-9031-ed439212a48b.jpg?1776173691",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/c/bc9f3d1b-bb3a-4a78-9031-ed439212a48b.jpg?1776173691"
+  },
+  "prices": {
+    "usd": "5.49",
+    "usd_foil": "8.46",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/sld/2544/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/bc9f3d1b-bb3a-4a78-9031-ed439212a48b",
+  "_catalogFetchedAt": "2026-05-10T22:32:06.973Z"
+}

@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "16c10b7c-f1f5-432f-a54d-ca76cf262c6d",
+  "code": "prcq",
+  "name": "Regional Championship Qualifiers 2022",
+  "uri": "https://api.scryfall.com/sets/16c10b7c-f1f5-432f-a54d-ca76cf262c6d",
+  "scryfall_uri": "https://scryfall.com/sets/prcq",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aprcq&unique=prints",
+  "released_at": "2022-10-01",
+  "set_type": "promo",
+  "card_count": 3,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:04.002Z"
+}

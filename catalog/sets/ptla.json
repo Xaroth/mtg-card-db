@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "60e818be-1263-4006-a196-7011fb9076c8",
+  "code": "ptla",
+  "name": "Avatar: The Last Airbender Promos",
+  "uri": "https://api.scryfall.com/sets/60e818be-1263-4006-a196-7011fb9076c8",
+  "scryfall_uri": "https://scryfall.com/sets/ptla",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aptla&unique=prints",
+  "released_at": "2025-11-21",
+  "set_type": "promo",
+  "card_count": 80,
+  "parent_set_code": "tla",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tla.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:16.631Z"
+}

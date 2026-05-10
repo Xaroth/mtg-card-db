@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "bc339a49-60cb-4500-aede-0a887b693297",
+  "code": "pspm",
+  "name": "Marvel's Spider-Man Promos",
+  "uri": "https://api.scryfall.com/sets/bc339a49-60cb-4500-aede-0a887b693297",
+  "scryfall_uri": "https://scryfall.com/sets/pspm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apspm&unique=prints",
+  "released_at": "2025-09-26",
+  "set_type": "promo",
+  "card_count": 68,
+  "parent_set_code": "spm",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/spm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:12.415Z"
+}

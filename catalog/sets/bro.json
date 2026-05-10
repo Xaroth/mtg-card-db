@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "4219a14e-6701-4ddd-a185-21dc054ab19b",
+  "code": "bro",
+  "mtgo_code": "bro",
+  "arena_code": "bro",
+  "tcgplayer_id": 3157,
+  "name": "The Brothers' War",
+  "uri": "https://api.scryfall.com/sets/4219a14e-6701-4ddd-a185-21dc054ab19b",
+  "scryfall_uri": "https://scryfall.com/sets/bro",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Abro&unique=prints",
+  "released_at": "2022-11-18",
+  "set_type": "expansion",
+  "card_count": 399,
+  "printed_size": 287,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:57.413Z"
+}

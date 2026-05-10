@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "c8179106-e5d7-457a-9250-70df980b38ce",
+  "name": "Forest",
+  "set": "neo",
+  "set_name": "Kamigawa: Neon Dynasty",
+  "collector_number": "302",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/8/c8179106-e5d7-457a-9250-70df980b38ce.jpg?1655495509",
+    "normal": "https://cards.scryfall.io/normal/front/c/8/c8179106-e5d7-457a-9250-70df980b38ce.jpg?1655495509",
+    "large": "https://cards.scryfall.io/large/front/c/8/c8179106-e5d7-457a-9250-70df980b38ce.jpg?1655495509",
+    "png": "https://cards.scryfall.io/png/front/c/8/c8179106-e5d7-457a-9250-70df980b38ce.png?1655495509",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c8179106-e5d7-457a-9250-70df980b38ce.jpg?1655495509",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c8179106-e5d7-457a-9250-70df980b38ce.jpg?1655495509"
+  },
+  "prices": {
+    "usd": "2.64",
+    "usd_foil": "2.99",
+    "usd_etched": null,
+    "eur": "1.24",
+    "eur_foil": "1.85",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/neo/302/ja/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/c8179106-e5d7-457a-9250-70df980b38ce",
+  "_catalogFetchedAt": "2026-05-10T22:29:54.275Z"
+}

@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "b11b2817-d7b5-4207-9271-e109936561ed",
+  "code": "pw22",
+  "name": "Wizards Play Network 2022",
+  "uri": "https://api.scryfall.com/sets/b11b2817-d7b5-4207-9271-e109936561ed",
+  "scryfall_uri": "https://scryfall.com/sets/pw22",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apw22&unique=prints",
+  "released_at": "2022-03-05",
+  "set_type": "promo",
+  "card_count": 6,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:20.437Z"
+}

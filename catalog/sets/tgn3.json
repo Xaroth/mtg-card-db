@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "652510f2-c873-4c82-9f8c-5cc4c5ea80ba",
+  "code": "tgn3",
+  "name": "Game Night: Free-for-All Tokens",
+  "uri": "https://api.scryfall.com/sets/652510f2-c873-4c82-9f8c-5cc4c5ea80ba",
+  "scryfall_uri": "https://scryfall.com/sets/tgn3",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atgn3&unique=prints",
+  "released_at": "2022-10-14",
+  "set_type": "token",
+  "card_count": 10,
+  "parent_set_code": "gn3",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/gn3.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:55.093Z"
+}

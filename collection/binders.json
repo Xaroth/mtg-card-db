@@ -1,0 +1,14 @@
+{
+  "binders": [
+    {
+      "id": "gamegenic-4x3-binder-1",
+      "name": "Binder 1",
+      "note": "Gamegenic 4x3 binder"
+    },
+    {
+      "id": "gamegenic-4x3-binder-2",
+      "name": "Binder 2",
+      "note": "Gamegenic 4x3 binder"
+    }
+  ]
+}

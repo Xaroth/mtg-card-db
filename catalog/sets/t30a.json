@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "3f5e3680-ab46-4517-9444-38d367b01f92",
+  "code": "t30a",
+  "name": "30th Anniversary Tokens",
+  "uri": "https://api.scryfall.com/sets/3f5e3680-ab46-4517-9444-38d367b01f92",
+  "scryfall_uri": "https://scryfall.com/sets/t30a",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3At30a&unique=prints",
+  "released_at": "2022-11-28",
+  "set_type": "token",
+  "card_count": 16,
+  "parent_set_code": "30a",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/30a.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:35.610Z"
+}

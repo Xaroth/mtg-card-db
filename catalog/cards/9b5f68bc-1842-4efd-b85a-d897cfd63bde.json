@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "9b5f68bc-1842-4efd-b85a-d897cfd63bde",
+  "name": "Swamp",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "collector_number": "276",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/b/9b5f68bc-1842-4efd-b85a-d897cfd63bde.jpg?1686970604",
+    "normal": "https://cards.scryfall.io/normal/front/9/b/9b5f68bc-1842-4efd-b85a-d897cfd63bde.jpg?1686970604",
+    "large": "https://cards.scryfall.io/large/front/9/b/9b5f68bc-1842-4efd-b85a-d897cfd63bde.jpg?1686970604",
+    "png": "https://cards.scryfall.io/png/front/9/b/9b5f68bc-1842-4efd-b85a-d897cfd63bde.png?1686970604",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/b/9b5f68bc-1842-4efd-b85a-d897cfd63bde.jpg?1686970604",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/b/9b5f68bc-1842-4efd-b85a-d897cfd63bde.jpg?1686970604"
+  },
+  "prices": {
+    "usd": "0.48",
+    "usd_foil": "0.79",
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": "0.59",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ltr/276/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/9b5f68bc-1842-4efd-b85a-d897cfd63bde",
+  "_catalogFetchedAt": "2026-05-10T22:29:49.156Z"
+}

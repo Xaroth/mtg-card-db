@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "53ef6d2e-0719-4002-bb5d-5dd41b7ba96c",
+  "code": "yotj",
+  "name": "Alchemy: Outlaws of Thunder Junction",
+  "uri": "https://api.scryfall.com/sets/53ef6d2e-0719-4002-bb5d-5dd41b7ba96c",
+  "scryfall_uri": "https://scryfall.com/sets/yotj",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ayotj&unique=prints",
+  "released_at": "2024-05-07",
+  "set_type": "alchemy",
+  "card_count": 30,
+  "parent_set_code": "otj",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "y24",
+  "block": "Alchemy 2024",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y24.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:37.028Z"
+}

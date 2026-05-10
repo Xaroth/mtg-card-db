@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "8538a97f-302d-468a-8a6c-50c800d614e5",
+  "name": "Plains",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "collector_number": "273",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/5/8538a97f-302d-468a-8a6c-50c800d614e5.jpg?1686970566",
+    "normal": "https://cards.scryfall.io/normal/front/8/5/8538a97f-302d-468a-8a6c-50c800d614e5.jpg?1686970566",
+    "large": "https://cards.scryfall.io/large/front/8/5/8538a97f-302d-468a-8a6c-50c800d614e5.jpg?1686970566",
+    "png": "https://cards.scryfall.io/png/front/8/5/8538a97f-302d-468a-8a6c-50c800d614e5.png?1686970566",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/5/8538a97f-302d-468a-8a6c-50c800d614e5.jpg?1686970566",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/5/8538a97f-302d-468a-8a6c-50c800d614e5.jpg?1686970566"
+  },
+  "prices": {
+    "usd": "0.49",
+    "usd_foil": "0.57",
+    "usd_etched": null,
+    "eur": "0.27",
+    "eur_foil": "0.54",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ltr/273/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/8538a97f-302d-468a-8a6c-50c800d614e5",
+  "_catalogFetchedAt": "2026-05-10T22:29:48.852Z"
+}

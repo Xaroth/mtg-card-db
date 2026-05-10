@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "5c818f03-0e20-4ef4-bac7-11b2b7f41b5c",
+  "name": "Swamp",
+  "set": "tla",
+  "set_name": "Avatar: The Last Airbender",
+  "collector_number": "294",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/c/5c818f03-0e20-4ef4-bac7-11b2b7f41b5c.jpg?1764122126",
+    "normal": "https://cards.scryfall.io/normal/front/5/c/5c818f03-0e20-4ef4-bac7-11b2b7f41b5c.jpg?1764122126",
+    "large": "https://cards.scryfall.io/large/front/5/c/5c818f03-0e20-4ef4-bac7-11b2b7f41b5c.jpg?1764122126",
+    "png": "https://cards.scryfall.io/png/front/5/c/5c818f03-0e20-4ef4-bac7-11b2b7f41b5c.png?1764122126",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5c818f03-0e20-4ef4-bac7-11b2b7f41b5c.jpg?1764122126",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5c818f03-0e20-4ef4-bac7-11b2b7f41b5c.jpg?1764122126"
+  },
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": "0.37",
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": "0.44",
+    "tix": "0.04"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/tla/294/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/5c818f03-0e20-4ef4-bac7-11b2b7f41b5c",
+  "_catalogFetchedAt": "2026-05-10T22:32:16.317Z"
+}

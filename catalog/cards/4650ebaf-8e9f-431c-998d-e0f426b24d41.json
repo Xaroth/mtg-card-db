@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "4650ebaf-8e9f-431c-998d-e0f426b24d41",
+  "name": "Swamp",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "collector_number": "273",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/6/4650ebaf-8e9f-431c-998d-e0f426b24d41.jpg?1721427438",
+    "normal": "https://cards.scryfall.io/normal/front/4/6/4650ebaf-8e9f-431c-998d-e0f426b24d41.jpg?1721427438",
+    "large": "https://cards.scryfall.io/large/front/4/6/4650ebaf-8e9f-431c-998d-e0f426b24d41.jpg?1721427438",
+    "png": "https://cards.scryfall.io/png/front/4/6/4650ebaf-8e9f-431c-998d-e0f426b24d41.png?1721427438",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/6/4650ebaf-8e9f-431c-998d-e0f426b24d41.jpg?1721427438",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/6/4650ebaf-8e9f-431c-998d-e0f426b24d41.jpg?1721427438"
+  },
+  "prices": {
+    "usd": "0.40",
+    "usd_foil": "1.81",
+    "usd_etched": null,
+    "eur": "0.62",
+    "eur_foil": "1.11",
+    "tix": "0.11"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/blb/273/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/4650ebaf-8e9f-431c-998d-e0f426b24d41",
+  "_catalogFetchedAt": "2026-05-10T22:15:58.007Z"
+}

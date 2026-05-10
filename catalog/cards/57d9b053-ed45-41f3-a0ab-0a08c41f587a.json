@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "57d9b053-ed45-41f3-a0ab-0a08c41f587a",
+  "name": "Island",
+  "set": "tmt",
+  "set_name": "Teenage Mutant Ninja Turtles",
+  "collector_number": "254",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/7/57d9b053-ed45-41f3-a0ab-0a08c41f587a.jpg?1760102991",
+    "normal": "https://cards.scryfall.io/normal/front/5/7/57d9b053-ed45-41f3-a0ab-0a08c41f587a.jpg?1760102991",
+    "large": "https://cards.scryfall.io/large/front/5/7/57d9b053-ed45-41f3-a0ab-0a08c41f587a.jpg?1760102991",
+    "png": "https://cards.scryfall.io/png/front/5/7/57d9b053-ed45-41f3-a0ab-0a08c41f587a.png?1760102991",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/57d9b053-ed45-41f3-a0ab-0a08c41f587a.jpg?1760102991",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/57d9b053-ed45-41f3-a0ab-0a08c41f587a.jpg?1760102991"
+  },
+  "prices": {
+    "usd": "0.38",
+    "usd_foil": "0.48",
+    "usd_etched": null,
+    "eur": "0.31",
+    "eur_foil": "0.46",
+    "tix": "0.04"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/tmt/254/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/57d9b053-ed45-41f3-a0ab-0a08c41f587a",
+  "_catalogFetchedAt": "2026-05-10T22:32:18.117Z"
+}

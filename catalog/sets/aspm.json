@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "017a97c4-45f6-4184-95ce-f6e545e9ee17",
+  "code": "aspm",
+  "name": "Marvel's Spider-Man Art Series",
+  "uri": "https://api.scryfall.com/sets/017a97c4-45f6-4184-95ce-f6e545e9ee17",
+  "scryfall_uri": "https://scryfall.com/sets/aspm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aaspm&unique=prints",
+  "released_at": "2025-09-26",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "spm",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/spm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:52.810Z"
+}

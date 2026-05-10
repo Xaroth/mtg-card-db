@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "fbd78c96-cc9d-451e-afb1-2e0022235aa0",
+  "code": "astx",
+  "name": "Strixhaven Art Series",
+  "uri": "https://api.scryfall.com/sets/fbd78c96-cc9d-451e-afb1-2e0022235aa0",
+  "scryfall_uri": "https://scryfall.com/sets/astx",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aastx&unique=prints",
+  "released_at": "2021-04-23",
+  "set_type": "memorabilia",
+  "card_count": 162,
+  "parent_set_code": "stx",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:53.014Z"
+}

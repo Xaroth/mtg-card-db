@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "1e947092-c153-410c-bd81-30142c662459",
+  "name": "Command Tower",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "7012",
+  "rarity": "rare",
+  "type_line": "Land",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/e/1e947092-c153-410c-bd81-30142c662459.jpg?1765739191",
+    "normal": "https://cards.scryfall.io/normal/front/1/e/1e947092-c153-410c-bd81-30142c662459.jpg?1765739191",
+    "large": "https://cards.scryfall.io/large/front/1/e/1e947092-c153-410c-bd81-30142c662459.jpg?1765739191",
+    "png": "https://cards.scryfall.io/png/front/1/e/1e947092-c153-410c-bd81-30142c662459.png?1765739191",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/e/1e947092-c153-410c-bd81-30142c662459.jpg?1765739191",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/e/1e947092-c153-410c-bd81-30142c662459.jpg?1765739191"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "5.06",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.89",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/sld/7012/command-tower?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/1e947092-c153-410c-bd81-30142c662459",
+  "_catalogFetchedAt": "2026-05-10T22:32:07.172Z"
+}

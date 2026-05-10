@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "40f74ca2-e802-4278-ba9d-5fb5da32e2ab",
+  "code": "tfic",
+  "mtgo_code": "tfic",
+  "arena_code": "tfic",
+  "name": "Final Fantasy Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/40f74ca2-e802-4278-ba9d-5fb5da32e2ab",
+  "scryfall_uri": "https://scryfall.com/sets/tfic",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atfic&unique=prints",
+  "released_at": "2025-06-13",
+  "set_type": "token",
+  "card_count": 11,
+  "parent_set_code": "fic",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fic.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:53.698Z"
+}

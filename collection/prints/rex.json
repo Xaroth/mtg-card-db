@@ -1,0 +1,112 @@
+{
+  "prints": [
+    {
+      "id": "6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5",
+      "set": "rex",
+      "collector_number": "21",
+      "name": "Plains // Plains",
+      "storage": {
+        "nonfoil": 1,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "76c343f5-6955-4ba2-a435-36d55182d1dd",
+      "set": "rex",
+      "collector_number": "22",
+      "name": "Island // Island",
+      "storage": {
+        "nonfoil": 1,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "843b35ec-7b59-4a22-8fee-2e876a02306b",
+      "set": "rex",
+      "collector_number": "23",
+      "name": "Swamp // Swamp",
+      "storage": {
+        "nonfoil": 1,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "aae84079-b65b-4132-86fb-e82503bb6c7b",
+      "set": "rex",
+      "collector_number": "24",
+      "name": "Mountain // Mountain",
+      "storage": {
+        "nonfoil": 0,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "7e703632-5ed0-4509-a12b-594269f865f1",
+      "set": "rex",
+      "collector_number": "25",
+      "name": "Forest // Forest",
+      "storage": {
+        "nonfoil": 0,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "bffbe9ec-edbc-43ed-a3bf-60635e7e625c",
+      "set": "rex",
+      "collector_number": "26",
+      "name": "Command Tower // Command Tower",
+      "storage": {
+        "nonfoil": 0,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    }
+  ]
+}

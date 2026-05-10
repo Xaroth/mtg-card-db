@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "6e61f42a-48ff-4cde-8cc7-06dfec6ac11f",
+  "code": "pss2",
+  "name": "XLN Standard Showdown",
+  "uri": "https://api.scryfall.com/sets/6e61f42a-48ff-4cde-8cc7-06dfec6ac11f",
+  "scryfall_uri": "https://scryfall.com/sets/pss2",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apss2&unique=prints",
+  "released_at": "2017-09-29",
+  "set_type": "promo",
+  "card_count": 5,
+  "parent_set_code": "xln",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "block_code": "xln",
+  "block": "Ixalan",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:12.864Z"
+}

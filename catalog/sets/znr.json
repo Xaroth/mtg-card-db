@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "code": "znr",
+  "mtgo_code": "znr",
+  "arena_code": "znr",
+  "tcgplayer_id": 2648,
+  "name": "Zendikar Rising",
+  "uri": "https://api.scryfall.com/sets/f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "scryfall_uri": "https://scryfall.com/sets/znr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aznr&unique=prints",
+  "released_at": "2020-09-25",
+  "set_type": "expansion",
+  "card_count": 406,
+  "printed_size": 280,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/znr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:38.461Z"
+}

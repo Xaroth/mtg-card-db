@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "89c17dd0-1974-49b4-a026-ea42d1fb2e60",
+  "code": "wfin",
+  "name": "FIN Asia WPN Promo Tokens",
+  "uri": "https://api.scryfall.com/sets/89c17dd0-1974-49b4-a026-ea42d1fb2e60",
+  "scryfall_uri": "https://scryfall.com/sets/wfin",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Awfin&unique=prints",
+  "released_at": "2025-06-13",
+  "set_type": "token",
+  "card_count": 3,
+  "parent_set_code": "fin",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fin.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:31.833Z"
+}

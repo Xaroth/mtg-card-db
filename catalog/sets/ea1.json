@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "a4bc595f-421f-4cd0-9a27-2b9fd7c7c2ac",
+  "code": "ea1",
+  "name": "Explorer Anthology 1",
+  "uri": "https://api.scryfall.com/sets/a4bc595f-421f-4cd0-9a27-2b9fd7c7c2ac",
+  "scryfall_uri": "https://scryfall.com/sets/ea1",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aea1&unique=prints",
+  "released_at": "2022-07-28",
+  "set_type": "box",
+  "card_count": 20,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:20.305Z"
+}

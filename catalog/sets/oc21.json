@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "fca0f98a-e428-4bc0-8737-1cda79253897",
+  "code": "oc21",
+  "mtgo_code": "oc21",
+  "arena_code": "oc21",
+  "name": "Commander 2021 Display Commanders",
+  "uri": "https://api.scryfall.com/sets/fca0f98a-e428-4bc0-8737-1cda79253897",
+  "scryfall_uri": "https://scryfall.com/sets/oc21",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aoc21&unique=prints",
+  "released_at": "2021-04-23",
+  "set_type": "memorabilia",
+  "card_count": 5,
+  "parent_set_code": "c21",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/c21.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:10.196Z"
+}

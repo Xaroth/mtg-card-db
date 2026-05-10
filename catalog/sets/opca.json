@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "ada3345c-d416-49bc-92e0-73363ddee5c8",
+  "code": "opca",
+  "name": "Planechase Anthology Planes",
+  "uri": "https://api.scryfall.com/sets/ada3345c-d416-49bc-92e0-73363ddee5c8",
+  "scryfall_uri": "https://scryfall.com/sets/opca",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aopca&unique=prints",
+  "released_at": "2016-11-25",
+  "set_type": "planechase",
+  "card_count": 86,
+  "parent_set_code": "pca",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/pca.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:13.972Z"
+}

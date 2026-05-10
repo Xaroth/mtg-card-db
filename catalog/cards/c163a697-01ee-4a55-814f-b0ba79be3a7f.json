@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "c163a697-01ee-4a55-814f-b0ba79be3a7f",
+  "name": "Swamp",
+  "set": "acr",
+  "set_name": "Assassin's Creed",
+  "collector_number": "105",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/1/c163a697-01ee-4a55-814f-b0ba79be3a7f.jpg?1721424536",
+    "normal": "https://cards.scryfall.io/normal/front/c/1/c163a697-01ee-4a55-814f-b0ba79be3a7f.jpg?1721424536",
+    "large": "https://cards.scryfall.io/large/front/c/1/c163a697-01ee-4a55-814f-b0ba79be3a7f.jpg?1721424536",
+    "png": "https://cards.scryfall.io/png/front/c/1/c163a697-01ee-4a55-814f-b0ba79be3a7f.png?1721424536",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c163a697-01ee-4a55-814f-b0ba79be3a7f.jpg?1721424536",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/1/c163a697-01ee-4a55-814f-b0ba79be3a7f.jpg?1721424536"
+  },
+  "prices": {
+    "usd": "0.33",
+    "usd_foil": "0.65",
+    "usd_etched": null,
+    "eur": "0.30",
+    "eur_foil": "0.47",
+    "tix": "0.31"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/acr/105/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/c163a697-01ee-4a55-814f-b0ba79be3a7f",
+  "_catalogFetchedAt": "2026-05-10T22:15:53.404Z"
+}

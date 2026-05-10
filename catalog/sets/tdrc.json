@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "f51d00d3-6ab4-4fa9-90ce-702aed612e9b",
+  "code": "tdrc",
+  "name": "Aetherdrift Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/f51d00d3-6ab4-4fa9-90ce-702aed612e9b",
+  "scryfall_uri": "https://scryfall.com/sets/tdrc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atdrc&unique=prints",
+  "released_at": "2025-02-14",
+  "set_type": "token",
+  "card_count": 17,
+  "parent_set_code": "drc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/drc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:50.383Z"
+}

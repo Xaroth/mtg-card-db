@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "746b850e-380b-45a3-90c7-32a660789828",
+  "code": "ttle",
+  "name": "Avatar: The Last Airbender Eternal Tokens",
+  "uri": "https://api.scryfall.com/sets/746b850e-380b-45a3-90c7-32a660789828",
+  "scryfall_uri": "https://scryfall.com/sets/ttle",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Attle&unique=prints",
+  "released_at": "2025-11-21",
+  "set_type": "token",
+  "card_count": 2,
+  "parent_set_code": "tle",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tle.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:16.914Z"
+}

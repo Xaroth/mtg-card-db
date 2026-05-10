@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "09af769d-a051-40d4-b203-7ec818c367ca",
+  "name": "Swamp",
+  "set": "pip",
+  "set_name": "Fallout",
+  "collector_number": "322",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/9/09af769d-a051-40d4-b203-7ec818c367ca.jpg?1708743497",
+    "normal": "https://cards.scryfall.io/normal/front/0/9/09af769d-a051-40d4-b203-7ec818c367ca.jpg?1708743497",
+    "large": "https://cards.scryfall.io/large/front/0/9/09af769d-a051-40d4-b203-7ec818c367ca.jpg?1708743497",
+    "png": "https://cards.scryfall.io/png/front/0/9/09af769d-a051-40d4-b203-7ec818c367ca.png?1708743497",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/9/09af769d-a051-40d4-b203-7ec818c367ca.jpg?1708743497",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/9/09af769d-a051-40d4-b203-7ec818c367ca.jpg?1708743497"
+  },
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": "3.39",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "1.56",
+    "tix": "0.04"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/pip/322/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/09af769d-a051-40d4-b203-7ec818c367ca",
+  "_catalogFetchedAt": "2026-05-10T22:29:57.080Z"
+}

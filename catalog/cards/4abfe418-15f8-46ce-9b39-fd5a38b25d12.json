@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "4abfe418-15f8-46ce-9b39-fd5a38b25d12",
+  "name": "Swamp",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "collector_number": "272",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/a/4abfe418-15f8-46ce-9b39-fd5a38b25d12.jpg?1643595179",
+    "normal": "https://cards.scryfall.io/normal/front/4/a/4abfe418-15f8-46ce-9b39-fd5a38b25d12.jpg?1643595179",
+    "large": "https://cards.scryfall.io/large/front/4/a/4abfe418-15f8-46ce-9b39-fd5a38b25d12.jpg?1643595179",
+    "png": "https://cards.scryfall.io/png/front/4/a/4abfe418-15f8-46ce-9b39-fd5a38b25d12.png?1643595179",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/a/4abfe418-15f8-46ce-9b39-fd5a38b25d12.jpg?1643595179",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/a/4abfe418-15f8-46ce-9b39-fd5a38b25d12.jpg?1643595179"
+  },
+  "prices": {
+    "usd": "0.91",
+    "usd_foil": "2.28",
+    "usd_etched": null,
+    "eur": "0.48",
+    "eur_foil": "1.10",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/vow/272/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/4abfe418-15f8-46ce-9b39-fd5a38b25d12",
+  "_catalogFetchedAt": "2026-05-10T22:32:29.734Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "ff405aba-0309-4694-a6d5-e657024f7ad0",
+  "code": "pfin",
+  "name": "Final Fantasy Promos",
+  "uri": "https://api.scryfall.com/sets/ff405aba-0309-4694-a6d5-e657024f7ad0",
+  "scryfall_uri": "https://scryfall.com/sets/pfin",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apfin&unique=prints",
+  "released_at": "2025-06-13",
+  "set_type": "promo",
+  "card_count": 94,
+  "parent_set_code": "fin",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/fin.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:41.779Z"
+}

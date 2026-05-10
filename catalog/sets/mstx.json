@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "bbc93a56-4d34-4b85-a6c6-c6c0c2411d52",
+  "code": "mstx",
+  "name": "Strixhaven: School of Mages Minigames",
+  "uri": "https://api.scryfall.com/sets/bbc93a56-4d34-4b85-a6c6-c6c0c2411d52",
+  "scryfall_uri": "https://scryfall.com/sets/mstx",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amstx&unique=prints",
+  "released_at": "2021-04-23",
+  "set_type": "minigame",
+  "card_count": 5,
+  "parent_set_code": "stx",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:05.748Z"
+}

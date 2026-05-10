@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "1226146b-024f-4456-be60-edf06fc054df",
+  "code": "tmsh",
+  "name": "Marvel Super Heroes Tokens",
+  "uri": "https://api.scryfall.com/sets/1226146b-024f-4456-be60-edf06fc054df",
+  "scryfall_uri": "https://scryfall.com/sets/tmsh",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmsh&unique=prints",
+  "released_at": "2026-06-26",
+  "set_type": "token",
+  "card_count": 0,
+  "parent_set_code": "msh",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:06.986Z"
+}

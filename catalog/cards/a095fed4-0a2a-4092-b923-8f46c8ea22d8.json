@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "a095fed4-0a2a-4092-b923-8f46c8ea22d8",
+  "name": "Swamp",
+  "set": "zen",
+  "set_name": "Zendikar",
+  "collector_number": "240",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/0/a095fed4-0a2a-4092-b923-8f46c8ea22d8.jpg?1562614935",
+    "normal": "https://cards.scryfall.io/normal/front/a/0/a095fed4-0a2a-4092-b923-8f46c8ea22d8.jpg?1562614935",
+    "large": "https://cards.scryfall.io/large/front/a/0/a095fed4-0a2a-4092-b923-8f46c8ea22d8.jpg?1562614935",
+    "png": "https://cards.scryfall.io/png/front/a/0/a095fed4-0a2a-4092-b923-8f46c8ea22d8.png?1562614935",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/0/a095fed4-0a2a-4092-b923-8f46c8ea22d8.jpg?1562614935",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/0/a095fed4-0a2a-4092-b923-8f46c8ea22d8.jpg?1562614935"
+  },
+  "prices": {
+    "usd": "0.72",
+    "usd_foil": "7.43",
+    "usd_etched": null,
+    "eur": "0.43",
+    "eur_foil": "3.24",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/zen/240/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/a095fed4-0a2a-4092-b923-8f46c8ea22d8",
+  "_catalogFetchedAt": "2026-05-10T22:32:33.927Z"
+}

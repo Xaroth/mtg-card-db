@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "code": "dmu",
+  "mtgo_code": "dmu",
+  "arena_code": "dmu",
+  "tcgplayer_id": 3102,
+  "name": "Dominaria United",
+  "uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "scryfall_uri": "https://scryfall.com/sets/dmu",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Admu&unique=prints",
+  "released_at": "2022-09-09",
+  "set_type": "expansion",
+  "card_count": 453,
+  "printed_size": 281,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:16.843Z"
+}

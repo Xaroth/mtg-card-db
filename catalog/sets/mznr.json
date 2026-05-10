@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "40f22d42-6fa9-4de4-8423-916a1b2268ab",
+  "code": "mznr",
+  "name": "Zendikar Rising Minigames",
+  "uri": "https://api.scryfall.com/sets/40f22d42-6fa9-4de4-8423-916a1b2268ab",
+  "scryfall_uri": "https://scryfall.com/sets/mznr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amznr&unique=prints",
+  "released_at": "2020-09-25",
+  "set_type": "minigame",
+  "card_count": 5,
+  "parent_set_code": "znr",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/znr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:06.367Z"
+}

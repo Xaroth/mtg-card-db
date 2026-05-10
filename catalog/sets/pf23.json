@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "14b6bb0f-b54e-49c6-adfa-984129093046",
+  "code": "pf23",
+  "name": "MagicFest 2023",
+  "uri": "https://api.scryfall.com/sets/14b6bb0f-b54e-49c6-adfa-984129093046",
+  "scryfall_uri": "https://scryfall.com/sets/pf23",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apf23&unique=prints",
+  "released_at": "2023-07-01",
+  "set_type": "promo",
+  "card_count": 4,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:38.402Z"
+}

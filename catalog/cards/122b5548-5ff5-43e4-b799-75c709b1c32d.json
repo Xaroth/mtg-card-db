@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "122b5548-5ff5-43e4-b799-75c709b1c32d",
+  "name": "Forest",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "collector_number": "277",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/2/122b5548-5ff5-43e4-b799-75c709b1c32d.jpg?1699826478",
+    "normal": "https://cards.scryfall.io/normal/front/1/2/122b5548-5ff5-43e4-b799-75c709b1c32d.jpg?1699826478",
+    "large": "https://cards.scryfall.io/large/front/1/2/122b5548-5ff5-43e4-b799-75c709b1c32d.jpg?1699826478",
+    "png": "https://cards.scryfall.io/png/front/1/2/122b5548-5ff5-43e4-b799-75c709b1c32d.png?1699826478",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/122b5548-5ff5-43e4-b799-75c709b1c32d.jpg?1699826478",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/122b5548-5ff5-43e4-b799-75c709b1c32d.jpg?1699826478"
+  },
+  "prices": {
+    "usd": "0.39",
+    "usd_foil": "0.92",
+    "usd_etched": null,
+    "eur": "0.28",
+    "eur_foil": "0.53",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/mid/277/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/122b5548-5ff5-43e4-b799-75c709b1c32d",
+  "_catalogFetchedAt": "2026-05-10T22:29:51.761Z"
+}

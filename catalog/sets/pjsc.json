@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "6a1e8cf5-a516-4fc2-8d99-96862f4117f9",
+  "code": "pjsc",
+  "name": "Japan Standard Cup",
+  "uri": "https://api.scryfall.com/sets/6a1e8cf5-a516-4fc2-8d99-96862f4117f9",
+  "scryfall_uri": "https://scryfall.com/sets/pjsc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apjsc&unique=prints",
+  "released_at": "2025-02-09",
+  "set_type": "promo",
+  "card_count": 4,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:47.977Z"
+}

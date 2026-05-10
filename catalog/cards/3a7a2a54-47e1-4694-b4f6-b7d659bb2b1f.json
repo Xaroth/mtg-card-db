@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "3a7a2a54-47e1-4694-b4f6-b7d659bb2b1f",
+  "name": "Forest",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "collector_number": "279",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/a/3a7a2a54-47e1-4694-b4f6-b7d659bb2b1f.jpg?1721427479",
+    "normal": "https://cards.scryfall.io/normal/front/3/a/3a7a2a54-47e1-4694-b4f6-b7d659bb2b1f.jpg?1721427479",
+    "large": "https://cards.scryfall.io/large/front/3/a/3a7a2a54-47e1-4694-b4f6-b7d659bb2b1f.jpg?1721427479",
+    "png": "https://cards.scryfall.io/png/front/3/a/3a7a2a54-47e1-4694-b4f6-b7d659bb2b1f.png?1721427479",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/a/3a7a2a54-47e1-4694-b4f6-b7d659bb2b1f.jpg?1721427479",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/a/3a7a2a54-47e1-4694-b4f6-b7d659bb2b1f.jpg?1721427479"
+  },
+  "prices": {
+    "usd": "0.31",
+    "usd_foil": "0.34",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "0.26",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/blb/279/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/3a7a2a54-47e1-4694-b4f6-b7d659bb2b1f",
+  "_catalogFetchedAt": "2026-05-10T22:15:58.506Z"
+}

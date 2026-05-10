@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "021f3a8e-5ce2-4edf-827d-b748d146e6f3",
+  "name": "Plains",
+  "set": "sld",
+  "set_name": "Secret Lair Drop",
+  "collector_number": "1950",
+  "rarity": "rare",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.jpg?1757342298",
+    "normal": "https://cards.scryfall.io/normal/front/0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.jpg?1757342298",
+    "large": "https://cards.scryfall.io/large/front/0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.jpg?1757342298",
+    "png": "https://cards.scryfall.io/png/front/0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.png?1757342298",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.jpg?1757342298",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/2/021f3a8e-5ce2-4edf-827d-b748d146e6f3.jpg?1757342298"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": "10.61",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "6.63",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/sld/1950/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/021f3a8e-5ce2-4edf-827d-b748d146e6f3",
+  "_catalogFetchedAt": "2026-05-10T22:29:59.690Z"
+}

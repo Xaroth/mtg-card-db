@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "3fa29655-8840-4a5b-8289-3964109e436b",
+  "code": "tcmm",
+  "name": "Commander Masters Tokens",
+  "uri": "https://api.scryfall.com/sets/3fa29655-8840-4a5b-8289-3964109e436b",
+  "scryfall_uri": "https://scryfall.com/sets/tcmm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atcmm&unique=prints",
+  "released_at": "2023-08-04",
+  "set_type": "token",
+  "card_count": 81,
+  "parent_set_code": "cmm",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/cmm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:43.667Z"
+}

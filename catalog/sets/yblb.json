@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "9425de98-cc10-4295-80e5-42a3bcb75453",
+  "code": "yblb",
+  "name": "Alchemy: Bloomburrow",
+  "uri": "https://api.scryfall.com/sets/9425de98-cc10-4295-80e5-42a3bcb75453",
+  "scryfall_uri": "https://scryfall.com/sets/yblb",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ayblb&unique=prints",
+  "released_at": "2024-08-20",
+  "set_type": "alchemy",
+  "card_count": 30,
+  "parent_set_code": "blb",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "y25",
+  "block": "Alchemy 2025",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y25.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:34.633Z"
+}

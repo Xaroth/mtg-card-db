@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "2c5a240e-9938-418e-a85d-8c4b098144bc",
+  "code": "tsos",
+  "mtgo_code": "tsos",
+  "arena_code": "tsos",
+  "name": "Secrets of Strixhaven Tokens",
+  "uri": "https://api.scryfall.com/sets/2c5a240e-9938-418e-a85d-8c4b098144bc",
+  "scryfall_uri": "https://scryfall.com/sets/tsos",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atsos&unique=prints",
+  "released_at": "2026-04-24",
+  "set_type": "token",
+  "card_count": 14,
+  "parent_set_code": "sos",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/sos.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:14.750Z"
+}

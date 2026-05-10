@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "0e125579-396f-4614-9557-717698b06462",
+  "code": "tddt",
+  "name": "Duel Decks: Merfolk vs. Goblins Tokens",
+  "uri": "https://api.scryfall.com/sets/0e125579-396f-4614-9557-717698b06462",
+  "scryfall_uri": "https://scryfall.com/sets/tddt",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atddt&unique=prints",
+  "released_at": "2017-10-24",
+  "set_type": "token",
+  "card_count": 3,
+  "parent_set_code": "ddt",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ddt.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:48.376Z"
+}

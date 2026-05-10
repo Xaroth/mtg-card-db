@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "51c0814a-2db2-4182-9aac-77340e9a540d",
+  "code": "woc",
+  "tcgplayer_id": 23164,
+  "name": "Wilds of Eldraine Commander",
+  "uri": "https://api.scryfall.com/sets/51c0814a-2db2-4182-9aac-77340e9a540d",
+  "scryfall_uri": "https://scryfall.com/sets/woc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Awoc&unique=prints",
+  "released_at": "2023-09-08",
+  "set_type": "commander",
+  "card_count": 173,
+  "parent_set_code": "woe",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/woc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:32.847Z"
+}

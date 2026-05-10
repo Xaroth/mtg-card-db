@@ -1,0 +1,23 @@
+{
+  "object": "set",
+  "id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "code": "mh1",
+  "mtgo_code": "mh1",
+  "arena_code": "mh1",
+  "tcgplayer_id": 2422,
+  "name": "Modern Horizons",
+  "uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "scryfall_uri": "https://scryfall.com/sets/mh1",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amh1&unique=prints",
+  "released_at": "2019-06-14",
+  "set_type": "draft_innovation",
+  "card_count": 255,
+  "printed_size": 254,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "mh1",
+  "block": "Modern Horizons Block",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:57.489Z"
+}

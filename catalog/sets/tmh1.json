@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "7751e019-c7da-4117-b05a-5a4ba8261aa8",
+  "code": "tmh1",
+  "name": "Modern Horizons Tokens",
+  "uri": "https://api.scryfall.com/sets/7751e019-c7da-4117-b05a-5a4ba8261aa8",
+  "scryfall_uri": "https://scryfall.com/sets/tmh1",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmh1&unique=prints",
+  "released_at": "2019-05-30",
+  "set_type": "token",
+  "card_count": 21,
+  "parent_set_code": "mh1",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:04.253Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "94cb941f-e3cf-45d2-9989-2a0a454d5497",
+  "name": "Swamp",
+  "set": "2xm",
+  "set_name": "Double Masters",
+  "collector_number": "378",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/4/94cb941f-e3cf-45d2-9989-2a0a454d5497.jpg?1641305734",
+    "normal": "https://cards.scryfall.io/normal/front/9/4/94cb941f-e3cf-45d2-9989-2a0a454d5497.jpg?1641305734",
+    "large": "https://cards.scryfall.io/large/front/9/4/94cb941f-e3cf-45d2-9989-2a0a454d5497.jpg?1641305734",
+    "png": "https://cards.scryfall.io/png/front/9/4/94cb941f-e3cf-45d2-9989-2a0a454d5497.png?1641305734",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/4/94cb941f-e3cf-45d2-9989-2a0a454d5497.jpg?1641305734",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/4/94cb941f-e3cf-45d2-9989-2a0a454d5497.jpg?1641305734"
+  },
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": "0.65",
+    "usd_etched": null,
+    "eur": "0.44",
+    "eur_foil": "1.05",
+    "tix": null
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/2xm/378/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/94cb941f-e3cf-45d2-9989-2a0a454d5497",
+  "_catalogFetchedAt": "2026-05-10T22:15:52.501Z"
+}

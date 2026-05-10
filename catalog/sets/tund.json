@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "8fe3f935-7c8d-4a4e-a051-c0b0f251d262",
+  "code": "tund",
+  "name": "Unsanctioned Tokens",
+  "uri": "https://api.scryfall.com/sets/8fe3f935-7c8d-4a4e-a051-c0b0f251d262",
+  "scryfall_uri": "https://scryfall.com/sets/tund",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atund&unique=prints",
+  "released_at": "2020-02-29",
+  "set_type": "token",
+  "card_count": 6,
+  "parent_set_code": "und",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/und.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:18.113Z"
+}

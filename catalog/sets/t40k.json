@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "671f2e10-501c-42ef-a1e3-9aa63ec3ec6c",
+  "code": "t40k",
+  "name": "Warhammer 40,000 Tokens",
+  "uri": "https://api.scryfall.com/sets/671f2e10-501c-42ef-a1e3-9aa63ec3ec6c",
+  "scryfall_uri": "https://scryfall.com/sets/t40k",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3At40k&unique=prints",
+  "released_at": "2022-10-07",
+  "set_type": "token",
+  "card_count": 31,
+  "printed_size": 23,
+  "parent_set_code": "40k",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/40k.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:35.809Z"
+}

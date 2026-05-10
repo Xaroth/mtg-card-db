@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "8a880169-41ca-4507-83fd-306a489d31ce",
+  "name": "Plains",
+  "set": "tla",
+  "set_name": "Avatar: The Last Airbender",
+  "collector_number": "287",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/a/8a880169-41ca-4507-83fd-306a489d31ce.jpg?1764122080",
+    "normal": "https://cards.scryfall.io/normal/front/8/a/8a880169-41ca-4507-83fd-306a489d31ce.jpg?1764122080",
+    "large": "https://cards.scryfall.io/large/front/8/a/8a880169-41ca-4507-83fd-306a489d31ce.jpg?1764122080",
+    "png": "https://cards.scryfall.io/png/front/8/a/8a880169-41ca-4507-83fd-306a489d31ce.png?1764122080",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/a/8a880169-41ca-4507-83fd-306a489d31ce.jpg?1764122080",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/a/8a880169-41ca-4507-83fd-306a489d31ce.jpg?1764122080"
+  },
+  "prices": {
+    "usd": "0.34",
+    "usd_foil": "0.45",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "0.37",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/tla/287/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/8a880169-41ca-4507-83fd-306a489d31ce",
+  "_catalogFetchedAt": "2026-05-10T22:32:14.912Z"
+}

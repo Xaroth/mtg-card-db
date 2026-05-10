@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "cdbedc27-4f24-4d89-ace1-8da1b36ac78e",
+  "code": "gnt",
+  "tcgplayer_id": 2359,
+  "name": "Game Night",
+  "uri": "https://api.scryfall.com/sets/cdbedc27-4f24-4d89-ace1-8da1b36ac78e",
+  "scryfall_uri": "https://scryfall.com/sets/gnt",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Agnt&unique=prints",
+  "released_at": "2018-11-16",
+  "set_type": "box",
+  "card_count": 68,
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/gnt.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:35.646Z"
+}

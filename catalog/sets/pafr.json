@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "983f027f-76f9-462d-8eb5-458dcbf029b4",
+  "code": "pafr",
+  "name": "Adventures in the Forgotten Realms Promos",
+  "uri": "https://api.scryfall.com/sets/983f027f-76f9-462d-8eb5-458dcbf029b4",
+  "scryfall_uri": "https://scryfall.com/sets/pafr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apafr&unique=prints",
+  "released_at": "2021-07-23",
+  "set_type": "promo",
+  "card_count": 241,
+  "parent_set_code": "afr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/afr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:24.763Z"
+}

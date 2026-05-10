@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "7b7b61ef-e1f4-4ac6-818e-c3489d954298",
+  "code": "pecl",
+  "name": "Lorwyn Eclipsed Promos",
+  "uri": "https://api.scryfall.com/sets/7b7b61ef-e1f4-4ac6-818e-c3489d954298",
+  "scryfall_uri": "https://scryfall.com/sets/pecl",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apecl&unique=prints",
+  "released_at": "2026-01-23",
+  "set_type": "promo",
+  "card_count": 87,
+  "parent_set_code": "ecl",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ecl.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:36.400Z"
+}

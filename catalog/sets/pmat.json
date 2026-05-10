@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "064626d0-7536-42b9-89a8-334c66fd88ae",
+  "code": "pmat",
+  "name": "March of the Machine: The Aftermath Promos",
+  "uri": "https://api.scryfall.com/sets/064626d0-7536-42b9-89a8-334c66fd88ae",
+  "scryfall_uri": "https://scryfall.com/sets/pmat",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmat&unique=prints",
+  "released_at": "2023-11-17",
+  "set_type": "promo",
+  "card_count": 8,
+  "parent_set_code": "mat",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mat.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:55.191Z"
+}

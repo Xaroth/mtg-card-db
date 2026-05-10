@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "0c5ab7e5-7d12-45f2-9d58-7ed0acfcc0c6",
+  "code": "ha4",
+  "name": "Historic Anthology 4",
+  "uri": "https://api.scryfall.com/sets/0c5ab7e5-7d12-45f2-9d58-7ed0acfcc0c6",
+  "scryfall_uri": "https://scryfall.com/sets/ha4",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aha4&unique=prints",
+  "released_at": "2021-03-11",
+  "set_type": "box",
+  "card_count": 25,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ha1.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:40.639Z"
+}

@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "5a1e41c1-05f4-4c73-9bc4-a2d7889ac3bb",
+  "code": "aclb",
+  "name": "Battle for Baldur's Gate Art Series",
+  "uri": "https://api.scryfall.com/sets/5a1e41c1-05f4-4c73-9bc4-a2d7889ac3bb",
+  "scryfall_uri": "https://scryfall.com/sets/aclb",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aaclb&unique=prints",
+  "released_at": "2022-06-10",
+  "set_type": "memorabilia",
+  "card_count": 81,
+  "printed_size": 81,
+  "parent_set_code": "clb",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/clb.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:44.591Z"
+}

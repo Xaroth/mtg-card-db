@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "247df475-e4ce-4e5e-9317-11892d2211e0",
+  "code": "j22",
+  "tcgplayer_id": 3185,
+  "name": "Jumpstart 2022",
+  "uri": "https://api.scryfall.com/sets/247df475-e4ce-4e5e-9317-11892d2211e0",
+  "scryfall_uri": "https://scryfall.com/sets/j22",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aj22&unique=prints",
+  "released_at": "2022-12-02",
+  "set_type": "draft_innovation",
+  "card_count": 835,
+  "printed_size": 51,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/j22.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:46.278Z"
+}

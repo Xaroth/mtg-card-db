@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "a845de50-4af0-4f4a-9c2a-db587973571c",
+  "name": "Plains",
+  "set": "sos",
+  "set_name": "Secrets of Strixhaven",
+  "collector_number": "267",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/8/a845de50-4af0-4f4a-9c2a-db587973571c.jpg?1775938869",
+    "normal": "https://cards.scryfall.io/normal/front/a/8/a845de50-4af0-4f4a-9c2a-db587973571c.jpg?1775938869",
+    "large": "https://cards.scryfall.io/large/front/a/8/a845de50-4af0-4f4a-9c2a-db587973571c.jpg?1775938869",
+    "png": "https://cards.scryfall.io/png/front/a/8/a845de50-4af0-4f4a-9c2a-db587973571c.png?1775938869",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/8/a845de50-4af0-4f4a-9c2a-db587973571c.jpg?1775938869",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/8/a845de50-4af0-4f4a-9c2a-db587973571c.jpg?1775938869"
+  },
+  "prices": {
+    "usd": "0.43",
+    "usd_foil": "0.57",
+    "usd_etched": null,
+    "eur": "0.49",
+    "eur_foil": "0.38",
+    "tix": "0.01"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/sos/267/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/a845de50-4af0-4f4a-9c2a-db587973571c",
+  "_catalogFetchedAt": "2026-05-10T22:32:09.939Z"
+}

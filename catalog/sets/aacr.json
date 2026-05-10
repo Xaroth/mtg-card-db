@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "40e35daf-ebfb-4b68-9e28-f28b04a0bb57",
+  "code": "aacr",
+  "name": "Assassin's Creed Art Series",
+  "uri": "https://api.scryfall.com/sets/40e35daf-ebfb-4b68-9e28-f28b04a0bb57",
+  "scryfall_uri": "https://scryfall.com/sets/aacr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aaacr&unique=prints",
+  "released_at": "2024-07-05",
+  "set_type": "memorabilia",
+  "card_count": 20,
+  "parent_set_code": "acr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/acr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:43.787Z"
+}

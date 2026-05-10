@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "4be6c17a-b478-4a20-b1a7-4b7905323074",
+  "code": "thob",
+  "name": "The Hobbit Tokens",
+  "uri": "https://api.scryfall.com/sets/4be6c17a-b478-4a20-b1a7-4b7905323074",
+  "scryfall_uri": "https://scryfall.com/sets/thob",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Athob&unique=prints",
+  "released_at": "2026-08-14",
+  "set_type": "token",
+  "card_count": 2,
+  "parent_set_code": "hob",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/hob.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:56.213Z"
+}

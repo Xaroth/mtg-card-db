@@ -1,0 +1,46 @@
+{
+  "catalogVersion": 1,
+  "id": "76c343f5-6955-4ba2-a435-36d55182d1dd",
+  "name": "Island // Island",
+  "set": "rex",
+  "set_name": "Jurassic World Collection",
+  "collector_number": "22",
+  "rarity": "common",
+  "card_faces": [
+    {
+      "name": "Island",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+        "normal": "https://cards.scryfall.io/normal/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+        "large": "https://cards.scryfall.io/large/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+        "png": "https://cards.scryfall.io/png/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.png?1698992855",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855"
+      }
+    },
+    {
+      "name": "Island",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+        "normal": "https://cards.scryfall.io/normal/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+        "large": "https://cards.scryfall.io/large/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+        "png": "https://cards.scryfall.io/png/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.png?1698992855",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855"
+      }
+    }
+  ],
+  "prices": {
+    "usd": "2.90",
+    "usd_foil": "6.37",
+    "usd_etched": null,
+    "eur": "1.71",
+    "eur_foil": "3.75",
+    "tix": "0.66"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/rex/22/island-island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/76c343f5-6955-4ba2-a435-36d55182d1dd",
+  "_catalogFetchedAt": "2026-05-10T22:29:57.679Z"
+}

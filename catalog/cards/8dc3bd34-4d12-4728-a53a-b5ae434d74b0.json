@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "8dc3bd34-4d12-4728-a53a-b5ae434d74b0",
+  "name": "Island",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "collector_number": "270",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1699826443",
+    "normal": "https://cards.scryfall.io/normal/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1699826443",
+    "large": "https://cards.scryfall.io/large/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1699826443",
+    "png": "https://cards.scryfall.io/png/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.png?1699826443",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1699826443",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/d/8dc3bd34-4d12-4728-a53a-b5ae434d74b0.jpg?1699826443"
+  },
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": "0.68",
+    "usd_etched": null,
+    "eur": "0.38",
+    "eur_foil": "0.80",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/mid/270/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/8dc3bd34-4d12-4728-a53a-b5ae434d74b0",
+  "_catalogFetchedAt": "2026-05-10T22:29:51.058Z"
+}

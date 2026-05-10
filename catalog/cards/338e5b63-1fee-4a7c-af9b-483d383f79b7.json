@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "338e5b63-1fee-4a7c-af9b-483d383f79b7",
+  "name": "Island",
+  "set": "lci",
+  "set_name": "The Lost Caverns of Ixalan",
+  "collector_number": "288",
+  "rarity": "common",
+  "type_line": "Basic Land — Island",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/3/338e5b63-1fee-4a7c-af9b-483d383f79b7.jpg?1699044719",
+    "normal": "https://cards.scryfall.io/normal/front/3/3/338e5b63-1fee-4a7c-af9b-483d383f79b7.jpg?1699044719",
+    "large": "https://cards.scryfall.io/large/front/3/3/338e5b63-1fee-4a7c-af9b-483d383f79b7.jpg?1699044719",
+    "png": "https://cards.scryfall.io/png/front/3/3/338e5b63-1fee-4a7c-af9b-483d383f79b7.png?1699044719",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/338e5b63-1fee-4a7c-af9b-483d383f79b7.jpg?1699044719",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/3/338e5b63-1fee-4a7c-af9b-483d383f79b7.jpg?1699044719"
+  },
+  "prices": {
+    "usd": "0.52",
+    "usd_foil": "0.94",
+    "usd_etched": null,
+    "eur": "0.42",
+    "eur_foil": "0.48",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/lci/288/island?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/338e5b63-1fee-4a7c-af9b-483d383f79b7",
+  "_catalogFetchedAt": "2026-05-10T22:29:48.352Z"
+}

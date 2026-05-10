@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "12a035fe-8847-4678-84f7-01bac77ae011",
+  "name": "Forest",
+  "set": "und",
+  "set_name": "Unsanctioned",
+  "collector_number": "96",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/2/12a035fe-8847-4678-84f7-01bac77ae011.jpg?1665800210",
+    "normal": "https://cards.scryfall.io/normal/front/1/2/12a035fe-8847-4678-84f7-01bac77ae011.jpg?1665800210",
+    "large": "https://cards.scryfall.io/large/front/1/2/12a035fe-8847-4678-84f7-01bac77ae011.jpg?1665800210",
+    "png": "https://cards.scryfall.io/png/front/1/2/12a035fe-8847-4678-84f7-01bac77ae011.png?1665800210",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/12a035fe-8847-4678-84f7-01bac77ae011.jpg?1665800210",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/12a035fe-8847-4678-84f7-01bac77ae011.jpg?1665800210"
+  },
+  "prices": {
+    "usd": "2.36",
+    "usd_foil": "2.70",
+    "usd_etched": null,
+    "eur": "1.79",
+    "eur_foil": "2.60",
+    "tix": "0.32"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/und/96/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/12a035fe-8847-4678-84f7-01bac77ae011",
+  "_catalogFetchedAt": "2026-05-10T22:32:22.717Z"
+}

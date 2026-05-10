@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "8f92ac22-a208-41a8-b77c-ceffbeb6a255",
+  "code": "pncc",
+  "name": "New Capenna Commander Promos",
+  "uri": "https://api.scryfall.com/sets/8f92ac22-a208-41a8-b77c-ceffbeb6a255",
+  "scryfall_uri": "https://scryfall.com/sets/pncc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apncc&unique=prints",
+  "released_at": "2022-04-29",
+  "set_type": "promo",
+  "card_count": 75,
+  "parent_set_code": "ncc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ncc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:59.788Z"
+}

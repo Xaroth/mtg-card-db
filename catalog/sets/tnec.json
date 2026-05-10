@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "5bd03f4f-1766-4a47-a70b-e717651f06be",
+  "code": "tnec",
+  "name": "Neon Dynasty Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/5bd03f4f-1766-4a47-a70b-e717651f06be",
+  "scryfall_uri": "https://scryfall.com/sets/tnec",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atnec&unique=prints",
+  "released_at": "2022-02-18",
+  "set_type": "token",
+  "card_count": 12,
+  "printed_size": 12,
+  "parent_set_code": "nec",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/nec.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:09.237Z"
+}

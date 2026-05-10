@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+  "code": "40k",
+  "tcgplayer_id": 3079,
+  "name": "Warhammer 40,000 Commander",
+  "uri": "https://api.scryfall.com/sets/f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+  "scryfall_uri": "https://scryfall.com/sets/40k",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A40k&unique=prints",
+  "released_at": "2022-10-07",
+  "set_type": "commander",
+  "card_count": 617,
+  "printed_size": 168,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/40k.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:40.990Z"
+}

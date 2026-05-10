@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "7e134268-9ce9-4192-b548-90bedbfe654e",
+  "name": "Plains",
+  "set": "bro",
+  "set_name": "The Brothers' War",
+  "collector_number": "278",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/e/7e134268-9ce9-4192-b548-90bedbfe654e.jpg?1674422317",
+    "normal": "https://cards.scryfall.io/normal/front/7/e/7e134268-9ce9-4192-b548-90bedbfe654e.jpg?1674422317",
+    "large": "https://cards.scryfall.io/large/front/7/e/7e134268-9ce9-4192-b548-90bedbfe654e.jpg?1674422317",
+    "png": "https://cards.scryfall.io/png/front/7/e/7e134268-9ce9-4192-b548-90bedbfe654e.png?1674422317",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/e/7e134268-9ce9-4192-b548-90bedbfe654e.jpg?1674422317",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/e/7e134268-9ce9-4192-b548-90bedbfe654e.jpg?1674422317"
+  },
+  "prices": {
+    "usd": "0.40",
+    "usd_foil": "0.39",
+    "usd_etched": null,
+    "eur": "0.22",
+    "eur_foil": "0.35",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/bro/278/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/7e134268-9ce9-4192-b548-90bedbfe654e",
+  "_catalogFetchedAt": "2026-05-10T22:15:58.826Z"
+}

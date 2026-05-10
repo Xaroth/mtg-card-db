@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "cca2aac9-0d45-4b83-8a76-7de66ca41755",
+  "code": "pltc",
+  "name": "Tales of Middle-earth Deluxe Commander Kit",
+  "uri": "https://api.scryfall.com/sets/cca2aac9-0d45-4b83-8a76-7de66ca41755",
+  "scryfall_uri": "https://scryfall.com/sets/pltc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apltc&unique=prints",
+  "released_at": "2024-10-16",
+  "set_type": "promo",
+  "card_count": 4,
+  "parent_set_code": "ltr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:52.989Z"
+}

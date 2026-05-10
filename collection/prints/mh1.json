@@ -1,0 +1,94 @@
+{
+  "prints": [
+    {
+      "id": "7a961768-6166-4852-b518-23eb4cced47d",
+      "set": "mh1",
+      "collector_number": "250",
+      "name": "Snow-Covered Plains",
+      "storage": {
+        "nonfoil": 6,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "8ac1fceb-8427-409c-98a4-9a5c1ff980b4",
+      "set": "mh1",
+      "collector_number": "251",
+      "name": "Snow-Covered Island",
+      "storage": {
+        "nonfoil": 5,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "c835f235-4196-4281-9788-13e5d54a92d0",
+      "set": "mh1",
+      "collector_number": "252",
+      "name": "Snow-Covered Swamp",
+      "storage": {
+        "nonfoil": 6,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "d2209e6f-1d9d-43bb-a314-a8fefc509e78",
+      "set": "mh1",
+      "collector_number": "253",
+      "name": "Snow-Covered Mountain",
+      "storage": {
+        "nonfoil": 6,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    },
+    {
+      "id": "1c59fc48-704b-4187-b9d3-2a2cff6dd54b",
+      "set": "mh1",
+      "collector_number": "254",
+      "name": "Snow-Covered Forest",
+      "storage": {
+        "nonfoil": 6,
+        "foil": 0
+      },
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-1",
+          "nonfoil": 1,
+          "foil": 0
+        }
+      ],
+      "note": ""
+    }
+  ]
+}

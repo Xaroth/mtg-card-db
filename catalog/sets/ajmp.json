@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "1d029120-8937-45d9-a858-f1d3c2e6fd8f",
+  "code": "ajmp",
+  "name": "Jumpstart Arena Exclusives",
+  "uri": "https://api.scryfall.com/sets/1d029120-8937-45d9-a858-f1d3c2e6fd8f",
+  "scryfall_uri": "https://scryfall.com/sets/ajmp",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aajmp&unique=prints",
+  "released_at": "2020-07-17",
+  "set_type": "starter",
+  "card_count": 18,
+  "parent_set_code": "jmp",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/jmp.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:47.602Z"
+}

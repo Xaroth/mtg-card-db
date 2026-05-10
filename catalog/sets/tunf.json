@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "a60124f9-8002-4769-ac16-387b61fa2bc6",
+  "code": "tunf",
+  "name": "Unfinity Tokens",
+  "uri": "https://api.scryfall.com/sets/a60124f9-8002-4769-ac16-387b61fa2bc6",
+  "scryfall_uri": "https://scryfall.com/sets/tunf",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atunf&unique=prints",
+  "released_at": "2022-10-07",
+  "set_type": "token",
+  "card_count": 14,
+  "printed_size": 244,
+  "parent_set_code": "unf",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/unf.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:18.318Z"
+}

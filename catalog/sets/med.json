@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+  "code": "med",
+  "mtgo_code": "ms4",
+  "arena_code": "ms4",
+  "tcgplayer_id": 2326,
+  "name": "Mythic Edition",
+  "uri": "https://api.scryfall.com/sets/08aabe3a-7c0e-4c48-b2c2-57dcb5a266a4",
+  "scryfall_uri": "https://scryfall.com/sets/med",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amed&unique=prints",
+  "released_at": "2018-10-05",
+  "set_type": "masterpiece",
+  "card_count": 24,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/med.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:57.087Z"
+}

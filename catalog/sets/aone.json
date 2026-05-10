@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "7024a171-1b99-49dc-8777-0db9c552eb06",
+  "code": "aone",
+  "name": "Phyrexia: All Will Be One Art Series",
+  "uri": "https://api.scryfall.com/sets/7024a171-1b99-49dc-8777-0db9c552eb06",
+  "scryfall_uri": "https://scryfall.com/sets/aone",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aaone&unique=prints",
+  "released_at": "2023-02-03",
+  "set_type": "memorabilia",
+  "card_count": 81,
+  "parent_set_code": "one",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:51.212Z"
+}

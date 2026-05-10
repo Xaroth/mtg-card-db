@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "1e96e903-601f-4286-b61e-8da021cbceff",
+  "code": "tdmu",
+  "name": "Dominaria United Tokens",
+  "uri": "https://api.scryfall.com/sets/1e96e903-601f-4286-b61e-8da021cbceff",
+  "scryfall_uri": "https://scryfall.com/sets/tdmu",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atdmu&unique=prints",
+  "released_at": "2022-09-09",
+  "set_type": "token",
+  "card_count": 26,
+  "parent_set_code": "dmu",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:49.985Z"
+}

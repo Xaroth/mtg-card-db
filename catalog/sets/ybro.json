@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "5e5f43cc-2312-426e-8ba3-8cda4c2dbba2",
+  "code": "ybro",
+  "name": "Alchemy: The Brothers' War",
+  "uri": "https://api.scryfall.com/sets/5e5f43cc-2312-426e-8ba3-8cda4c2dbba2",
+  "scryfall_uri": "https://scryfall.com/sets/ybro",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aybro&unique=prints",
+  "released_at": "2022-12-13",
+  "set_type": "alchemy",
+  "card_count": 31,
+  "parent_set_code": "bro",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "block_code": "y23",
+  "block": "Alchemy 2023",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y23.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:34.836Z"
+}

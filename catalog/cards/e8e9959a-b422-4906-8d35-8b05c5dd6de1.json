@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "e8e9959a-b422-4906-8d35-8b05c5dd6de1",
+  "name": "Forest",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "collector_number": "281",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/8/e8e9959a-b422-4906-8d35-8b05c5dd6de1.jpg?1674073884",
+    "normal": "https://cards.scryfall.io/normal/front/e/8/e8e9959a-b422-4906-8d35-8b05c5dd6de1.jpg?1674073884",
+    "large": "https://cards.scryfall.io/large/front/e/8/e8e9959a-b422-4906-8d35-8b05c5dd6de1.jpg?1674073884",
+    "png": "https://cards.scryfall.io/png/front/e/8/e8e9959a-b422-4906-8d35-8b05c5dd6de1.png?1674073884",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/8/e8e9959a-b422-4906-8d35-8b05c5dd6de1.jpg?1674073884",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/8/e8e9959a-b422-4906-8d35-8b05c5dd6de1.jpg?1674073884"
+  },
+  "prices": {
+    "usd": "1.07",
+    "usd_foil": "1.95",
+    "usd_etched": null,
+    "eur": "0.99",
+    "eur_foil": "1.42",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/dmu/281/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/e8e9959a-b422-4906-8d35-8b05c5dd6de1",
+  "_catalogFetchedAt": "2026-05-10T22:16:01.645Z"
+}

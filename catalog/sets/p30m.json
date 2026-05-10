@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "a3ab636c-20a0-4d79-b55a-e097c2a03cd5",
+  "code": "p30m",
+  "name": "30th Anniversary Misc Promos",
+  "uri": "https://api.scryfall.com/sets/a3ab636c-20a0-4d79-b55a-e097c2a03cd5",
+  "scryfall_uri": "https://scryfall.com/sets/p30m",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ap30m&unique=prints",
+  "released_at": "2022-09-02",
+  "set_type": "promo",
+  "card_count": 5,
+  "parent_set_code": "30a",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:23.359Z"
+}

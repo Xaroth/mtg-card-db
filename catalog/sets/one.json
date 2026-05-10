@@ -1,0 +1,21 @@
+{
+  "object": "set",
+  "id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "code": "one",
+  "mtgo_code": "one",
+  "arena_code": "one",
+  "tcgplayer_id": 17684,
+  "name": "Phyrexia: All Will Be One",
+  "uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "scryfall_uri": "https://scryfall.com/sets/one",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aone&unique=prints",
+  "released_at": "2023-02-10",
+  "set_type": "expansion",
+  "card_count": 479,
+  "printed_size": 271,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:13.160Z"
+}

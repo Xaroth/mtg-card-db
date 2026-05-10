@@ -1,0 +1,19 @@
+{
+  "object": "set",
+  "id": "c1b4fd5f-1ffc-420a-a50a-241b72b10ea7",
+  "code": "tsnc",
+  "name": "Streets of New Capenna Tokens",
+  "uri": "https://api.scryfall.com/sets/c1b4fd5f-1ffc-420a-a50a-241b72b10ea7",
+  "scryfall_uri": "https://scryfall.com/sets/tsnc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atsnc&unique=prints",
+  "released_at": "2022-04-29",
+  "set_type": "token",
+  "card_count": 19,
+  "printed_size": 17,
+  "parent_set_code": "snc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:36:14.009Z"
+}

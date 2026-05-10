@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "66ad5a57-7296-43cb-b477-826e65d37222",
+  "name": "Plains",
+  "set": "acr",
+  "set_name": "Assassin's Creed",
+  "collector_number": "101",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/6/66ad5a57-7296-43cb-b477-826e65d37222.jpg?1721424496",
+    "normal": "https://cards.scryfall.io/normal/front/6/6/66ad5a57-7296-43cb-b477-826e65d37222.jpg?1721424496",
+    "large": "https://cards.scryfall.io/large/front/6/6/66ad5a57-7296-43cb-b477-826e65d37222.jpg?1721424496",
+    "png": "https://cards.scryfall.io/png/front/6/6/66ad5a57-7296-43cb-b477-826e65d37222.png?1721424496",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/66ad5a57-7296-43cb-b477-826e65d37222.jpg?1721424496",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/66ad5a57-7296-43cb-b477-826e65d37222.jpg?1721424496"
+  },
+  "prices": {
+    "usd": "0.30",
+    "usd_foil": "0.52",
+    "usd_etched": null,
+    "eur": "0.21",
+    "eur_foil": "0.37",
+    "tix": "0.17"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/acr/101/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/66ad5a57-7296-43cb-b477-826e65d37222",
+  "_catalogFetchedAt": "2026-05-10T22:15:53.001Z"
+}

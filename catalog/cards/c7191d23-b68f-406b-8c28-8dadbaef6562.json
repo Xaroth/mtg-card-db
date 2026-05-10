@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "c7191d23-b68f-406b-8c28-8dadbaef6562",
+  "name": "Plains",
+  "set": "akh",
+  "set_name": "Amonkhet",
+  "collector_number": "250",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/7/c7191d23-b68f-406b-8c28-8dadbaef6562.jpg?1543687849",
+    "normal": "https://cards.scryfall.io/normal/front/c/7/c7191d23-b68f-406b-8c28-8dadbaef6562.jpg?1543687849",
+    "large": "https://cards.scryfall.io/large/front/c/7/c7191d23-b68f-406b-8c28-8dadbaef6562.jpg?1543687849",
+    "png": "https://cards.scryfall.io/png/front/c/7/c7191d23-b68f-406b-8c28-8dadbaef6562.png?1543687849",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/7/c7191d23-b68f-406b-8c28-8dadbaef6562.jpg?1543687849",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/7/c7191d23-b68f-406b-8c28-8dadbaef6562.jpg?1543687849"
+  },
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": "1.12",
+    "usd_etched": null,
+    "eur": "0.23",
+    "eur_foil": "0.83",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/akh/250/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/c7191d23-b68f-406b-8c28-8dadbaef6562",
+  "_catalogFetchedAt": "2026-05-10T22:15:54.001Z"
+}

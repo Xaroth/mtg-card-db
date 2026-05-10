@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "67e47ba2-b019-4181-9005-fe9fc021de44",
+  "code": "plst",
+  "tcgplayer_id": 2715,
+  "name": "The List",
+  "uri": "https://api.scryfall.com/sets/67e47ba2-b019-4181-9005-fe9fc021de44",
+  "scryfall_uri": "https://scryfall.com/sets/plst",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aplst&unique=prints",
+  "released_at": "2020-09-26",
+  "set_type": "masters",
+  "card_count": 5047,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/planeswalker.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:52.804Z"
+}

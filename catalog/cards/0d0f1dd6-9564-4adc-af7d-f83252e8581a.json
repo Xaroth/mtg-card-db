@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "0d0f1dd6-9564-4adc-af7d-f83252e8581a",
+  "name": "Plains",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "collector_number": "272",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/d/0d0f1dd6-9564-4adc-af7d-f83252e8581a.jpg?1743205074",
+    "normal": "https://cards.scryfall.io/normal/front/0/d/0d0f1dd6-9564-4adc-af7d-f83252e8581a.jpg?1743205074",
+    "large": "https://cards.scryfall.io/large/front/0/d/0d0f1dd6-9564-4adc-af7d-f83252e8581a.jpg?1743205074",
+    "png": "https://cards.scryfall.io/png/front/0/d/0d0f1dd6-9564-4adc-af7d-f83252e8581a.png?1743205074",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0d0f1dd6-9564-4adc-af7d-f83252e8581a.jpg?1743205074",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0d0f1dd6-9564-4adc-af7d-f83252e8581a.jpg?1743205074"
+  },
+  "prices": {
+    "usd": "0.57",
+    "usd_foil": "0.53",
+    "usd_etched": null,
+    "eur": "0.48",
+    "eur_foil": "0.57",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/tdm/272/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/0d0f1dd6-9564-4adc-af7d-f83252e8581a",
+  "_catalogFetchedAt": "2026-05-10T22:32:11.908Z"
+}

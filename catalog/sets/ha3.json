@@ -1,0 +1,17 @@
+{
+  "object": "set",
+  "id": "a7821f29-e98a-4a32-a65f-f919870354a1",
+  "code": "ha3",
+  "name": "Historic Anthology 3",
+  "uri": "https://api.scryfall.com/sets/a7821f29-e98a-4a32-a65f-f919870354a1",
+  "scryfall_uri": "https://scryfall.com/sets/ha3",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aha3&unique=prints",
+  "released_at": "2020-05-21",
+  "set_type": "box",
+  "card_count": 27,
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/ha1.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:40.510Z"
+}

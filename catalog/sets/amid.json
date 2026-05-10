@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "fe07d074-f59a-4765-bbbf-80b9bca25130",
+  "code": "amid",
+  "name": "Midnight Hunt Art Series",
+  "uri": "https://api.scryfall.com/sets/fe07d074-f59a-4765-bbbf-80b9bca25130",
+  "scryfall_uri": "https://scryfall.com/sets/amid",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aamid&unique=prints",
+  "released_at": "2021-09-24",
+  "set_type": "memorabilia",
+  "card_count": 81,
+  "parent_set_code": "mid",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "dbl",
+  "block": "Innistrad: Double Feature",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mid.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:50.011Z"
+}

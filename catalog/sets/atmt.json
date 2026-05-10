@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "27d8aebd-ed26-42a9-8f32-2d52d68b9305",
+  "code": "atmt",
+  "name": "Teenage Mutant Ninja Turtles Art Series",
+  "uri": "https://api.scryfall.com/sets/27d8aebd-ed26-42a9-8f32-2d52d68b9305",
+  "scryfall_uri": "https://scryfall.com/sets/atmt",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aatmt&unique=prints",
+  "released_at": "2026-03-06",
+  "set_type": "memorabilia",
+  "card_count": 54,
+  "parent_set_code": "tmt",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/tmt.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:32:54.014Z"
+}

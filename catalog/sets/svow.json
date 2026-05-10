@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "50d5276a-954f-4497-b313-a69dcdbdbf91",
+  "code": "svow",
+  "name": "Innistrad: Crimson Vow Substitute Cards",
+  "uri": "https://api.scryfall.com/sets/50d5276a-954f-4497-b313-a69dcdbdbf91",
+  "scryfall_uri": "https://scryfall.com/sets/svow",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Asvow&unique=prints",
+  "released_at": "2021-11-19",
+  "set_type": "token",
+  "card_count": 9,
+  "parent_set_code": "vow",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:34.605Z"
+}

@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "ee68f2cb-851b-4196-ac58-844d72628e6a",
+  "name": "Swamp",
+  "set": "woe",
+  "set_name": "Wilds of Eldraine",
+  "collector_number": "264",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/e/ee68f2cb-851b-4196-ac58-844d72628e6a.jpg?1693867149",
+    "normal": "https://cards.scryfall.io/normal/front/e/e/ee68f2cb-851b-4196-ac58-844d72628e6a.jpg?1693867149",
+    "large": "https://cards.scryfall.io/large/front/e/e/ee68f2cb-851b-4196-ac58-844d72628e6a.jpg?1693867149",
+    "png": "https://cards.scryfall.io/png/front/e/e/ee68f2cb-851b-4196-ac58-844d72628e6a.png?1693867149",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/e/ee68f2cb-851b-4196-ac58-844d72628e6a.jpg?1693867149",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/e/ee68f2cb-851b-4196-ac58-844d72628e6a.jpg?1693867149"
+  },
+  "prices": {
+    "usd": "0.90",
+    "usd_foil": "1.08",
+    "usd_etched": null,
+    "eur": "0.64",
+    "eur_foil": "0.76",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/woe/264/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/ee68f2cb-851b-4196-ac58-844d72628e6a",
+  "_catalogFetchedAt": "2026-05-10T22:32:31.327Z"
+}

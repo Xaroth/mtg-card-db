@@ -1,0 +1,20 @@
+{
+  "object": "set",
+  "id": "a447114b-d795-4222-b903-b578f7ce8c23",
+  "code": "teoc",
+  "mtgo_code": "teoc",
+  "arena_code": "teoc",
+  "name": "Edge of Eternities Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/a447114b-d795-4222-b903-b578f7ce8c23",
+  "scryfall_uri": "https://scryfall.com/sets/teoc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ateoc&unique=prints",
+  "released_at": "2025-08-01",
+  "set_type": "token",
+  "card_count": 16,
+  "parent_set_code": "eoc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/eoc.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:52.692Z"
+}

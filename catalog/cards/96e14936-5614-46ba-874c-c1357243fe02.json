@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "96e14936-5614-46ba-874c-c1357243fe02",
+  "name": "Mountain",
+  "set": "ecl",
+  "set_name": "Lorwyn Eclipsed",
+  "collector_number": "282",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/6/96e14936-5614-46ba-874c-c1357243fe02.jpg?1767773779",
+    "normal": "https://cards.scryfall.io/normal/front/9/6/96e14936-5614-46ba-874c-c1357243fe02.jpg?1767773779",
+    "large": "https://cards.scryfall.io/large/front/9/6/96e14936-5614-46ba-874c-c1357243fe02.jpg?1767773779",
+    "png": "https://cards.scryfall.io/png/front/9/6/96e14936-5614-46ba-874c-c1357243fe02.png?1767773779",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/6/96e14936-5614-46ba-874c-c1357243fe02.jpg?1767773779",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/6/96e14936-5614-46ba-874c-c1357243fe02.jpg?1767773779"
+  },
+  "prices": {
+    "usd": "0.35",
+    "usd_foil": "0.33",
+    "usd_etched": null,
+    "eur": "0.21",
+    "eur_foil": "0.42",
+    "tix": "0.03"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/ecl/282/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/96e14936-5614-46ba-874c-c1357243fe02",
+  "_catalogFetchedAt": "2026-05-10T22:16:03.047Z"
+}

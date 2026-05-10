@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "649bcd1f-88c8-49ee-88b8-a9631a8d0909",
+  "code": "mvow",
+  "name": "Innistrad: Crimson Vow Minigames",
+  "uri": "https://api.scryfall.com/sets/649bcd1f-88c8-49ee-88b8-a9631a8d0909",
+  "scryfall_uri": "https://scryfall.com/sets/mvow",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amvow&unique=prints",
+  "released_at": "2021-11-19",
+  "set_type": "minigame",
+  "card_count": 3,
+  "parent_set_code": "vow",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:34:06.154Z"
+}

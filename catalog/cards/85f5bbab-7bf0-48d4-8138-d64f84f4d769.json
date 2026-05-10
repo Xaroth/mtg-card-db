@@ -1,0 +1,31 @@
+{
+  "catalogVersion": 1,
+  "id": "85f5bbab-7bf0-48d4-8138-d64f84f4d769",
+  "name": "Mountain",
+  "set": "pip",
+  "set_name": "Fallout",
+  "collector_number": "323",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/5/85f5bbab-7bf0-48d4-8138-d64f84f4d769.jpg?1708743503",
+    "normal": "https://cards.scryfall.io/normal/front/8/5/85f5bbab-7bf0-48d4-8138-d64f84f4d769.jpg?1708743503",
+    "large": "https://cards.scryfall.io/large/front/8/5/85f5bbab-7bf0-48d4-8138-d64f84f4d769.jpg?1708743503",
+    "png": "https://cards.scryfall.io/png/front/8/5/85f5bbab-7bf0-48d4-8138-d64f84f4d769.png?1708743503",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/5/85f5bbab-7bf0-48d4-8138-d64f84f4d769.jpg?1708743503",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/5/85f5bbab-7bf0-48d4-8138-d64f84f4d769.jpg?1708743503"
+  },
+  "prices": {
+    "usd": "0.31",
+    "usd_foil": "2.94",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "1.18",
+    "tix": "0.04"
+  },
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/pip/323/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/85f5bbab-7bf0-48d4-8138-d64f84f4d769",
+  "_catalogFetchedAt": "2026-05-10T22:29:57.180Z"
+}

@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "56782271-1c28-4bc5-8187-a7ec2e7e9be5",
+  "code": "mkhm",
+  "name": "Kaldheim Minigames",
+  "uri": "https://api.scryfall.com/sets/56782271-1c28-4bc5-8187-a7ec2e7e9be5",
+  "scryfall_uri": "https://scryfall.com/sets/mkhm",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amkhm&unique=prints",
+  "released_at": "2021-02-05",
+  "set_type": "minigame",
+  "card_count": 5,
+  "parent_set_code": "khm",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/khm.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:33:58.884Z"
+}

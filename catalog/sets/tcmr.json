@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "6bcdcd3c-15a1-49b2-bbe7-639d18395a5d",
+  "code": "tcmr",
+  "name": "Commander Legends Tokens",
+  "uri": "https://api.scryfall.com/sets/6bcdcd3c-15a1-49b2-bbe7-639d18395a5d",
+  "scryfall_uri": "https://scryfall.com/sets/tcmr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atcmr&unique=prints",
+  "released_at": "2020-11-20",
+  "set_type": "token",
+  "card_count": 23,
+  "parent_set_code": "cmr",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/cmr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:43.782Z"
+}

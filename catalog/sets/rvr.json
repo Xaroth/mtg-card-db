@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "code": "rvr",
+  "tcgplayer_id": 23319,
+  "name": "Ravnica Remastered",
+  "uri": "https://api.scryfall.com/sets/fed2c8cd-ab92-44f6-808a-41e7809bcfe2",
+  "scryfall_uri": "https://scryfall.com/sets/rvr",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Arvr&unique=prints",
+  "released_at": "2024-01-12",
+  "set_type": "masters",
+  "card_count": 531,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/rvr.svg?1777867200",
+  "_catalogFetchedAt": "2026-05-10T22:35:26.599Z"
+}
