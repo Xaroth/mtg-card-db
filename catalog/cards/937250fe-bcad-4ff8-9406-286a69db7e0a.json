@@ -16,17 +16,17 @@
     "border_crop": "https://cards.scryfall.io/border_crop/front/9/3/937250fe-bcad-4ff8-9406-286a69db7e0a.jpg?1775938878"
   },
   "prices": {
-    "usd": "0.44",
-    "usd_foil": "0.59",
+    "usd": "0.50",
+    "usd_foil": "0.68",
     "usd_etched": null,
-    "eur": "0.50",
-    "eur_foil": "0.33",
-    "tix": "0.01"
+    "eur": "0.55",
+    "eur_foil": "0.63",
+    "tix": "0.02"
   },
   "cardmarket_id": 880549,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/sos/268/island?utm_source=api",
   "uri": "https://api.scryfall.com/cards/937250fe-bcad-4ff8-9406-286a69db7e0a",
-  "_catalogFetchedAt": "2026-05-10T23:02:33.950Z"
+  "_catalogFetchedAt": "2026-05-21T08:49:12.623Z"
 }

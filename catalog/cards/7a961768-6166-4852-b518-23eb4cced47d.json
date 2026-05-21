@@ -16,11 +16,11 @@
     "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7a961768-6166-4852-b518-23eb4cced47d.jpg?1562202622"
   },
   "prices": {
-    "usd": "0.85",
-    "usd_foil": "6.29",
+    "usd": "0.87",
+    "usd_foil": "6.37",
     "usd_etched": null,
-    "eur": "0.62",
-    "eur_foil": "3.12",
+    "eur": "0.51",
+    "eur_foil": "3.20",
     "tix": "0.03"
   },
   "cardmarket_id": 374406,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/mh1/250/snow-covered-plains?utm_source=api",
   "uri": "https://api.scryfall.com/cards/7a961768-6166-4852-b518-23eb4cced47d",
-  "_catalogFetchedAt": "2026-05-10T23:02:08.492Z"
+  "_catalogFetchedAt": "2026-05-21T08:48:45.770Z"
 }

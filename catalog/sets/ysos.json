@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "2fd19b90-7ba4-4f33-b876-3367d15ab426",
+  "code": "ysos",
+  "name": "Alchemy: Secrets of Strixhaven",
+  "uri": "https://api.scryfall.com/sets/2fd19b90-7ba4-4f33-b876-3367d15ab426",
+  "scryfall_uri": "https://scryfall.com/sets/ysos",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aysos&unique=prints",
+  "released_at": "2026-06-19",
+  "set_type": "alchemy",
+  "card_count": 0,
+  "parent_set_code": "sos",
+  "digital": true,
+  "nonfoil_only": true,
+  "foil_only": true,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/y26.svg?1778472000",
+  "_catalogFetchedAt": "2026-05-18T13:25:32.667Z"
+}

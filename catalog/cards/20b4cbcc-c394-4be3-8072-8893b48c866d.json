@@ -19,8 +19,8 @@
     "usd": "0.43",
     "usd_foil": "6.82",
     "usd_etched": null,
-    "eur": "0.40",
-    "eur_foil": "2.59",
+    "eur": "0.35",
+    "eur_foil": "2.75",
     "tix": "0.03"
   },
   "cardmarket_id": 21695,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/zen/235/island?utm_source=api",
   "uri": "https://api.scryfall.com/cards/20b4cbcc-c394-4be3-8072-8893b48c866d",
-  "_catalogFetchedAt": "2026-05-10T23:02:56.796Z"
+  "_catalogFetchedAt": "2026-05-21T08:49:36.916Z"
 }

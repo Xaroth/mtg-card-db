@@ -17,9 +17,9 @@
   },
   "prices": {
     "usd": "0.30",
-    "usd_foil": "0.52",
+    "usd_foil": "0.45",
     "usd_etched": null,
-    "eur": "0.21",
+    "eur": "0.19",
     "eur_foil": "0.37",
     "tix": "0.17"
   },
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/acr/101/plains?utm_source=api",
   "uri": "https://api.scryfall.com/cards/66ad5a57-7296-43cb-b477-826e65d37222",
-  "_catalogFetchedAt": "2026-05-10T23:01:34.643Z"
+  "_catalogFetchedAt": "2026-05-21T08:48:10.585Z"
 }

@@ -16,11 +16,11 @@
     "border_crop": "https://cards.scryfall.io/border_crop/front/5/c/5c818f03-0e20-4ef4-bac7-11b2b7f41b5c.jpg?1764122126"
   },
   "prices": {
-    "usd": "0.37",
+    "usd": "0.25",
     "usd_foil": "0.37",
     "usd_etched": null,
-    "eur": "0.26",
-    "eur_foil": "0.44",
+    "eur": "0.31",
+    "eur_foil": "0.69",
     "tix": "0.04"
   },
   "cardmarket_id": 855745,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/tla/294/swamp?utm_source=api",
   "uri": "https://api.scryfall.com/cards/5c818f03-0e20-4ef4-bac7-11b2b7f41b5c",
-  "_catalogFetchedAt": "2026-05-10T23:02:40.164Z"
+  "_catalogFetchedAt": "2026-05-21T08:49:19.041Z"
 }

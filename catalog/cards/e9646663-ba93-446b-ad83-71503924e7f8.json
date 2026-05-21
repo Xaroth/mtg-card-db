@@ -19,8 +19,8 @@
     "usd": "0.40",
     "usd_foil": "2.84",
     "usd_etched": null,
-    "eur": "0.37",
-    "eur_foil": "2.05",
+    "eur": "0.30",
+    "eur_foil": "2.08",
     "tix": "0.03"
   },
   "cardmarket_id": 21691,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/zen/233/plains?utm_source=api",
   "uri": "https://api.scryfall.com/cards/e9646663-ba93-446b-ad83-71503924e7f8",
-  "_catalogFetchedAt": "2026-05-10T23:02:56.394Z"
+  "_catalogFetchedAt": "2026-05-21T08:49:36.490Z"
 }

@@ -19,8 +19,8 @@
     "usd": "1.06",
     "usd_foil": "10.45",
     "usd_etched": null,
-    "eur": "0.27",
-    "eur_foil": "5.28",
+    "eur": "0.41",
+    "eur_foil": "5.41",
     "tix": "0.03"
   },
   "cardmarket_id": 21713,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/zen/244/mountain?utm_source=api",
   "uri": "https://api.scryfall.com/cards/03bacab3-25fb-4a0c-81b3-7e9e22899c2c",
-  "_catalogFetchedAt": "2026-05-10T23:02:58.600Z"
+  "_catalogFetchedAt": "2026-05-21T08:49:38.721Z"
 }

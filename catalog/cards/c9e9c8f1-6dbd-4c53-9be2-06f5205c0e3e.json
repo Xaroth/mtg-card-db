@@ -8,19 +8,19 @@
   "rarity": "rare",
   "type_line": "Land",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.jpg?1775840706",
-    "normal": "https://cards.scryfall.io/normal/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.jpg?1775840706",
-    "large": "https://cards.scryfall.io/large/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.jpg?1775840706",
-    "png": "https://cards.scryfall.io/png/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.png?1775840706",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.jpg?1775840706",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.jpg?1775840706"
+    "small": "https://cards.scryfall.io/small/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.jpg?1778840666",
+    "normal": "https://cards.scryfall.io/normal/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.jpg?1778840666",
+    "large": "https://cards.scryfall.io/large/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.jpg?1778840666",
+    "png": "https://cards.scryfall.io/png/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.png?1778840666",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.jpg?1778840666",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e.jpg?1778840666"
   },
   "prices": {
-    "usd": "10.71",
-    "usd_foil": "14.01",
+    "usd": "13.61",
+    "usd_foil": "17.18",
     "usd_etched": null,
-    "eur": "7.37",
-    "eur_foil": "8.83",
+    "eur": "7.21",
+    "eur_foil": "9.04",
     "tix": null
   },
   "cardmarket_id": 880321,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/sld/7104/reliquary-tower?utm_source=api",
   "uri": "https://api.scryfall.com/cards/c9e9c8f1-6dbd-4c53-9be2-06f5205c0e3e",
-  "_catalogFetchedAt": "2026-05-10T23:02:31.543Z"
+  "_catalogFetchedAt": "2026-05-21T08:49:10.179Z"
 }

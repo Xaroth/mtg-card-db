@@ -16,11 +16,11 @@
     "border_crop": "https://cards.scryfall.io/border_crop/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1655495450"
   },
   "prices": {
-    "usd": "3.66",
-    "usd_foil": "4.09",
+    "usd": "3.01",
+    "usd_foil": "4.04",
     "usd_etched": null,
-    "eur": "2.02",
-    "eur_foil": "3.92",
+    "eur": "2.11",
+    "eur_foil": "3.65",
     "tix": "0.03"
   },
   "cardmarket_id": 605040,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/neo/299/ja/mountain?utm_source=api",
   "uri": "https://api.scryfall.com/cards/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9",
-  "_catalogFetchedAt": "2026-05-10T23:02:16.915Z"
+  "_catalogFetchedAt": "2026-05-21T08:48:54.579Z"
 }

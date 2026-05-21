@@ -17,10 +17,10 @@
   },
   "prices": {
     "usd": "0.26",
-    "usd_foil": "1.45",
+    "usd_foil": "1.49",
     "usd_etched": null,
-    "eur": "0.13",
-    "eur_foil": "0.70",
+    "eur": "0.19",
+    "eur_foil": "0.65",
     "tix": "0.03"
   },
   "cardmarket_id": 284398,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/bfz/259/island?utm_source=api",
   "uri": "https://api.scryfall.com/cards/71207752-0d8a-4ab5-be64-cca600608e76",
-  "_catalogFetchedAt": "2026-05-10T23:01:39.448Z"
+  "_catalogFetchedAt": "2026-05-21T08:48:16.195Z"
 }
