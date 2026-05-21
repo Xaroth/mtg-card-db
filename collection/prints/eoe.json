@@ -89,66 +89,6 @@
         }
       ],
       "note": ""
-    },
-    {
-      "id": "926aad15-87a8-4510-b327-d1648f89c497",
-      "set": "eoe",
-      "collector_number": "367",
-      "name": "Plains",
-      "storage": {
-        "nonfoil": 0,
-        "foil": 0
-      },
-      "binders": [],
-      "note": ""
-    },
-    {
-      "id": "81368899-5fef-4f10-80ea-b282eca0f42f",
-      "set": "eoe",
-      "collector_number": "368",
-      "name": "Island",
-      "storage": {
-        "nonfoil": 0,
-        "foil": 0
-      },
-      "binders": [],
-      "note": ""
-    },
-    {
-      "id": "b938ac10-bd0f-4ce3-a743-958d5beadf58",
-      "set": "eoe",
-      "collector_number": "369",
-      "name": "Swamp",
-      "storage": {
-        "nonfoil": 0,
-        "foil": 0
-      },
-      "binders": [],
-      "note": ""
-    },
-    {
-      "id": "6b092822-f34f-4384-9d0a-23d863d27231",
-      "set": "eoe",
-      "collector_number": "370",
-      "name": "Mountain",
-      "storage": {
-        "nonfoil": 0,
-        "foil": 0
-      },
-      "binders": [],
-      "note": ""
-    },
-    {
-      "id": "0d6250d3-728b-4412-8efc-911bb6f5e910",
-      "set": "eoe",
-      "collector_number": "371",
-      "name": "Forest",
-      "storage": {
-        "nonfoil": 0,
-        "foil": 0
-      },
-      "binders": [],
-      "note": ""
     }
   ]
 }

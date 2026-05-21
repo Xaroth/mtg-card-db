@@ -6,10 +6,16 @@
       "collector_number": "267",
       "name": "Plains",
       "storage": {
-        "nonfoil": 0,
-        "foil": 0
+        "nonfoil": 3,
+        "foil": 3
       },
-      "binders": [],
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-2",
+          "nonfoil": 1,
+          "foil": 1
+        }
+      ],
       "note": ""
     },
     {
@@ -18,10 +24,16 @@
       "collector_number": "268",
       "name": "Island",
       "storage": {
-        "nonfoil": 0,
-        "foil": 0
+        "nonfoil": 3,
+        "foil": 3
       },
-      "binders": [],
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-2",
+          "nonfoil": 1,
+          "foil": 1
+        }
+      ],
       "note": ""
     },
     {
@@ -30,10 +42,16 @@
       "collector_number": "269",
       "name": "Swamp",
       "storage": {
-        "nonfoil": 0,
-        "foil": 0
+        "nonfoil": 3,
+        "foil": 3
       },
-      "binders": [],
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-2",
+          "nonfoil": 1,
+          "foil": 1
+        }
+      ],
       "note": ""
     },
     {
@@ -42,10 +60,16 @@
       "collector_number": "270",
       "name": "Mountain",
       "storage": {
-        "nonfoil": 0,
-        "foil": 0
+        "nonfoil": 3,
+        "foil": 3
       },
-      "binders": [],
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-2",
+          "nonfoil": 1,
+          "foil": 1
+        }
+      ],
       "note": ""
     },
     {
@@ -54,10 +78,16 @@
       "collector_number": "271",
       "name": "Forest",
       "storage": {
-        "nonfoil": 0,
-        "foil": 0
+        "nonfoil": 3,
+        "foil": 3
       },
-      "binders": [],
+      "binders": [
+        {
+          "binder": "gamegenic-4x3-binder-2",
+          "nonfoil": 1,
+          "foil": 1
+        }
+      ],
       "note": ""
     }
   ]
