@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "a4135564-9f37-4aaf-963a-90666f843e0d",
+  "code": "mbc",
+  "tcgplayer_id": 24777,
+  "name": "Mystery Booster Commander Edition",
+  "uri": "https://api.scryfall.com/sets/a4135564-9f37-4aaf-963a-90666f843e0d",
+  "scryfall_uri": "https://scryfall.com/sets/mbc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ambc&unique=prints",
+  "released_at": "2026-11-09",
+  "set_type": "draft_innovation",
+  "card_count": 80,
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/mbc.svg?1787544000",
+  "_catalogFetchedAt": "2026-08-28T21:21:56.206Z"
+}

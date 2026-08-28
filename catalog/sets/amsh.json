@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "7150d109-948b-4388-8847-5fff875d9893",
+  "code": "amsh",
+  "name": "Marvel Super Heroes Art Series",
+  "uri": "https://api.scryfall.com/sets/7150d109-948b-4388-8847-5fff875d9893",
+  "scryfall_uri": "https://scryfall.com/sets/amsh",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aamsh&unique=prints",
+  "released_at": "2026-06-26",
+  "set_type": "memorabilia",
+  "card_count": 66,
+  "parent_set_code": "msh",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/msh.svg?1787544000",
+  "_catalogFetchedAt": "2026-08-28T21:21:53.037Z"
+}

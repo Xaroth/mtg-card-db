@@ -8,25 +8,25 @@
   "rarity": "common",
   "type_line": "Basic Land — Plains",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/1/b/1b405611-27d4-435a-8e8e-6d528626fd27.jpg?1771343562",
-    "normal": "https://cards.scryfall.io/normal/front/1/b/1b405611-27d4-435a-8e8e-6d528626fd27.jpg?1771343562",
-    "large": "https://cards.scryfall.io/large/front/1/b/1b405611-27d4-435a-8e8e-6d528626fd27.jpg?1771343562",
-    "png": "https://cards.scryfall.io/png/front/1/b/1b405611-27d4-435a-8e8e-6d528626fd27.png?1771343562",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/1/b/1b405611-27d4-435a-8e8e-6d528626fd27.jpg?1771343562",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/1/b/1b405611-27d4-435a-8e8e-6d528626fd27.jpg?1771343562"
+    "small": "https://cards.scryfall.io/small/front/1/b/1b405611-27d4-435a-8e8e-6d528626fd27.jpg?1783904062",
+    "normal": "https://cards.scryfall.io/normal/front/1/b/1b405611-27d4-435a-8e8e-6d528626fd27.jpg?1783904062",
+    "large": "https://cards.scryfall.io/large/front/1/b/1b405611-27d4-435a-8e8e-6d528626fd27.jpg?1783904062",
+    "png": "https://cards.scryfall.io/png/front/1/b/1b405611-27d4-435a-8e8e-6d528626fd27.png?1783904062",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/b/1b405611-27d4-435a-8e8e-6d528626fd27.jpg?1783904062",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/b/1b405611-27d4-435a-8e8e-6d528626fd27.jpg?1783904062"
   },
   "prices": {
-    "usd": "0.20",
-    "usd_foil": "0.34",
+    "usd": "0.33",
+    "usd_foil": "0.31",
     "usd_etched": null,
-    "eur": "0.02",
-    "eur_foil": "0.42",
-    "tix": "0.02"
+    "eur": "0.16",
+    "eur_foil": "0.21",
+    "tix": "0.03"
   },
   "cardmarket_id": 873336,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/tmt/191/plains?utm_source=api",
   "uri": "https://api.scryfall.com/cards/1b405611-27d4-435a-8e8e-6d528626fd27",
-  "_catalogFetchedAt": "2026-05-21T08:49:20.020Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:30.422Z"
 }

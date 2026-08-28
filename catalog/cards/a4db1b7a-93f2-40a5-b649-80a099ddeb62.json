@@ -8,25 +8,25 @@
   "rarity": "common",
   "type_line": "Basic Land — Mountain",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1743205146",
-    "normal": "https://cards.scryfall.io/normal/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1743205146",
-    "large": "https://cards.scryfall.io/large/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1743205146",
-    "png": "https://cards.scryfall.io/png/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.png?1743205146",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1743205146",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1743205146"
+    "small": "https://cards.scryfall.io/small/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1783907259",
+    "normal": "https://cards.scryfall.io/normal/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1783907259",
+    "large": "https://cards.scryfall.io/large/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1783907259",
+    "png": "https://cards.scryfall.io/png/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.png?1783907259",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1783907259",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/4/a4db1b7a-93f2-40a5-b649-80a099ddeb62.jpg?1783907259"
   },
   "prices": {
-    "usd": "13.29",
-    "usd_foil": "24.84",
+    "usd": "17.28",
+    "usd_foil": "27.55",
     "usd_etched": null,
-    "eur": "7.75",
-    "eur_foil": "10.40",
-    "tix": "3.31"
+    "eur": "9.63",
+    "eur_foil": "16.43",
+    "tix": "0.25"
   },
   "cardmarket_id": 817923,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/tdm/290/mountain?utm_source=api",
   "uri": "https://api.scryfall.com/cards/a4db1b7a-93f2-40a5-b649-80a099ddeb62",
-  "_catalogFetchedAt": "2026-05-21T08:49:16.238Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:26.925Z"
 }

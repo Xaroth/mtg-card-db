@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "5af51a69-f5a9-4151-8bc7-69c159d010e0",
+  "code": "fmsc",
+  "name": "Marvel Super Heroes Jumpstart Front Cards",
+  "uri": "https://api.scryfall.com/sets/5af51a69-f5a9-4151-8bc7-69c159d010e0",
+  "scryfall_uri": "https://scryfall.com/sets/fmsc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Afmsc&unique=prints",
+  "released_at": "2026-06-26",
+  "set_type": "memorabilia",
+  "card_count": 61,
+  "parent_set_code": "msc",
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/msc.svg?1787544000",
+  "_catalogFetchedAt": "2026-08-28T21:21:53.234Z"
+}

@@ -8,19 +8,19 @@
   "rarity": "common",
   "type_line": "Basic Land — Forest",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/c/4/c46df0e0-648d-4dc9-a2c7-ac96125ba77c.jpg?1673918741",
-    "normal": "https://cards.scryfall.io/normal/front/c/4/c46df0e0-648d-4dc9-a2c7-ac96125ba77c.jpg?1673918741",
-    "large": "https://cards.scryfall.io/large/front/c/4/c46df0e0-648d-4dc9-a2c7-ac96125ba77c.jpg?1673918741",
-    "png": "https://cards.scryfall.io/png/front/c/4/c46df0e0-648d-4dc9-a2c7-ac96125ba77c.png?1673918741",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/c/4/c46df0e0-648d-4dc9-a2c7-ac96125ba77c.jpg?1673918741",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/c/4/c46df0e0-648d-4dc9-a2c7-ac96125ba77c.jpg?1673918741"
+    "small": "https://cards.scryfall.io/small/front/c/4/c46df0e0-648d-4dc9-a2c7-ac96125ba77c.jpg?1783920357",
+    "normal": "https://cards.scryfall.io/normal/front/c/4/c46df0e0-648d-4dc9-a2c7-ac96125ba77c.jpg?1783920357",
+    "large": "https://cards.scryfall.io/large/front/c/4/c46df0e0-648d-4dc9-a2c7-ac96125ba77c.jpg?1783920357",
+    "png": "https://cards.scryfall.io/png/front/c/4/c46df0e0-648d-4dc9-a2c7-ac96125ba77c.png?1783920357",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/4/c46df0e0-648d-4dc9-a2c7-ac96125ba77c.jpg?1783920357",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/4/c46df0e0-648d-4dc9-a2c7-ac96125ba77c.jpg?1783920357"
   },
   "prices": {
     "usd": null,
-    "usd_foil": "2.48",
+    "usd_foil": "2.33",
     "usd_etched": null,
     "eur": null,
-    "eur_foil": "2.78",
+    "eur_foil": "2.71",
     "tix": null
   },
   "cardmarket_id": 676241,
@@ -28,5 +28,5 @@
   "nonfoil": false,
   "scryfall_uri": "https://scryfall.com/card/unf/490/forest?utm_source=api",
   "uri": "https://api.scryfall.com/cards/c46df0e0-648d-4dc9-a2c7-ac96125ba77c",
-  "_catalogFetchedAt": "2026-05-21T08:49:29.603Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:39.216Z"
 }

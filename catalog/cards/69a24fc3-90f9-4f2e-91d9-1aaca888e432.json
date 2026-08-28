@@ -1,0 +1,32 @@
+{
+  "catalogVersion": 1,
+  "id": "69a24fc3-90f9-4f2e-91d9-1aaca888e432",
+  "name": "Plains",
+  "set": "msh",
+  "set_name": "Marvel Super Heroes",
+  "collector_number": "278",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/9/69a24fc3-90f9-4f2e-91d9-1aaca888e432.jpg?1783902880",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/69a24fc3-90f9-4f2e-91d9-1aaca888e432.jpg?1783902880",
+    "large": "https://cards.scryfall.io/large/front/6/9/69a24fc3-90f9-4f2e-91d9-1aaca888e432.jpg?1783902880",
+    "png": "https://cards.scryfall.io/png/front/6/9/69a24fc3-90f9-4f2e-91d9-1aaca888e432.png?1783902880",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/69a24fc3-90f9-4f2e-91d9-1aaca888e432.jpg?1783902880",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/69a24fc3-90f9-4f2e-91d9-1aaca888e432.jpg?1783902880"
+  },
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": "0.33",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.21",
+    "tix": "0.03"
+  },
+  "cardmarket_id": 890592,
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/msh/278/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/69a24fc3-90f9-4f2e-91d9-1aaca888e432",
+  "_catalogFetchedAt": "2026-08-28T21:21:01.187Z"
+}

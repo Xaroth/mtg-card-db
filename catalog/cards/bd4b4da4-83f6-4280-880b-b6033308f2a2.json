@@ -8,19 +8,19 @@
   "rarity": "common",
   "type_line": "Basic Land — Island",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/b/d/bd4b4da4-83f6-4280-880b-b6033308f2a2.jpg?1693867135",
-    "normal": "https://cards.scryfall.io/normal/front/b/d/bd4b4da4-83f6-4280-880b-b6033308f2a2.jpg?1693867135",
-    "large": "https://cards.scryfall.io/large/front/b/d/bd4b4da4-83f6-4280-880b-b6033308f2a2.jpg?1693867135",
-    "png": "https://cards.scryfall.io/png/front/b/d/bd4b4da4-83f6-4280-880b-b6033308f2a2.png?1693867135",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/b/d/bd4b4da4-83f6-4280-880b-b6033308f2a2.jpg?1693867135",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/b/d/bd4b4da4-83f6-4280-880b-b6033308f2a2.jpg?1693867135"
+    "small": "https://cards.scryfall.io/small/front/b/d/bd4b4da4-83f6-4280-880b-b6033308f2a2.jpg?1783915053",
+    "normal": "https://cards.scryfall.io/normal/front/b/d/bd4b4da4-83f6-4280-880b-b6033308f2a2.jpg?1783915053",
+    "large": "https://cards.scryfall.io/large/front/b/d/bd4b4da4-83f6-4280-880b-b6033308f2a2.jpg?1783915053",
+    "png": "https://cards.scryfall.io/png/front/b/d/bd4b4da4-83f6-4280-880b-b6033308f2a2.png?1783915053",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/d/bd4b4da4-83f6-4280-880b-b6033308f2a2.jpg?1783915053",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/d/bd4b4da4-83f6-4280-880b-b6033308f2a2.jpg?1783915053"
   },
   "prices": {
-    "usd": "0.59",
-    "usd_foil": "1.02",
+    "usd": "0.79",
+    "usd_foil": "1.23",
     "usd_etched": null,
-    "eur": "0.71",
-    "eur_foil": "0.76",
+    "eur": "0.62",
+    "eur_foil": "0.80",
     "tix": "0.03"
   },
   "cardmarket_id": 725337,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/woe/263/island?utm_source=api",
   "uri": "https://api.scryfall.com/cards/bd4b4da4-83f6-4280-880b-b6033308f2a2",
-  "_catalogFetchedAt": "2026-05-21T08:49:35.090Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:44.661Z"
 }

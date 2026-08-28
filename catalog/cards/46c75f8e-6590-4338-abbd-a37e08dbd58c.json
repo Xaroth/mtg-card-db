@@ -1,0 +1,32 @@
+{
+  "catalogVersion": 1,
+  "id": "46c75f8e-6590-4338-abbd-a37e08dbd58c",
+  "name": "Plains",
+  "set": "hob",
+  "set_name": "The Hobbit",
+  "collector_number": "319",
+  "rarity": "common",
+  "type_line": "Basic Land — Plains",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/6/46c75f8e-6590-4338-abbd-a37e08dbd58c.jpg?1783902773",
+    "normal": "https://cards.scryfall.io/normal/front/4/6/46c75f8e-6590-4338-abbd-a37e08dbd58c.jpg?1783902773",
+    "large": "https://cards.scryfall.io/large/front/4/6/46c75f8e-6590-4338-abbd-a37e08dbd58c.jpg?1783902773",
+    "png": "https://cards.scryfall.io/png/front/4/6/46c75f8e-6590-4338-abbd-a37e08dbd58c.png?1783902773",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/6/46c75f8e-6590-4338-abbd-a37e08dbd58c.jpg?1783902773",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/6/46c75f8e-6590-4338-abbd-a37e08dbd58c.jpg?1783902773"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "6.43",
+    "tix": null
+  },
+  "cardmarket_id": 898582,
+  "foil": true,
+  "nonfoil": false,
+  "scryfall_uri": "https://scryfall.com/card/hob/319/plains?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/46c75f8e-6590-4338-abbd-a37e08dbd58c",
+  "_catalogFetchedAt": "2026-08-28T21:20:48.577Z"
+}

@@ -8,25 +8,25 @@
   "rarity": "common",
   "type_line": "Basic Land — Mountain",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1673916433",
-    "normal": "https://cards.scryfall.io/normal/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1673916433",
-    "large": "https://cards.scryfall.io/large/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1673916433",
-    "png": "https://cards.scryfall.io/png/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.png?1673916433",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1673916433",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1673916433"
+    "small": "https://cards.scryfall.io/small/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1783920467",
+    "normal": "https://cards.scryfall.io/normal/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1783920467",
+    "large": "https://cards.scryfall.io/large/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1783920467",
+    "png": "https://cards.scryfall.io/png/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.png?1783920467",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1783920467",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/d/3d6da8eb-31b0-48c1-9ad9-552827967f91.jpg?1783920467"
   },
   "prices": {
-    "usd": "1.25",
-    "usd_foil": "1.87",
+    "usd": "1.05",
+    "usd_foil": "1.30",
     "usd_etched": null,
-    "eur": "1.04",
-    "eur_foil": "1.73",
-    "tix": "1.91"
+    "eur": "1.07",
+    "eur_foil": "1.66",
+    "tix": "2.13"
   },
   "cardmarket_id": 586721,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/unf/238/mountain?utm_source=api",
   "uri": "https://api.scryfall.com/cards/3d6da8eb-31b0-48c1-9ad9-552827967f91",
-  "_catalogFetchedAt": "2026-05-21T08:49:27.416Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:37.019Z"
 }

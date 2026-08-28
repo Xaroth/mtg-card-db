@@ -8,25 +8,25 @@
   "rarity": "common",
   "type_line": "Basic Land — Forest",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.jpg?1757409772",
-    "normal": "https://cards.scryfall.io/normal/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.jpg?1757409772",
-    "large": "https://cards.scryfall.io/large/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.jpg?1757409772",
-    "png": "https://cards.scryfall.io/png/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.png?1757409772",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.jpg?1757409772",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.jpg?1757409772"
+    "small": "https://cards.scryfall.io/small/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.jpg?1783905294",
+    "normal": "https://cards.scryfall.io/normal/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.jpg?1783905294",
+    "large": "https://cards.scryfall.io/large/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.jpg?1783905294",
+    "png": "https://cards.scryfall.io/png/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.png?1783905294",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.jpg?1783905294",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/b/7b6c2532-be5a-4f1f-893c-36bcda2a699d.jpg?1783905294"
   },
   "prices": {
-    "usd": "0.31",
-    "usd_foil": "0.35",
+    "usd": "0.37",
+    "usd_foil": "0.39",
     "usd_etched": null,
-    "eur": "0.17",
-    "eur_foil": "0.27",
-    "tix": null
+    "eur": "0.20",
+    "eur_foil": "0.26",
+    "tix": "0.05"
   },
   "cardmarket_id": 839589,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/spm/193/forest?utm_source=api",
   "uri": "https://api.scryfall.com/cards/7b6c2532-be5a-4f1f-893c-36bcda2a699d",
-  "_catalogFetchedAt": "2026-05-21T08:49:14.438Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:25.225Z"
 }

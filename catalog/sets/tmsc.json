@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "1a555c51-d5da-4f1d-ac1c-5cce81d5d8dc",
+  "code": "tmsc",
+  "name": "Marvel Super Heroes Commander Tokens",
+  "uri": "https://api.scryfall.com/sets/1a555c51-d5da-4f1d-ac1c-5cce81d5d8dc",
+  "scryfall_uri": "https://scryfall.com/sets/tmsc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmsc&unique=prints",
+  "released_at": "2026-06-26",
+  "set_type": "token",
+  "card_count": 32,
+  "parent_set_code": "msc",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/msc.svg?1787544000",
+  "_catalogFetchedAt": "2026-08-28T21:21:56.788Z"
+}

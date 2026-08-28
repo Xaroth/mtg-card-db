@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "4edafaae-5000-4dab-8d7a-54c5b7566bf4",
+  "code": "ttrk",
+  "name": "Star Trek Tokens",
+  "uri": "https://api.scryfall.com/sets/4edafaae-5000-4dab-8d7a-54c5b7566bf4",
+  "scryfall_uri": "https://scryfall.com/sets/ttrk",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Attrk&unique=prints",
+  "released_at": "2026-11-13",
+  "set_type": "token",
+  "card_count": 1,
+  "parent_set_code": "trk",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/trk.svg?1787544000",
+  "_catalogFetchedAt": "2026-08-28T21:21:57.343Z"
+}

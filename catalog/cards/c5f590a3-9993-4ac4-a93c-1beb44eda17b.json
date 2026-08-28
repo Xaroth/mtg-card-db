@@ -1,0 +1,32 @@
+{
+  "catalogVersion": 1,
+  "id": "c5f590a3-9993-4ac4-a93c-1beb44eda17b",
+  "name": "Swamp",
+  "set": "hob",
+  "set_name": "The Hobbit",
+  "collector_number": "196",
+  "rarity": "common",
+  "type_line": "Basic Land — Swamp",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/5/c5f590a3-9993-4ac4-a93c-1beb44eda17b.jpg?1783902782",
+    "normal": "https://cards.scryfall.io/normal/front/c/5/c5f590a3-9993-4ac4-a93c-1beb44eda17b.jpg?1783902782",
+    "large": "https://cards.scryfall.io/large/front/c/5/c5f590a3-9993-4ac4-a93c-1beb44eda17b.jpg?1783902782",
+    "png": "https://cards.scryfall.io/png/front/c/5/c5f590a3-9993-4ac4-a93c-1beb44eda17b.png?1783902782",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/5/c5f590a3-9993-4ac4-a93c-1beb44eda17b.jpg?1783902782",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/5/c5f590a3-9993-4ac4-a93c-1beb44eda17b.jpg?1783902782"
+  },
+  "prices": {
+    "usd": "0.35",
+    "usd_foil": "0.41",
+    "usd_etched": null,
+    "eur": "0.34",
+    "eur_foil": "0.31",
+    "tix": "0.02"
+  },
+  "cardmarket_id": 898518,
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/hob/196/swamp?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/c5f590a3-9993-4ac4-a93c-1beb44eda17b",
+  "_catalogFetchedAt": "2026-08-28T21:20:46.876Z"
+}

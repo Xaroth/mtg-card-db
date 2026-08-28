@@ -1,0 +1,18 @@
+{
+  "object": "set",
+  "id": "fbbad14d-1d42-4204-ade6-911876dc7c06",
+  "code": "slz",
+  "tcgplayer_id": 24836,
+  "name": "The Zeta Set",
+  "uri": "https://api.scryfall.com/sets/fbbad14d-1d42-4204-ade6-911876dc7c06",
+  "scryfall_uri": "https://scryfall.com/sets/slz",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aslz&unique=prints",
+  "released_at": "2026-09-02",
+  "set_type": "box",
+  "card_count": 363,
+  "digital": false,
+  "nonfoil_only": true,
+  "foil_only": false,
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/blank.svg?1787544000",
+  "_catalogFetchedAt": "2026-08-28T21:21:56.550Z"
+}

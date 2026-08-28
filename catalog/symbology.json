@@ -682,7 +682,10 @@
         "W",
         "U"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(w/u)",
+        "(u/w)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -702,7 +705,10 @@
         "W",
         "B"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(w/b)",
+        "(b/w)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -722,7 +728,10 @@
         "B",
         "R"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(b/r)",
+        "(r/b)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -742,7 +751,10 @@
         "B",
         "G"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(b/g)",
+        "(g/b)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -762,7 +774,10 @@
         "U",
         "B"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(u/b)",
+        "(b/u)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -782,7 +797,10 @@
         "U",
         "R"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(u/r)",
+        "(r/u)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -802,7 +820,10 @@
         "R",
         "G"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(r/g)",
+        "(g/r)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -822,7 +843,10 @@
         "W",
         "R"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(r/w)",
+        "(w/r)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -842,7 +866,10 @@
         "W",
         "G"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(g/w)",
+        "(w/g)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -862,7 +889,10 @@
         "U",
         "G"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(g/u)",
+        "(u/g)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -1081,7 +1111,10 @@
       "colors": [
         "W"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(c/w)",
+        "(w/c)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -1100,7 +1133,10 @@
       "colors": [
         "U"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(c/u)",
+        "(u/c)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -1119,7 +1155,10 @@
       "colors": [
         "B"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(c/b)",
+        "(b/c)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -1138,7 +1177,10 @@
       "colors": [
         "R"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(c/r)",
+        "(r/c)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -1157,7 +1199,10 @@
       "colors": [
         "G"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(c/g)",
+        "(g/c)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -1176,7 +1221,10 @@
       "colors": [
         "W"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(2/w)",
+        "(w/2)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -1195,7 +1243,10 @@
       "colors": [
         "U"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(2/u)",
+        "(u/2)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -1214,7 +1265,10 @@
       "colors": [
         "B"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(2/b)",
+        "(b/2)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -1233,7 +1287,10 @@
       "colors": [
         "R"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(2/r)",
+        "(r/2)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -1252,7 +1309,10 @@
       "colors": [
         "G"
       ],
-      "gatherer_alternates": null
+      "gatherer_alternates": [
+        "(2/g)",
+        "(g/2)"
+      ]
     },
     {
       "object": "card_symbol",
@@ -1600,5 +1660,5 @@
       "gatherer_alternates": null
     }
   ],
-  "_catalogFetchedAt": "2026-05-21T08:49:43.942Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:59.086Z"
 }

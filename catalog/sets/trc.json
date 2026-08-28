@@ -1,0 +1,23 @@
+{
+  "object": "set",
+  "id": "a38c10be-90b1-4bb9-bd74-46784a751ac3",
+  "code": "trc",
+  "mtgo_code": "trc",
+  "arena_code": "trc",
+  "tcgplayer_id": 24770,
+  "name": "Star Trek Commander",
+  "uri": "https://api.scryfall.com/sets/a38c10be-90b1-4bb9-bd74-46784a751ac3",
+  "scryfall_uri": "https://scryfall.com/sets/trc",
+  "search_uri": "https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atrc&unique=prints",
+  "released_at": "2026-11-13",
+  "set_type": "commander",
+  "card_count": 41,
+  "parent_set_code": "trk",
+  "digital": false,
+  "nonfoil_only": false,
+  "foil_only": false,
+  "block_code": "cmd",
+  "block": "Commander",
+  "icon_svg_uri": "https://svgs.scryfall.io/sets/trc.svg?1787544000",
+  "_catalogFetchedAt": "2026-08-28T21:21:56.941Z"
+}

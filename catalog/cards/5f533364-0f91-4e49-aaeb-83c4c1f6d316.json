@@ -1,0 +1,32 @@
+{
+  "catalogVersion": 1,
+  "id": "5f533364-0f91-4e49-aaeb-83c4c1f6d316",
+  "name": "Forest",
+  "set": "hob",
+  "set_name": "The Hobbit",
+  "collector_number": "198",
+  "rarity": "common",
+  "type_line": "Basic Land — Forest",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/f/5f533364-0f91-4e49-aaeb-83c4c1f6d316.jpg?1783902781",
+    "normal": "https://cards.scryfall.io/normal/front/5/f/5f533364-0f91-4e49-aaeb-83c4c1f6d316.jpg?1783902781",
+    "large": "https://cards.scryfall.io/large/front/5/f/5f533364-0f91-4e49-aaeb-83c4c1f6d316.jpg?1783902781",
+    "png": "https://cards.scryfall.io/png/front/5/f/5f533364-0f91-4e49-aaeb-83c4c1f6d316.png?1783902781",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/f/5f533364-0f91-4e49-aaeb-83c4c1f6d316.jpg?1783902781",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/f/5f533364-0f91-4e49-aaeb-83c4c1f6d316.jpg?1783902781"
+  },
+  "prices": {
+    "usd": "0.36",
+    "usd_foil": "0.43",
+    "usd_etched": null,
+    "eur": "0.41",
+    "eur_foil": "0.43",
+    "tix": "0.02"
+  },
+  "cardmarket_id": 898520,
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/hob/198/forest?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/5f533364-0f91-4e49-aaeb-83c4c1f6d316",
+  "_catalogFetchedAt": "2026-08-28T21:20:47.176Z"
+}

@@ -8,19 +8,19 @@
   "rarity": "common",
   "type_line": "Basic Land — Mountain",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1655495450",
-    "normal": "https://cards.scryfall.io/normal/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1655495450",
-    "large": "https://cards.scryfall.io/large/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1655495450",
-    "png": "https://cards.scryfall.io/png/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.png?1655495450",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1655495450",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1655495450"
+    "small": "https://cards.scryfall.io/small/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1783923807",
+    "normal": "https://cards.scryfall.io/normal/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1783923807",
+    "large": "https://cards.scryfall.io/large/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1783923807",
+    "png": "https://cards.scryfall.io/png/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.png?1783923807",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1783923807",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1783923807"
   },
   "prices": {
-    "usd": "3.01",
-    "usd_foil": "4.04",
+    "usd": "3.26",
+    "usd_foil": "5.22",
     "usd_etched": null,
-    "eur": "2.11",
-    "eur_foil": "3.65",
+    "eur": "2.46",
+    "eur_foil": "4.07",
     "tix": "0.03"
   },
   "cardmarket_id": 605040,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/neo/299/ja/mountain?utm_source=api",
   "uri": "https://api.scryfall.com/cards/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9",
-  "_catalogFetchedAt": "2026-05-21T08:48:54.579Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:06.191Z"
 }

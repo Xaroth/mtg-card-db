@@ -8,25 +8,25 @@
   "rarity": "common",
   "type_line": "Basic Land — Island",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/a/2/a22426c4-914a-4e0b-a28a-b8573b63e320.jpg?1721424517",
-    "normal": "https://cards.scryfall.io/normal/front/a/2/a22426c4-914a-4e0b-a28a-b8573b63e320.jpg?1721424517",
-    "large": "https://cards.scryfall.io/large/front/a/2/a22426c4-914a-4e0b-a28a-b8573b63e320.jpg?1721424517",
-    "png": "https://cards.scryfall.io/png/front/a/2/a22426c4-914a-4e0b-a28a-b8573b63e320.png?1721424517",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a22426c4-914a-4e0b-a28a-b8573b63e320.jpg?1721424517",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/a/2/a22426c4-914a-4e0b-a28a-b8573b63e320.jpg?1721424517"
+    "small": "https://cards.scryfall.io/small/front/a/2/a22426c4-914a-4e0b-a28a-b8573b63e320.jpg?1783910956",
+    "normal": "https://cards.scryfall.io/normal/front/a/2/a22426c4-914a-4e0b-a28a-b8573b63e320.jpg?1783910956",
+    "large": "https://cards.scryfall.io/large/front/a/2/a22426c4-914a-4e0b-a28a-b8573b63e320.jpg?1783910956",
+    "png": "https://cards.scryfall.io/png/front/a/2/a22426c4-914a-4e0b-a28a-b8573b63e320.png?1783910956",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a22426c4-914a-4e0b-a28a-b8573b63e320.jpg?1783910956",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/2/a22426c4-914a-4e0b-a28a-b8573b63e320.jpg?1783910956"
   },
   "prices": {
-    "usd": "0.70",
-    "usd_foil": "1.64",
+    "usd": "0.56",
+    "usd_foil": "1.90",
     "usd_etched": null,
-    "eur": "0.66",
-    "eur_foil": "1.01",
-    "tix": "0.91"
+    "eur": "0.57",
+    "eur_foil": "1.17",
+    "tix": "0.71"
   },
   "cardmarket_id": 774651,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/acr/103/island?utm_source=api",
   "uri": "https://api.scryfall.com/cards/a22426c4-914a-4e0b-a28a-b8573b63e320",
-  "_catalogFetchedAt": "2026-05-21T08:48:11.163Z"
+  "_catalogFetchedAt": "2026-08-28T21:20:17.935Z"
 }

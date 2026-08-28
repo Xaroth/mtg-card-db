@@ -8,25 +8,25 @@
   "rarity": "common",
   "type_line": "Basic Land — Forest",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/7/e/7e33e540-2828-46ad-a441-366552843d9c.jpg?1743205146",
-    "normal": "https://cards.scryfall.io/normal/front/7/e/7e33e540-2828-46ad-a441-366552843d9c.jpg?1743205146",
-    "large": "https://cards.scryfall.io/large/front/7/e/7e33e540-2828-46ad-a441-366552843d9c.jpg?1743205146",
-    "png": "https://cards.scryfall.io/png/front/7/e/7e33e540-2828-46ad-a441-366552843d9c.png?1743205146",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/7/e/7e33e540-2828-46ad-a441-366552843d9c.jpg?1743205146",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/7/e/7e33e540-2828-46ad-a441-366552843d9c.jpg?1743205146"
+    "small": "https://cards.scryfall.io/small/front/7/e/7e33e540-2828-46ad-a441-366552843d9c.jpg?1783907260",
+    "normal": "https://cards.scryfall.io/normal/front/7/e/7e33e540-2828-46ad-a441-366552843d9c.jpg?1783907260",
+    "large": "https://cards.scryfall.io/large/front/7/e/7e33e540-2828-46ad-a441-366552843d9c.jpg?1783907260",
+    "png": "https://cards.scryfall.io/png/front/7/e/7e33e540-2828-46ad-a441-366552843d9c.png?1783907260",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/e/7e33e540-2828-46ad-a441-366552843d9c.jpg?1783907260",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/e/7e33e540-2828-46ad-a441-366552843d9c.jpg?1783907260"
   },
   "prices": {
-    "usd": "8.32",
-    "usd_foil": "13.20",
+    "usd": "7.07",
+    "usd_foil": "13.66",
     "usd_etched": null,
-    "eur": "4.39",
-    "eur_foil": "7.80",
-    "tix": "2.99"
+    "eur": "4.64",
+    "eur_foil": "8.21",
+    "tix": "0.23"
   },
   "cardmarket_id": 817924,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/tdm/291/forest?utm_source=api",
   "uri": "https://api.scryfall.com/cards/7e33e540-2828-46ad-a441-366552843d9c",
-  "_catalogFetchedAt": "2026-05-21T08:49:16.596Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:27.205Z"
 }

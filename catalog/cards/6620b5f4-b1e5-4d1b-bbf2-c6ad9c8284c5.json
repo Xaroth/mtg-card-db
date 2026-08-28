@@ -10,38 +10,38 @@
     {
       "name": "Plains",
       "image_uris": {
-        "small": "https://cards.scryfall.io/small/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
-        "normal": "https://cards.scryfall.io/normal/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
-        "large": "https://cards.scryfall.io/large/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
-        "png": "https://cards.scryfall.io/png/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.png?1698992840",
-        "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
-        "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840"
+        "small": "https://cards.scryfall.io/small/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1783913638",
+        "normal": "https://cards.scryfall.io/normal/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1783913638",
+        "large": "https://cards.scryfall.io/large/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1783913638",
+        "png": "https://cards.scryfall.io/png/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.png?1783913638",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1783913638",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1783913638"
       }
     },
     {
       "name": "Plains",
       "image_uris": {
-        "small": "https://cards.scryfall.io/small/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
-        "normal": "https://cards.scryfall.io/normal/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
-        "large": "https://cards.scryfall.io/large/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
-        "png": "https://cards.scryfall.io/png/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.png?1698992840",
-        "art_crop": "https://cards.scryfall.io/art_crop/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840",
-        "border_crop": "https://cards.scryfall.io/border_crop/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1698992840"
+        "small": "https://cards.scryfall.io/small/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1783913638",
+        "normal": "https://cards.scryfall.io/normal/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1783913638",
+        "large": "https://cards.scryfall.io/large/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1783913638",
+        "png": "https://cards.scryfall.io/png/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.png?1783913638",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1783913638",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/6/6/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5.jpg?1783913638"
       }
     }
   ],
   "prices": {
-    "usd": "3.88",
-    "usd_foil": "8.86",
+    "usd": "3.81",
+    "usd_foil": "15.88",
     "usd_etched": null,
-    "eur": "1.63",
-    "eur_foil": "6.11",
-    "tix": "0.57"
+    "eur": "2.38",
+    "eur_foil": "7.31",
+    "tix": "0.47"
   },
   "cardmarket_id": 741071,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/rex/21/plains-plains?utm_source=api",
   "uri": "https://api.scryfall.com/cards/6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5",
-  "_catalogFetchedAt": "2026-05-21T08:49:02.473Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:13.809Z"
 }

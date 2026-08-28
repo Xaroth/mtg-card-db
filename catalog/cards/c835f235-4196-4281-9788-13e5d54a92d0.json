@@ -8,19 +8,19 @@
   "rarity": "common",
   "type_line": "Basic Snow Land — Swamp",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.jpg?1562202633",
-    "normal": "https://cards.scryfall.io/normal/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.jpg?1562202633",
-    "large": "https://cards.scryfall.io/large/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.jpg?1562202633",
-    "png": "https://cards.scryfall.io/png/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.png?1562202633",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.jpg?1562202633",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.jpg?1562202633"
+    "small": "https://cards.scryfall.io/small/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.jpg?1783933062",
+    "normal": "https://cards.scryfall.io/normal/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.jpg?1783933062",
+    "large": "https://cards.scryfall.io/large/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.jpg?1783933062",
+    "png": "https://cards.scryfall.io/png/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.png?1783933062",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.jpg?1783933062",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/8/c835f235-4196-4281-9788-13e5d54a92d0.jpg?1783933062"
   },
   "prices": {
-    "usd": "0.92",
-    "usd_foil": "5.20",
+    "usd": "0.83",
+    "usd_foil": "6.28",
     "usd_etched": null,
-    "eur": "0.68",
-    "eur_foil": "2.49",
+    "eur": "0.65",
+    "eur_foil": "2.29",
     "tix": "0.03"
   },
   "cardmarket_id": 374412,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/mh1/252/snow-covered-swamp?utm_source=api",
   "uri": "https://api.scryfall.com/cards/c835f235-4196-4281-9788-13e5d54a92d0",
-  "_catalogFetchedAt": "2026-05-21T08:48:46.184Z"
+  "_catalogFetchedAt": "2026-08-28T21:20:53.486Z"
 }

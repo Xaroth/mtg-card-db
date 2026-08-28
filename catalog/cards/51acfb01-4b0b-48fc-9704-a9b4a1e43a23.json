@@ -1,0 +1,32 @@
+{
+  "catalogVersion": 1,
+  "id": "51acfb01-4b0b-48fc-9704-a9b4a1e43a23",
+  "name": "Mountain",
+  "set": "hob",
+  "set_name": "The Hobbit",
+  "collector_number": "197",
+  "rarity": "common",
+  "type_line": "Basic Land — Mountain",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg?1783902782",
+    "normal": "https://cards.scryfall.io/normal/front/5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg?1783902782",
+    "large": "https://cards.scryfall.io/large/front/5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg?1783902782",
+    "png": "https://cards.scryfall.io/png/front/5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.png?1783902782",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg?1783902782",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/1/51acfb01-4b0b-48fc-9704-a9b4a1e43a23.jpg?1783902782"
+  },
+  "prices": {
+    "usd": "0.39",
+    "usd_foil": "0.68",
+    "usd_etched": null,
+    "eur": "0.43",
+    "eur_foil": "0.47",
+    "tix": "0.02"
+  },
+  "cardmarket_id": 898519,
+  "foil": true,
+  "nonfoil": true,
+  "scryfall_uri": "https://scryfall.com/card/hob/197/mountain?utm_source=api",
+  "uri": "https://api.scryfall.com/cards/51acfb01-4b0b-48fc-9704-a9b4a1e43a23",
+  "_catalogFetchedAt": "2026-08-28T21:20:46.975Z"
+}

@@ -8,19 +8,19 @@
   "rarity": "common",
   "type_line": "Basic Land — Mountain",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/e/b/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7.jpg?1771345140",
-    "normal": "https://cards.scryfall.io/normal/front/e/b/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7.jpg?1771345140",
-    "large": "https://cards.scryfall.io/large/front/e/b/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7.jpg?1771345140",
-    "png": "https://cards.scryfall.io/png/front/e/b/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7.png?1771345140",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7.jpg?1771345140",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/e/b/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7.jpg?1771345140"
+    "small": "https://cards.scryfall.io/small/front/e/b/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7.jpg?1783904021",
+    "normal": "https://cards.scryfall.io/normal/front/e/b/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7.jpg?1783904021",
+    "large": "https://cards.scryfall.io/large/front/e/b/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7.jpg?1783904021",
+    "png": "https://cards.scryfall.io/png/front/e/b/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7.png?1783904021",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7.jpg?1783904021",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/b/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7.jpg?1783904021"
   },
   "prices": {
     "usd": null,
-    "usd_foil": "0.89",
+    "usd_foil": "0.85",
     "usd_etched": null,
     "eur": null,
-    "eur_foil": "0.44",
+    "eur_foil": "0.56",
     "tix": null
   },
   "cardmarket_id": 873964,
@@ -28,5 +28,5 @@
   "nonfoil": false,
   "scryfall_uri": "https://scryfall.com/card/tmt/308/mountain?utm_source=api",
   "uri": "https://api.scryfall.com/cards/eb359844-c9e7-4ab2-ac5f-d426c4fe6fc7",
-  "_catalogFetchedAt": "2026-05-21T08:49:23.220Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:33.019Z"
 }

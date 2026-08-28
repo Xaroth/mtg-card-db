@@ -8,19 +8,19 @@
   "rarity": "common",
   "type_line": "Basic Land — Plains",
   "image_uris": {
-    "small": "https://cards.scryfall.io/small/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1641306232",
-    "normal": "https://cards.scryfall.io/normal/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1641306232",
-    "large": "https://cards.scryfall.io/large/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1641306232",
-    "png": "https://cards.scryfall.io/png/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.png?1641306232",
-    "art_crop": "https://cards.scryfall.io/art_crop/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1641306232",
-    "border_crop": "https://cards.scryfall.io/border_crop/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1641306232"
+    "small": "https://cards.scryfall.io/small/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1783931510",
+    "normal": "https://cards.scryfall.io/normal/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1783931510",
+    "large": "https://cards.scryfall.io/large/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1783931510",
+    "png": "https://cards.scryfall.io/png/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.png?1783931510",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1783931510",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/9/a9891b7b-fc52-470c-9f74-292ae665f378.jpg?1783931510"
   },
   "prices": {
-    "usd": "1.30",
-    "usd_foil": "1.93",
+    "usd": "1.27",
+    "usd_foil": "1.74",
     "usd_etched": null,
-    "eur": "0.63",
-    "eur_foil": "1.51",
+    "eur": "0.53",
+    "eur_foil": "1.44",
     "tix": "0.03"
   },
   "cardmarket_id": 429051,
@@ -28,5 +28,5 @@
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/thb/250/plains?utm_source=api",
   "uri": "https://api.scryfall.com/cards/a9891b7b-fc52-470c-9f74-292ae665f378",
-  "_catalogFetchedAt": "2026-05-21T08:49:16.653Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:27.428Z"
 }

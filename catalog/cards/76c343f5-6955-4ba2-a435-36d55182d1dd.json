@@ -10,38 +10,38 @@
     {
       "name": "Island",
       "image_uris": {
-        "small": "https://cards.scryfall.io/small/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
-        "normal": "https://cards.scryfall.io/normal/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
-        "large": "https://cards.scryfall.io/large/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
-        "png": "https://cards.scryfall.io/png/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.png?1698992855",
-        "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
-        "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855"
+        "small": "https://cards.scryfall.io/small/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1783913637",
+        "normal": "https://cards.scryfall.io/normal/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1783913637",
+        "large": "https://cards.scryfall.io/large/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1783913637",
+        "png": "https://cards.scryfall.io/png/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.png?1783913637",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1783913637",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1783913637"
       }
     },
     {
       "name": "Island",
       "image_uris": {
-        "small": "https://cards.scryfall.io/small/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
-        "normal": "https://cards.scryfall.io/normal/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
-        "large": "https://cards.scryfall.io/large/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
-        "png": "https://cards.scryfall.io/png/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.png?1698992855",
-        "art_crop": "https://cards.scryfall.io/art_crop/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855",
-        "border_crop": "https://cards.scryfall.io/border_crop/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1698992855"
+        "small": "https://cards.scryfall.io/small/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1783913637",
+        "normal": "https://cards.scryfall.io/normal/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1783913637",
+        "large": "https://cards.scryfall.io/large/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1783913637",
+        "png": "https://cards.scryfall.io/png/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.png?1783913637",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1783913637",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/7/6/76c343f5-6955-4ba2-a435-36d55182d1dd.jpg?1783913637"
       }
     }
   ],
   "prices": {
-    "usd": "2.45",
-    "usd_foil": "6.30",
+    "usd": "1.93",
+    "usd_foil": "5.94",
     "usd_etched": null,
-    "eur": "1.70",
-    "eur_foil": "3.78",
-    "tix": "0.64"
+    "eur": "1.64",
+    "eur_foil": "4.42",
+    "tix": "0.78"
   },
   "cardmarket_id": 743401,
   "foil": true,
   "nonfoil": true,
   "scryfall_uri": "https://scryfall.com/card/rex/22/island-island?utm_source=api",
   "uri": "https://api.scryfall.com/cards/76c343f5-6955-4ba2-a435-36d55182d1dd",
-  "_catalogFetchedAt": "2026-05-21T08:49:02.675Z"
+  "_catalogFetchedAt": "2026-08-28T21:21:13.904Z"
 }
